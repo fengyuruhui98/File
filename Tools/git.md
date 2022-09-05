@@ -18,6 +18,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@gitee.com:blsm14/file.git
 git push -u origin "master"
+git pull --rebase origin master
 ```
 已有仓库
 ```
