@@ -1,0 +1,12 @@
+CC=arm-linux-gcc
+OBJS=thread.o
+LIBS=-lpthread
+
+1:thread
+thread: $(OBJS)
+	$(CC) -o thread $(OBJS) $(LIBS) -L.
+  
+thread.o: thread.c
+	$(CC) -c thread.c -o thread.o
+clean:
+	rm -f *.o
