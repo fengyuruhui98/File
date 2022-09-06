@@ -27,9 +27,87 @@ int longestUnivaluePath(struct TreeNode* root){
 
 }
 ```
+## 简单递归(宫水三叶)
+设计递归函数 `int dfs(TreeNode root)`，含义为传入根节点 `root`，返回以该节点为起点，往下走同值路径所能经过的最大路径长度（即不能同时往左右节点走），同时使用全局变量 `max` 记录答案路径所能经过最大路径长度。
 
+在递归函数内部，先通过递归 `root` 的左右子节点，拿到以 `root.left` 和 `root.right` 为起点的最大路径长度 `l` 和 `r`，然后根据当前节点值和左右子节点值的相等关系来更新 `ans`，同时用 `cur` 维护**以当前节点 `root` 为目标路径中深度最小（位置最高）节点时**所经过的最大路径长度。
+```java
+class Solution {
+    int max = 0;
+    public int longestUnivaluePath(TreeNode root) {
+        dfs(root);
+        return max;
+    }
+    int dfs(TreeNode root) {
+        if (root == null) return 0;
+        int ans = 0, cur = 0, l = dfs(root.left), r = dfs(root.right);
+        if (root.left != null && root.left.val == root.val) {
+            ans = l + 1; cur += l + 1;
+        }
+        if (root.right != null && root.right.val == root.val) {
+            ans = Math.max(ans, r + 1); cur += r + 1;
+        }
+        max = Math.max(max, cur);
+        return ans;
+    }
+}
+```
+## 递归
+给定一棵二叉树，最长同值路径只有两种情况：
 
+- 路径经过根节点，需计算左子树部分和右子树部分与根节点同值的最长路径
+- 路径不经过根节点，路径在左子树或者右子树  
 
+以此不难想到使用递归处理，对于第二种情况直接递归处理即可，我们只需在递归中处理第一种情况  
+定义 dfs(root, val) 返回以 root 为根节点的与 val 同值的最长路径，而对于经过 root 而不经过其父节点的最长路径我们使用一个全局的变量进行记录。
+```python
+class Solution:
+    def longestUnivaluePath(self, root: Optional[TreeNode]) -> int:
+        ans = 0
+
+        def dfs(root, val=-1):
+            if not root: return 0
+            left, right = dfs(root.left, root.val), dfs(root.right, root.val)
+            nonlocal ans
+            ans = max(ans, left + right)
+            return max(left, right) + 1 if root.val == val else 0
+        
+        dfs(root)
+        return ans
+```
+```java
+class Solution {
+    int ans;
+    public int longestUnivaluePath(TreeNode root) {
+        dfs(root, -1);
+        return ans;
+    }
+
+    public int dfs(TreeNode root, int val) {
+        if (root == null) return 0;
+        int left = dfs(root.left, root.val), right = dfs(root.right, root.val);
+        ans = Math.max(ans, left + right);
+        return root.val == val ? Math.max(left, right) + 1 : 0;
+    }
+}
+```
+```C++
+class Solution {
+public:
+    int ans = 0;
+    int longestUnivaluePath(TreeNode* root) {
+        dfs(root, -1);
+        return ans;
+    }
+
+    int dfs(TreeNode* root, int val) {
+        if (root == nullptr) return 0;
+        int left = dfs(root->left, root->val), right = dfs(root->right, root->val);
+        ans = max(ans, left + right);
+        return root->val == val ? max(left, right) + 1 : 0;
+    }
+};
+```
 
 
 

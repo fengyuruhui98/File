@@ -21,7 +21,7 @@ int* finalPrices(int* prices, int pricesSize, int* returnSize){
     return prices;
 }
 ```
-## 单调栈
+## 单调栈（宫水三叶）
 若`nums[i]`存在折扣，必然是被其右边最近一个满足`nums[j]<=nums[i]`的`nums[j]`更新。反过来说，给定一个`nums[j]`，其所能更新的是其左边最近一个满足`nums[i] >= nums[j]`的`nums[i]`。  
 因此我们可以使用「单调栈」来进行求解。  
 当然，我们也能不依靠经验，而从问题的本身出发，逐步分析出该做法。  
