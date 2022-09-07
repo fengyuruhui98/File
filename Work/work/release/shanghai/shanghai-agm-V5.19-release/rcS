@@ -1,0 +1,39 @@
+#!/bin/sh
+echo "-----Below are my rcS--------"
+/etc/profile
+
+#echo "-----rcS: load mmc/sd module-----"
+#/bin/loadsd
+
+#echo "-----rcS: create some node----"
+#/bin/mknod /dev/console c 5 1
+#/bin/mknod /dev/null c 1 3
+#/bin/chmod 777 *
+
+#echo "-----mount sd card----------"
+#/bin/mount -t vfat -o iocharset=gb2312,codepage=936 /dev/zlg_fsb  /tmp/sd
+#/bin/mount -t vfat -o iocharset=gb2312,codepage=936 /dev/zlg_fsb1 /tmp/sd/block1
+
+echo "-----mount all in fstab--------"
+/bin/mount -a
+
+#echo "-----rcS: copy /bin/fczheng555.bin to /dev/fb/0-----"
+#/bin/cp /bin/fczheng555.bin  /dev/fb/0
+
+echo "-----rcS: run my own app-----"
+#/bin/hello &
+#/bin/tpmain &
+
+echo "-----check the /mnt/yaffs/shanghai exist----"
+if [ -d /mnt/yaffs/shanghai ]
+then
+	echo "shanghai reader application is exist"
+else
+	echo "copy shanghai reader application in the file system to /mnt/yaffs/shanghai"
+	cp /shanghai /mnt/yaffs -R
+	chmod 700 /mnt/yaffs/shanghai -R
+fi
+
+cd /mnt/yaffs/shanghai
+./shanghai.sh &
+

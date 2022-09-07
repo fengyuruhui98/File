@@ -1,0 +1,271 @@
+//prot_zte.c
+
+#ifndef _PROT_ZTE_C_
+#define _PROT_ZTE_C_
+//start of file
+
+ZTE_PROT gZteProt0;
+//2013/11/16 19:56:07
+#ifdef _debug_test_
+unsigned int GetTickcount()
+{
+	struct timeval tv; 
+	if(gettimeofday(&tv,NULL)!=0)
+		return 0;
+	return (tv.tv_sec*1000)+(tv.tv_usec/1000);	
+}
+
+#endif
+
+//#define _DEBUG_ZTE_COMM_
+
+/*============================================================================
+函数：
+功能：
+==============================================================================*/
+void prot_zte_init(UBYTE uart_index)
+{
+gZteProt0.rece_state = ZTE_RECE_WAIT_STX;
+gZteProt0.send_state = ZTE_SEND_IDLE;
+switch(uart_index){
+	case UART0_INDEX:
+       gZteProt0.rece_timer_index = TIMER_INDEX_UART0_RECE; 
+       gZteProt0.send_timer_index = TIMER_INDEX_UART0_SEND; 
+       break;
+	case UART1_INDEX:
+       gZteProt0.rece_timer_index = TIMER_INDEX_UART1_RECE; 
+       gZteProt0.send_timer_index = TIMER_INDEX_UART1_SEND; 
+       break;
+	default:
+       gZteProt0.rece_timer_index = TIMER_INDEX_UART2_RECE; 
+       gZteProt0.send_timer_index = TIMER_INDEX_UART2_SEND; 
+       break;
+  }
+
+gZteProt0.rece_bytes = 0;
+return;	
+}	
+
+
+/*===============================================================================
+函数：
+功能：
+=================================================================================*/
+//#define _DEBUG_PROT_ZTE_SEND_BLOCK_
+void prot_zte_send_block(UBYTE *inbuf,UWORD inbytes)
+{
+UBYTE lrc;
+UWORD i,ptr;
+UBYTE buf[512];
+//gDebugStep=0x1205;
+//uart_recebuf_clr(ZTE_UART_INDEX);
+ptr = 0;
+buf[ptr++] = ZTE_STX;
+buf[ptr++] = inbytes/256;
+buf[ptr++] = inbytes%256;
+memcpy(&buf[ptr],inbuf,inbytes); ptr+=inbytes;
+for(i=0,lrc=0;i<inbytes;i++){
+	lrc ^= inbuf[i];
+  }
+buf[ptr++] = lrc;
+buf[ptr++] = ZTE_ETX;
+//
+//
+//uart_put_bytes(ZTE_UART_INDEX,buf,ptr,200);
+	tcflush(zte_comm, TCIOFLUSH);
+	writecom(zte_comm,buf,ptr);
+	
+	#ifdef _DEBUG_ZTE_COMM_
+	//writecom(csc_comm,buf,ptr);
+	#endif
+//gDebugStep=0x1206;
+//
+//gZteProt0.send_state = ZTE_RECE_WAIT_STX;
+//20130902
+gZteProt0.send_state = ZTE_SEND_WAIT_ACK;
+timer_set(gZteProt0.send_timer_index,ZTE_WAIT_ACK_TIMEOUT);
+
+//2013/11/20 16:47:37
+gZteProt0.rece_bytes = 0;//2013/11/20 16:47:13
+memset(gZteProt0.rece_buf,0,MAX_ZTE_BUF+1);
+
+zte_processed();
+
+#ifdef _DEBUG_PROT_ZTE_SEND_BLOCK_
+debug_printf("\x0d\x0a zte send block:");
+for(i=0;i<ptr;i++){
+  if(i%16==0) debug_printf("\n");
+  debug_printf("%02X ",(UBYTE)buf[i]);	
+  }
+#endif
+
+return;	
+}	
+
+
+/*===============================================================================
+函数：
+功能：
+=================================================================================*/
+#ifdef DEBUG_PRINT
+#define _DEBUG_PROT_ZTE_RECE_PROCESS_
+#endif
+void prot_zte_rece_process(long msecond)
+{
+	
+UBYTE ch,lrc,blnTimeout, fStat;
+UWORD i;
+long ret;
+struct timeval timeout;
+fd_set readfd;
+struct timeval tv1,tv2;
+struct timezone tz1,tz2;
+
+		#ifdef DEBUG_PRINT
+			//printf("usermain_zte rece\n");
+		#endif
+		//sem_wait(&g_usermainztewait);
+/*
+if(gZteProt0.send_state == ZTE_SEND_WAIT_ACK){
+	 if(timer_check(gZteProt0.send_timer_index)){
+	 	 gZteProt0.send_state = ZTE_SEND_ERR;
+     #ifdef _DEBUG_PROT_ZTE_RECE_PROCESS_
+     debug_printf("\x0d\x0a Err:zte send err");
+	 	 #endif
+	 	 }
+	 }	
+if(is_zte_wait_process()) return;
+if((!is_zte_wait_stx())	&& timer_check(gZteProt0.rece_timer_index)){
+	 #ifdef _DEBUG_PROT_ZTE_RECE_PROCESS_
+   debug_printf("\x0d\x0a Err:rece time out,state=%d,ptr=%d",gZteProt0.rece_state,gZteProt0.rece_ptr);	 
+   #endif  
+	 goto label_err;
+	 }
+
+label_rece_loop:
+//if(uart_rece_is_empty(ZTE_UART_INDEX)) return;
+	
+//ch = uart_get_byte(ZTE_UART_INDEX);
+*/
+		FD_ZERO(&readfd);
+		FD_SET(zte_comm, &readfd);
+		timeout.tv_sec = 0;
+		timeout.tv_usec = msecond * 1000;
+	ret = select(zte_comm + 1, &readfd, NULL, NULL, &timeout);	
+	if(ret > 0)
+	{
+		blnTimeout = 0xff;
+		gettimeofday(&tv1,&tz1);
+		do{
+    		fStat = readcom(zte_comm,&ch,1);
+    		     	 
+    	if(fStat)
+    	{
+    		    #ifdef _DEBUG_ZTE_COMM_
+    		      char buff[2];
+    		      buff[0] = ch;
+   		 				writecom(csc_comm,buff,1);
+    				#endif  
+    	switch(gZteProt0.rece_state){
+    	case ZTE_RECE_WAIT_STX:
+    		   if(ch != ZTE_STX) 
+    		   	{
+    		   		//if(gGetCardInfoStep==0 )
+    		   		{
+    		   			//sem_post(&g_usermainztewait);
+    		   			return;
+    		   		}
+    		   			return;
+    
+    		   	}
+    		   gZteProt0.rece_state = ZTE_RECE_WAIT_LEN0;
+    		   gZteProt0.rece_ptr = 0;
+    		   zte_clr_send_err();
+    		   break;
+      case ZTE_RECE_WAIT_LEN0:
+      	   gZteProt0.rece_bytes = ch;
+      	   gZteProt0.rece_bytes *= 256;
+      	   gZteProt0.rece_state = ZTE_RECE_WAIT_LEN1;
+      	   break;
+      case ZTE_RECE_WAIT_LEN1:
+      	   gZteProt0.rece_bytes += ch;
+      	   #ifdef _DEBUG_PROT_ZTE_RECE_PROCESS_
+      	   //debug_printf("\x0d\x0a rece bytes=%d",gZteProt0.rece_bytes);
+      	   #endif
+      	   if(gZteProt0.rece_bytes != 0) gZteProt0.rece_state = ZTE_RECE_WAIT_DATA;
+      	   else gZteProt0.rece_state = ZTE_RECE_WAIT_LRC;	
+      	   break;  	
+      case ZTE_RECE_WAIT_DATA:
+      	   gZteProt0.rece_buf[gZteProt0.rece_ptr++] = ch;
+      	   if(gZteProt0.rece_bytes == gZteProt0.rece_ptr){
+      	   	 gZteProt0.rece_state = ZTE_RECE_WAIT_LRC;
+      	   	 break;
+      	   	 }
+      	   break;
+      case ZTE_RECE_WAIT_LRC:
+      	   for(i=0,lrc=0;i<gZteProt0.rece_bytes;i++){
+      	   	 lrc ^= gZteProt0.rece_buf[i];
+      	   	 }
+      	   if((UBYTE)lrc != (UBYTE)ch){
+      	   	 #ifdef _DEBUG_PROT_ZTE_RECE_PROCESS_
+      	   	 debug_printf("\nErr:lrc, %02X vs %02X",(UBYTE)lrc,(UBYTE)ch);
+             #endif
+      	   	 goto label_err;
+      	   	 }
+      	   #ifdef _DEBUG_PROT_ZTE_RECE_PROCESS_
+      	   //debug_printf("\x0d\x0a zte rece lrc ok");
+      	   #endif
+      	   	 
+      	   gZteProt0.rece_state = ZTE_RECE_WAIT_ETX;		 
+      	   break;	 
+      case ZTE_RECE_WAIT_ETX:
+           if(ch == ZTE_ETX){
+           	  gZteProt0.rece_state = ZTE_RECE_WAIT_PROCESS;
+           	  zte_clr_send_err();   //发送等待结束
+           	  #ifdef _DEBUG_PROT_ZTE_RECE_PROCESS_
+           	  //debug_printf("\x0d\x0a OK:zte rece");
+      	   	  #endif
+      	   	  return;
+           	  }
+    	 	  #ifdef _DEBUG_PROT_ZTE_RECE_PROCESS_
+      	  debug_printf("\x0d\x0a Err:not etx %02X",(UBYTE)ch);
+      	  #endif
+          goto label_err;
+    	default:
+    		   goto label_err;     
+      }
+    	}
+				gettimeofday(&tv2,&tz2);
+				if ((((tv2.tv_sec-tv1.tv_sec)*1000000)+tv2.tv_usec-tv1.tv_usec)>=msecond *1000)
+				{
+					blnTimeout = 0;
+				}
+		}while(blnTimeout);
+		
+	}
+	gZteProt0.send_state = ZTE_SEND_TIMEOUT;
+//timer_set(gZteProt0.rece_timer_index,ZTE_WAIT_CHAR_TIMEOUT);
+//goto label_rece_loop;
+//sem_post(&g_usermainztewait);
+
+label_err:
+	zte_rece_reset();
+#ifdef _DEBUG_PROT_ZTE_RECE_PROCESS_
+	//debug_printf("zte_rece_reset!");
+#endif 
+//goto label_rece_loop;		
+//sem_post(&g_usermainztewait);
+return;
+
+}	
+
+
+
+
+
+//end of file
+#endif
+
+
+
+

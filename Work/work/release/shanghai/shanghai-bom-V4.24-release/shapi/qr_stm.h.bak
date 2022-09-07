@@ -1,0 +1,32 @@
+#ifndef QR_STM_H
+#define QR_STM_H
+
+struct QR_STM
+{
+	//二维码头区	
+	unsigned char 	title[9];			//	二维码数据头	9	固定值：SHSTMETRO的Ascii值
+	unsigned short 	len;				//	二维码数据长度	2	发码机构公钥证书、用户区和签名的总长度
+	unsigned char 	version;			//二维码版本	1	标识申通码版本号
+	//发码机构公钥	
+	unsigned char	index;				//	中心CA公钥索引	1	
+	unsigned char 	organize[4];		//	发码机构标识	4	由发码机构唯一确定
+	unsigned char 	RFU[2];				//	保留	2	MMYY
+	unsigned char	rfu[3];				//	保留	3	
+	unsigned char	al_flag;			//	发码机构公钥签名算法标识	1	固定04：SM2
+	//用户区	
+	unsigned char 	user_id[16];		//	专业账户号	16	可由各应用专业自定义
+	unsigned char	user_uuid[10];		//	用户账户号	10	由发码机构唯一确定
+	unsigned char	type;				//	用户账户类型	1	
+	unsigned int 	generate_time;		//	二维码生成时间	4	用于表示北京时间，数值上等于从北京时间1970年1月1日0时起，到所要表示时刻所经过的秒数
+	unsigned short	valid_time;			//	二维码有效时间	2	分钟为单位
+	unsigned char	define_data[32];	//	发码机构自定义数据区	32	
+	//签名	
+	unsigned char 	sign_format;		//	签名数据格式	1	固定值0x15
+	unsigned char 	rs[64];				//	发码机构私钥签名	64	二维码中数据计算的SM签名r||s
+}__attribute__( ( packed, aligned(1) ) );
+
+
+UBYTE getinfo_QR_STM(unsigned char *data, int len);
+
+
+#endif

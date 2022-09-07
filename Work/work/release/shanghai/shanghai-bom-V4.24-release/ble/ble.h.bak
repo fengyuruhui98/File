@@ -1,0 +1,17 @@
+#ifndef BLE_YDWL_H
+#define BLE_YDWL_H
+
+unsigned char sumcheck(unsigned char *inbuf, unsigned short len);
+long ble_Insert7E(unsigned char *pbytData, int intLength);
+long ble_Delete7E(unsigned char *pbytData, int intLength);
+int bleComm(unsigned char *inbuf, unsigned char inlen, unsigned char *outbuf, unsigned short *outLen);
+
+int openBLE(unsigned char *com);
+void closeBLE();
+int bleOnline(unsigned char *inbuf, unsigned char inlen);
+int bleSend(unsigned char *inbuf, unsigned char inlen, unsigned char *backdata ,long *backdatalength);
+int bleOffline();
+
+
+
+#endif

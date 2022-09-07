@@ -1,0 +1,312 @@
+
+#include <sys/time.h>
+#include <fcntl.h>
+
+int intBLEFile;
+unsigned short bleSN;
+
+#define DEBUG_BLE
+
+/*
+仅仅除标识位和校验码之外的数据
+*/
+unsigned char sumcheck(unsigned char *inbuf, unsigned short len)
+{
+unsigned char sc = 0;
+unsigned char buf[500];
+int i, sum = 0;
+
+	memcpy(buf, inbuf, len);
+	
+	for(i = 0; i < len; i++)
+		sum += buf[i];
+		
+	sc = (unsigned char)sum;
+	
+	return sc;
+}
+
+/*
+标识位Sb	校验码Cm	版本号Vn	序列号Sn	设备类型Dt	命令类型Ct	用户数据Ud	标识位Sb
+1 byte		1 byte		1 byte		2 bytes	 	1 byte		1 byte		N byte		1 byte
+						from here
+*/
+long ble_Insert7E(unsigned char *pbytData, int intLength)
+{
+unsigned char	tempData[600], bytCheck;
+int	i, intInsertLen = 1;
+	
+	memcpy(&tempData[2], pbytData, intLength);
+	pbytData[0] = tempData[0] = 0x7e;
+	pbytData[1] = tempData[1] = sumcheck(&tempData[2], intLength);
+
+	//
+	for(i = 0; i <= intLength; i++)
+	{
+		bytCheck = tempData[i + 1];
+		if((bytCheck == 0x7e) ) 
+		{
+			pbytData[intInsertLen++] = 0x7d;
+			pbytData[intInsertLen++] = 0x02;
+			continue;
+		}
+		
+		if(bytCheck == 0x7d)
+		{
+			pbytData[intInsertLen++] = 0x7d;
+			pbytData[intInsertLen++] = 0x01;
+			continue;
+		}
+		pbytData[intInsertLen++] = bytCheck;
+	}
+	pbytData[intInsertLen++] = 0x7E;
+	
+	return intInsertLen;
+}
+
+/*
+delete the DLE 
+the data including the all data block from csc reader
+stx+len+cmd+lrc+etx
+*/
+long ble_Delete7E(unsigned char *pbytData, int intLength)
+{
+unsigned char 	bytTempData[600], bytCheck;
+int 		intDeleteLen, i;
+
+#ifdef DEBUG_BLE
+	printf("resv len %d Data : ", intLength);
+	for(i = 0; i < intLength; i++)
+		printf("%02x ", pbytData[i]);
+	printf("\n");
+#endif
+	if(pbytData[0] != 0x7E) return 0;
+	
+	memcpy(bytTempData, pbytData, intLength);
+	intDeleteLen = intLength;
+	for(i = 1; i < intLength; i++)
+	{
+		if(bytTempData[i] == 0x7D)
+		{
+			memcpy(&bytTempData[i], &bytTempData[i + 1], intLength - 1 - i);
+			if(bytTempData[i] == 0x02)
+				bytTempData[i] = 0x7E;
+			else
+				bytTempData[i] = 0x7D;
+			intDeleteLen--;
+		}
+	}
+	
+	bytCheck = sumcheck(&bytTempData[2], intDeleteLen - 3); 
+
+	//if(bytCheck == bytTempData[1])
+	{
+		memcpy(pbytData, bytTempData, intDeleteLen);
+		return intDeleteLen;
+	}
+	//else
+	{
+		return 0;
+	}
+}
+
+int bleComm(unsigned char *inbuf, unsigned char inlen, unsigned char *outbuf, unsigned short *outlen)
+{
+	unsigned char buf[300], resbuf[300], buff[10];
+	int len, lreadlen;
+	fd_set readfd, intervalfd;
+	struct timeval timeout, intervalTimeout;
+	unsigned char blnTimeout, fStat;
+	long rtn;
+	int i, ret;
+
+	if(inlen != 0)
+	{
+		memcpy(buf, inbuf, inlen);
+		len = ble_Insert7E(buf, inlen);
+	
+#ifdef DEBUG_BLE
+		printf("\nble Send len %d: Data:", len);
+		for(i= 0; i <len; i++) printf("%02x ", buf[i]);
+		printf("\n");
+#endif			
+		if(!writecom(intBLEFile, buf, len))
+		{
+			printf("write ble comm failure\n"); 
+			return 0xff;
+		}
+	}
+
+	do
+	{
+		//watchdog();
+		FD_ZERO(&readfd);
+		FD_SET(intBLEFile, &readfd);
+		timeout.tv_sec = 0;
+		timeout.tv_usec = 800000;
+		lreadlen = 0;
+		ret = select(intBLEFile + 1, &readfd, NULL, NULL, &timeout);
+		if(ret <= 0)
+		{
+			printf("select return %d\n", ret);
+			return 0xff;			
+		}
+		
+		
+		blnTimeout = 0x00;
+#ifdef DEBUG_BLE
+		printf("bleComm data comming....\n");
+#endif
+		do
+		{		
+			fStat = readcom(intBLEFile, buff, 1);
+			if(fStat)
+			{
+				resbuf[lreadlen] = buff[0];
+				lreadlen++;
+				if(lreadlen > 6)
+				{
+					if(resbuf[lreadlen - 1] == 0x7E)
+					{
+						rtn = ble_Delete7E(resbuf, lreadlen);
+						if(rtn > 0)
+						{
+							memcpy(outbuf, resbuf, rtn);
+							*outlen = rtn;
+							return 0;
+						}else
+							return 0xff;
+					}
+				} 
+			}
+			
+			//
+			FD_ZERO(&intervalfd);
+			FD_SET(intBLEFile, &intervalfd);
+			intervalTimeout.tv_sec = 0;
+			intervalTimeout.tv_usec = 1000;
+			ret = select(intBLEFile + 1, &intervalfd, NULL, NULL, &intervalTimeout);
+			if(ret > 0) continue;
+
+			return -3;
+			
+		}while(1);
+
+	}while(1);
+}
+//接口函数，包括各种设置请求
+int openBLE(unsigned char *com)
+{
+
+	intBLEFile = open_port(com);
+	if(intBLEFile < 0)
+	{
+		printf("open ble comm failure \n");
+		return -1;
+	}
+	printf("open ble sucess\n");
+	speed_set(intBLEFile, 115200);
+	parity_set(intBLEFile, 8, 1, 'n');
+	
+	bleSN = 1;
+	return intBLEFile;
+}
+
+void closeBLE()
+{
+	close_port(intBLEFile);
+}
+
+/*
+二维码数据
+*/
+int bleOnline(unsigned char *inbuf, unsigned char inlen)
+{
+unsigned char buf[100];
+unsigned char obuf[500];
+unsigned short oLen;
+int rtn;
+
+	memset(buf, 0x00, sizeof(buf));
+	
+	memcpy(buf, "\x01\x01\x00\x0c\x10", 5);
+	memcpy(&buf[1], &bleSN, 2);
+	memcpy(&buf[5], &inbuf[1], 6);
+	
+	//建立链接
+	rtn = bleComm(buf, 11, obuf, &oLen);
+	if(rtn)
+		return rtn;
+	bleSN++;
+	if((obuf[6] != 0x11) && (obuf[7] != 0x00) )
+		return 0xff;
+		
+	//安全认证--appwrong
+/*	memcpy(buf, "\x01\x01\x00\x0c\x12", 5);
+	//数据透传 L + V
+	buf[5] = 0x00;
+	buf[6] = 0x04;
+	buf[7] = 0x31;
+	memcpy(&buf[8], &inbuf[80], 4);
+	rtn = bleComm(buf, 5 + 7, obuf, &oLen);
+	if(rtn)
+	{
+		bleOffline();
+		return rtn;
+	}
+	if((obuf[6] == 0x40) && (memcmp(&obuf[7], &inbuf[17], 4) == 0) )
+*/		return 0x00;
+
+	
+	return 0xff;
+}
+
+int bleSend(unsigned char *inbuf, unsigned char inlen, unsigned char *backdata ,int *backdatalength)
+{
+unsigned char buf[100];
+unsigned char obuf[500];
+unsigned short oLen, dataLen;
+int rtn;
+
+	memset(buf, 0x00, sizeof(buf));
+	
+		
+	//发送数据
+	memcpy(buf, "\x01\x01\x00\x0c\x12", 5);
+	memcpy(&buf[5], &inbuf[0], inlen);
+	rtn = bleComm(buf, 5 + inlen, obuf, &oLen);
+	if(rtn)
+		return rtn;
+	bleSN++;
+	if((obuf[6] != 0x40) )
+		return 0xff;
+	dataLen = (obuf[7] << 8) + obuf[8];
+	if(dataLen + 8 != oLen)
+		return 0xff;
+	//应答代码
+	memcpy(backdata, &obuf[10], dataLen - 1);
+	
+	return 0;
+}
+
+int bleOffline()
+{
+unsigned char buf[100];
+unsigned char obuf[500];
+unsigned short oLen;
+int rtn;
+
+	memset(buf, 0x00, sizeof(buf));
+	
+	memcpy(buf, "\x01\x01\x00\x0c\x14", 5);
+	memcpy(&buf[1], &bleSN, 2);
+	//建立链接
+	rtn = bleComm(buf, 5, obuf, &oLen);
+	if(rtn)
+		return rtn;
+	bleSN++;
+	if((obuf[6] != 0x15) && (obuf[7] != 0x00) )
+		return 0xff;
+		
+	return 0;
+}
