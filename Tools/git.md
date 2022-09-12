@@ -278,4 +278,6 @@ git stash #冻结作业，保存在stash区
 git stash list #查看stash内容
 git stash pop #恢复并删除stash内容
 git cherry-pick <hash_val> #合并分支,如果有冲突，需要手动解决冲突，再提交
+git push -u origin master
+git pull --rebase origin master
 ```
