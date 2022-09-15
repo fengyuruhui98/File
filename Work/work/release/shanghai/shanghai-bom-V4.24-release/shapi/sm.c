@@ -86,7 +86,9 @@ unsigned short sh_id_len;
 unsigned char Ya_bak[32];
 
 	CRYPTO_set_mem_debug_functions(0, 0, 0, 0, 0);
+	#ifdef CRYPTO_MEM_CHECK_ON
 	CRYPTO_mem_ctrl(CRYPTO_MEM_CHECK_ON);
+	#endif
 	ERR_load_crypto_strings();
 	//RAND_seed(rnd_seed, sizeof rnd_seed); /* or BN_generate_prime may fail */
 	
@@ -342,7 +344,9 @@ int sm3_buf_len;
 int i;
 
 	CRYPTO_set_mem_debug_functions(0, 0, 0, 0, 0);
+	#ifdef CRYPTO_MEM_CHECK_ON
 	CRYPTO_mem_ctrl(CRYPTO_MEM_CHECK_ON);
+	#endif
 	ERR_load_crypto_strings();
 	//RAND_seed(rnd_seed, sizeof rnd_seed); /* or BN_generate_prime may fail */
 	
