@@ -14,20 +14,20 @@
 int father[N];
 void first(int n)
 {
-    for(int i=1;i<=n;i++)
-        father[i]=i;
+    for(int i = 1; i <= n; i++)
+        father[i] = i;
 }
 int find(int n)//查找根节点
 {
-	return father[n]==n?n:find(father[n]);
+	return father[n] == n ? n : find(father[n]);
 } 
 void merge(int x,int y)//判断x,y是否连通，若不连通，则使其连通。
 {
-	int fx,fy;
-	fx=find(x);
-	fy=find(y);
-	if(fx!=fy)
-		father[fx]=fy;
+	int fx, fy;
+	fx = find(x);
+	fy = find(y);
+	if(fx != fy)
+		father[fx] = fy;
 }
 ```
 为了解释并查集的原理，我将举一个更有爱的例子。 话说江湖上散落着各式各样的大侠，有上千个之多。他们没有什么正当职业，整天背着剑在外面走来走去，碰到和自己不是一路人的，就免不了要打一架。但大侠们有一个优点就是讲义气，绝对不打自己的朋友。而且他们信奉“朋友的朋友就是我的朋友”，只要是能通过朋友关系串联起来的，不管拐了多少个弯，都认为是自己人。这样一来，江湖上就形成了一个一个的群落，通过两两之间的朋友关系串联起来。而不在同一个群落的人，无论如何都无法通过朋友关系连起来，于是就可以放心往死了打。但是两个原本互不相识的人，如何判断是否属于一个朋友圈呢？  
@@ -47,7 +47,7 @@ int find(int x){//查找我（x）的掌门
 简化版：
 int find(int n)
 {
-	return father[n]==n?n:find(father[n]);
+	return father[n] == n ? n : find(father[n]);
 } 
 ```
 再来看看路径压缩算法。  
@@ -62,9 +62,9 @@ int find(int n)
 ```c
 int find(int n)
 {
-	return father[n]==n?n:father[n]=find(father[n]);
+	return father[n] == n ? n : father[n] = find(father[n]);
 } 
-```
+``` 
 
 # 并查集
 树形数据结构，处理一些不交集的合并及查询问题。 它支持两种操作：  
