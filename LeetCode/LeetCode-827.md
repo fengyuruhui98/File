@@ -37,7 +37,163 @@ void unite(int a, int b){
     size[pb] += size[pa]; 
 }
 ```
+在这道题中，相邻的 1 组成一个岛屿，因此，我们需要将相邻的 1 归到同一个集合中。这可以视为一个合并操作，不难想到用并查集来实现。
 
+第一次遍历 grid，通过并查集的 union 操作合并所有相邻的 1，并且统计每个岛屿的面积，记录在 size 数组中。
+
+再次遍历 grid，对于每个 0，我们统计相邻的四个点中 1 所在的岛屿（通过并查集的 find 操作找到所在岛屿），累加去重后的岛屿面积，更新最大值。
+
+时间复杂度 O(n^2×α(n))。其中 n 为矩阵 grid 的边长。
+```c
+int *p = (int *)malloc(sizeof(int), n);
+memset(p, 0, sizeof(int) * n);
+int * size = (int *)malloc(sizeof(int), n);
+for(int i = 0; i < n; i++) size[i] = 1;
+int find(int x){
+    if(p[x] != x){
+        p[x] = find(p[x]);
+    }
+    return p[x];
+}
+
+void unite(int a, int b){
+    int pa = find(a), pb = find(b);
+    if(pa == pb) return;
+    p[pa] = pb;
+    size[pb] += size[pa];
+}
+
+int largestIsland(int** grid, int gridSize, int* gridColSize){
+    
+}
+```
+
+
+# 方法一：并查集(ylb)
+
+并查集是一种树形的数据结构，顾名思义，它用于处理一些不交集的合并及查询问题。 它支持两种操作：
+
+查找（Find）：确定某个元素处于哪个子集，单次操作时间复杂度 O(α(n))
+合并（Union）：将两个子集合并成一个集合，单次操作时间复杂度 O(\alpha(n))O(α(n))
+其中 \alphaα 为阿克曼函数的反函数，其增长极其缓慢，也就是说其单次操作的平均运行时间可以认为是一个很小的常数。
+
+以下是并查集的常用模板，需要熟练掌握。其中：
+
+n 表示节点数
+p 存储每个点的父节点，初始时每个点的父节点都是自己
+size 只有当节点是祖宗节点时才有意义，表示祖宗节点所在集合中，点的数量
+find(x) 函数用于查找 xx 所在集合的祖宗节点
+union(a, b) 函数用于合并 aa 和 bb 所在的集合
+
+```python
+p = list(range(n))
+size = [1] * n
+
+def find(x):
+    if p[x] != x:
+        # 路径压缩
+        p[x] = find(p[x])
+    return p[x]
+
+
+def union(a, b):
+    pa, pb = find(a), find(b)
+    if pa == pb:
+        return
+    p[pa] = pb
+    size[pb] += size[pa]
+```
+在这道题中，相邻的 11 组成一个岛屿，因此，我们需要将相邻的 1 归到同一个集合中。这可以视为一个合并操作，不难想到用并查集来实现。
+
+第一次遍历 grid，通过并查集的 union 操作合并所有相邻的 1，并且统计每个岛屿的面积，记录在 size 数组中。
+
+再次遍历 grid，对于每个 0，我们统计相邻的四个点中 1 所在的岛屿（通过并查集的 find 操作找到所在岛屿），累加去重后的岛屿面积，更新最大值。
+
+时间复杂度 O(n ^ 2 × α(n))。其中 n 为矩阵 grid 的边长。  
+```python
+class Solution:
+    def largestIsland(self, grid: List[List[int]]) -> int:
+        def find(x):
+            if p[x] != x:
+                p[x] = find(p[x])
+            return p[x]
+
+        def union(a, b):
+            pa, pb = find(a), find(b)
+            if pa == pb:
+                return
+            p[pa] = pb
+            size[pb] += size[pa]
+
+        n = len(grid)
+        p = list(range(n * n))
+        size = [1] * (n * n)
+        for i, row in enumerate(grid):
+            for j, v in enumerate(row):
+                if v:
+                    for a, b in [[0, -1], [-1, 0]]:
+                        x, y = i + a, j + b
+                        if 0 <= x < n and 0 <= y < n and grid[x][y]:
+                            union(x * n + y, i * n + j)
+        ans = max(size)
+        for i, row in enumerate(grid):
+            for j, v in enumerate(row):
+                if v == 0:
+                    vis = set()
+                    t = 1
+                    for a, b in [[0, -1], [0, 1], [1, 0], [-1, 0]]:
+                        x, y = i + a, j + b
+                        if 0 <= x < n and 0 <= y < n and grid[x][y]:
+                            root = find(x * n + y)
+                            if root not in vis:
+                                vis.add(root)
+                                t += size[root]
+                    ans = max(ans, t)
+        return ans
+```
+方法二：DFS
+我们也可以通过 DFS，找到每个岛屿。  
+同一个岛屿中的所有点都属于同一个集合，我们可以用不同的 root 值标识不同的岛屿，用 p 记录每个 grid[i][j] 对应的 root 值，用 cnt 记录每个岛屿的面积。  
+遍历 grid，对于每个 0，我们统计相邻的四个点中 1 所在的岛屿（与方法一不同的是，我们这里直接取 p[i][j] 作为 root），累加去重后的岛屿面积，更新最大值。  
+时间复杂度 O(n^2)。其中 n 为矩阵 grid 的边长。
+```python
+class Solution:
+    def largestIsland(self, grid: List[List[int]]) -> int:
+        def dfs(i, j):
+            p[i][j] = root
+            cnt[root] += 1
+            for a, b in [[0, -1], [0, 1], [-1, 0], [1, 0]]:
+                x, y = i + a, j + b
+                if 0 <= x < n and 0 <= y < n and grid[x][y] and p[x][y] == 0:
+                    dfs(x, y)
+
+        n = len(grid)
+        cnt = Counter()
+        p = [[0] * n for _ in range(n)]
+        root = 0
+        for i, row in enumerate(grid):
+            for j, v in enumerate(row):
+                if v and p[i][j] == 0:
+                    root += 1
+                    dfs(i, j)
+
+        ans = max(cnt.values(), default=0)
+        for i, row in enumerate(grid):
+            for j, v in enumerate(row):
+                if v == 0:
+                    t = 1
+                    vis = set()
+                    for a, b in [[0, -1], [0, 1], [-1, 0], [1, 0]]:
+                        x, y = i + a, j + b
+                        if 0 <= x < n and 0 <= y < n:
+                            root = p[x][y]
+                            if root not in vis:
+                                vis.add(root)
+                                t += cnt[root]
+                    ans = max(ans, t)
+        return ans
+
+```
 
 
 
