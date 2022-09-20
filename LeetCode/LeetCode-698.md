@@ -5,9 +5,88 @@
 > ## 示例
 > ![图1][image]
 ```c
+#define MAX(a, b) (a > b ? a : b)
 bool canPartitionKSubsets(int* nums, int numsSize, int k){
+    int i = 0, sum = 0, ave, bigest = -1,
+    while(i < numsSize) {
+        sum += nums[i++];
+        bigest = MAX(bigest, nums[i]);
+    }
+    if(sum % k != 0) return false;
+    ave = sum / k;
+    if(ave < bigest) return false;
+
 
 }
+```
+
+
+
+
+
+
+
+
+
+
+
+```java
+class Solution {
+    int[] nums;
+    int n, tval, k;
+    Random random = new Random(20220920);
+    double hi = 1e9, lo = 1e-4, fa = 0.95;
+    int N = 600;
+    boolean ans;
+    int calc() {
+        int diff = tval * k;
+        for (int i = 0, j = 0; i < n && j < k; j++) {
+            int cur = 0;
+            while (i < n && cur + nums[i] <= tval) cur += nums[i++];
+            diff -= cur;
+        }
+        if (diff == 0) ans = true;
+        return diff;
+    }
+    void sa() {
+        shuffle(nums);
+        for (double t = hi; t > lo && !ans; t *= fa) {
+            int a = random.nextInt(n), b = random.nextInt(n);
+            if (a == b) continue;
+            int prev = calc();
+            swap(nums, a, b);
+            int cur = calc();
+            int diff = cur - prev;
+            if (Math.log(diff / t) > random.nextDouble()) swap(nums, a, b);
+        }
+    }
+```
+```c
+void swap(int a, int b){
+    int c = * a;
+    * a = * b;
+    * b = c;
+}
+
+void shuffle(int * nums, int numsSize){
+    int i;
+    for(i = 0; i < numsSize; i++) swap(nums[], nums[i - 1]);
+}
+
+bool canPartitionKSubsets(int* nums, int numsSize, int k){
+    int sum = 0, i, ave;
+    for(i = 0; i < numsSize; i++) sum += i;
+    if(sum % k != 0) return false;
+    ave = sum / k;
+    while(!ans && N-- > 0) sa();
+    return ans;
+}
+
+```
+```java
+    void shuffle(int[] nums) {
+        for (int i = n; i > 0; i--) swap(nums, random.nextInt(i), i - 1);
+    }
 ```
 
 
