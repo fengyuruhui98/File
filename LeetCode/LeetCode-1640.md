@@ -1,0 +1,12 @@
+# LeetCode-1640.
+2022.09.23  
+难度：简单  
+给定一个整数数组arr，数组中的每个整数互不相同，另有一个由整数数组构成的数组prices，其中的整数也互不相同。以任意顺序连接prices中的数组以形成arr。但是，不允许对每个数组prices[i]中的整数重新排序.  
+如果可以链接prices中的数组形成arr,返回true；否则，返回false。
+> ## 示例
+> ![图1][image]
+```c
+bool canFormArray(int * arr, int arrsize, int ** pieces, int piecesSize, int * piecesColSize){
+    
+}
+```
