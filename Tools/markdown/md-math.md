@@ -35,23 +35,23 @@ $e^{ln(x)}=x$
 # 编辑数学符号
 ## 数学符号
 Name	Display	Name
-字母上方横线	\overline{}, \bar{} or    
-字母下方横线	\underline{}	  
-字母上方波浪线	\tilde{}, \widetilde{}	 or   
-字母上方尖号^	\hat{}, \widehat{}	 or   
-字母上方箭头	\vec{}, \overleftarrow{}, \overrightarrow{}	 or  or   
-字母上方花括号	\overbrace{}	  
+字母上方横线	$\overline{hh}$, $\bar{hh}$ or    
+字母下方横线	$\underline{jj}$	  
+字母上方波浪线	$\tilde{s}$, \widetilde{}	 or   
+字母上方尖号^	$\hat{g}$, \widehat{}	 or   
+字母上方箭头	$\vec{g}$, \overleftarrow{}, \overrightarrow{}	 or  or   
+字母上方花括号	$\overbrace{s}$	  
 下方花括号	\underbrace{}	  
 字母上方点号	\dot{}, \ddot{}	 or   
 省略号	\dots, \cdots	  
-积分	\int_{}^{}	   
-双重积分	\iint	  
-行内积分	\int_{-\infty}^{+\infty} f(x) \mathrm{d}x	  
-行内积分limits模式	\int\limits_{}^{}	  
+积分	$\int_{2}^{3}$	   
+双重积分	$\iint$	  
+行内积分	$\int_{-\infty}^{+\infty}f(x)$ \mathrm{d}x	  
+行内积分limits模式	$\int\limits_{4}^{5}$	  
 行内积分display模式	\displaystyle \int_{}^{}	  
-环路积分	\oint	  
-求乘积	\prod_{}^{}	  
-根号	\sqrt[n]{x}	  
+环路积分	$\oint$	  
+求乘积	$\prod_{}^{}$	  
+根号	$\sqrt[n]{x}$	  
 # 编号  
 插入编号：  
 使用\tag指令指定公式的具体编号，并使用\label指令埋下锚点。如y=x^2 \tag{1.5a} \label{eq:test}：
@@ -64,7 +64,7 @@ Name	Display	Name
 # 方程组
 左侧花括号
 
-\begin{equation}
+\begin{equation}  
 % \begin{equation*} 加'*'去掉公式编号
 \left\{
 \begin{aligned}     %请使用'aligned'或'align*'
@@ -92,8 +92,8 @@ e^x \qquad & a \le 0
 
 
 
-编辑特殊符号
-常见希腊字母表
+编辑特殊符号  
+常见希腊字母表  
 Name	Display	Capital Case	Display	Var Case	Display
 \alpha					
 \beta					
@@ -118,11 +118,23 @@ Name	Display	Capital Case	Display	Var Case	Display
 \psi		\Psi			
 \tau					
 \iota					
-o					
-常用特殊字符表
-Name	Display	Name	Display	Name	Display	Name	Display
-\times		\div		\pm		\mp	
-\otimes		\ominus		\oplus		\odot	
+o		  
+
+常用特殊字符表  
+Name	Display	Name	Display	Name	Display	Name	Display  
+
+$\times$	
+
+$\div$
+
+$\pm$		
+
+$\mp$
+
+$\otimes$
+
+$\ominus	  
+ \oplus		\odot	
 \oslash		\triangleq		\ne		\equiv	
 \lt		\gt		\le		\ge	
 \cup		\cap		\Cup		\Cap	
@@ -140,11 +152,15 @@ Name	Display	Name	Display	Name	Display	Name	Display
 \forall		\exists		\vdots		\ddots	
 \aleph		\nabla		\imath		\jmath	
 \ell		\partial		\int		\oint	
-\uplus		\biguplus					
-其他
-Name	Display	Name	Display
-\triangleleft		\triangleright	
-\bigtriangleup		\bigtriangledown	
+\uplus		\biguplus	$			
+
+
+其他  
+Name	Display	Name	Display  
+$\triangleleft$	  
+$\triangleright$  	  
+$\bigtriangleup$    
+$\bigtriangledown$    	
 \uparrow		\downarrow	
 \leftarrow		\rightarrow	
 \Leftarrow		\Rightarrow	
@@ -160,7 +176,8 @@ Name	Display	Name	Display
 \triangle		\box	
 \diamond		\diamondsuit	
 \heartsuit		\clubsuit	
-\spadesuit			
+\spadesuit	$
+
 在线latex数学公式
 利用“在线latex数学公式”来帮助生成数学公式代码，可以帮助我们更快的完成公式的书写。
 
