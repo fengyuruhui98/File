@@ -197,7 +197,7 @@ You should also consider reading through the following web pages. They should be
     - GameDev.net: Pathfinding
 Well, that's it. If you happen to write a program that uses any of these concepts, I'd love to see it. 
 
-[其他链接][https://www.redblobgames.com/pathfinding/a-star/introduction.html]
+[其他链接](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 
 
