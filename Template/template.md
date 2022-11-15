@@ -1,8 +1,11 @@
 # Template 
->Use in monotone priority stack  
-Easy implement of queue  
-Easy implement of stack  
-Qsort compare function
+>Capture
+
+* [Use in monotone priority stack](#use-in-monotone-priority-stack)  
+* [Easy implement of queue](#easy-implement-of-queue)  
+* [Easy implement of stack](#easy-implement-of-stack)  
+* [Qsort compare function](#qsort-compare-function)
+
 
 ## Use in monotone priority stack
 ```c
@@ -130,7 +133,14 @@ struct queue{
 int cmp(const void * _a, const void * _b){
     int a = *(int *)_a, b = *(int *)_b;
     return a - b;
+    //return (*(int *)_a) - (*(int *)_b);
 }
 ```
 
-
+## Two-Qsort compare function
+```c 
+//qsort compare function
+static inline int cmp(const void *pa, const void *pb) {
+    return (*(int **)pb)[1] - (*(int **)pa)[1];
+}
+```
