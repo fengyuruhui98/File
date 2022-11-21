@@ -1,0 +1,46 @@
+# 线性表基本操作：
+> InitList(&L);  
+Length(L);  
+LocateElem(L, e);  
+GetElem(L, i);  
+ListInsert(&L, i, e);  
+ListDelete(&L, i, &e);  
+PrintList(L);  
+Empty(L);  
+DestoryList(&L);
+
+线性表定义
+```c
+typedef ElemType int;
+
+#define MaxSize 50
+typedef struct{
+    ElemType data[MaxSize];
+    int length;
+}SqList;
+
+#define InitSize 100
+typedef struct{
+    ElemType * data;
+    int MaxSize, length;
+}SqList;
+
+L.data = (ElemType *)malloc(sizeof(ElemType) * InitSize);
+```
+线性表操作基本实现
+```c
+bool ListInsert(SqList &L, int i, ElemType e){
+    if(i < 1 || < i > L.length + 1) return false;
+    if(L.length > MaxSize)return false;
+    for(int j = L.length; j >= i; j--) L.data[j] = L.data[j - 1];
+    L.data[i - 1] = e;
+    L.length;
+    return true;    
+}
+
+bool ListDelete(SqList &L, int i, ElemType & e){
+    if(i < 1 || i > L.length) return false;
+    e = L.data[i - 1];
+    for(int j = i; j < L.length; j++) L.data[]
+}
+```
