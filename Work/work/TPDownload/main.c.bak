@@ -25,7 +25,5 @@ int main(int argc, char * argv[]){
 	}else{
 		return -3;
 	}
-	
-	sleep(120);
 	return 0;
 }
