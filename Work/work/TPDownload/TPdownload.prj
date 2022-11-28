@@ -1,5 +1,6 @@
 [Project ID]
-	Signature=UE Proj: v.1
+Signature=UE Proj: v.1
+Unicode=2
 [Project Information]
 	Use Relative Directory=1
 	Relative to Project File=1
@@ -16,3 +17,10 @@
 	3=file_manager.h
 	4=Makefile
 	5=serial.c
+[FilesU]
+0=serial.h
+1=include.h
+2=file+AF8-manager.c
+3=file+AF8-manager.h
+4=Makefile
+5=serial.c
