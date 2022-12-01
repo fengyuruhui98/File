@@ -1,7 +1,0 @@
-#! /bin/sh
-
-url=https://meirentu.top/pic/263286726708
-num=17
-
-#chmod -777 test1.py
-python3 getchange.py ${url} ${num}
