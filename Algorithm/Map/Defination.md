@@ -31,3 +31,8 @@
 - 单连通（simply connected）：若 G 是有向图，如果对图 G 中任意两个顶点 u 和 v，存在从 u 到 v 的路径或从 v 到 u 的路径，则称该有向图为单连通有向图。
 
 - 弱连通（weak connected）：若 G 是有向图，如果忽略图 G 中每条有向边的方向，得到的无向 图（即有向图的基图）连通，则称该有向图为弱连通有向图。
+
+- 强连通分量（strongly connected component）：若 G 是有向图，其的极大连通子图称为 G 的强连通分量（SCC）
+
+- 弱连通分量（weak connected component）：与强联通分量相反
+
