@@ -1,5 +1,26 @@
 # Markdown插入数学公式
 
+- [Markdown插入数学公式](#markdown插入数学公式)
+- [1.在文本中插入数学公式](#1在文本中插入数学公式)
+  - [同行插入公式](#同行插入公式)
+  - [换行插入公式](#换行插入公式)
+- [2.上标或下标](#2上标或下标)
+  - [编辑单个上标或者下标](#编辑单个上标或者下标)
+  - [编辑双上标或者下标(下/上标为公式)](#编辑双上标或者下标下上标为公式)
+- [3.编辑数学符号](#3编辑数学符号)
+  - [数学符号](#数学符号)
+- [4.编号](#4编号)
+- [5.方程组 表达式 推导过程](#5方程组-表达式-推导过程)
+  - [删除符号](#删除符号)
+  - [左侧花括号](#左侧花括号)
+  - [方程组](#方程组)
+  - [公式推导](#公式推导)
+- [6.编辑特殊符号](#6编辑特殊符号)
+  - [空心字母与Fraktur字母](#空心字母与fraktur字母)
+  - [常见希腊字母表](#常见希腊字母表)
+- [7.常用特殊字符表](#7常用特殊字符表)
+
+
 # 1.在文本中插入数学公式
 ## 同行插入公式
 就像这样 
@@ -16,6 +37,7 @@ $$f(x)=ax^2+bx+c$$
 $$公式$$
 ```
 两个$$使公式居中
+
 # 2.上标或下标
 ## 编辑单个上标或者下标
 编辑公式上标使用用 ^ ，下标用_ 。
@@ -66,12 +88,18 @@ $$y = x^2 \tag{1.5a} \label{eq1}$$
 
 $$\eqref{eq1}$$
 
-# 5.方程组
-左侧花括号
-```
+# 5.方程组 表达式 推导过程
+
+## 删除符号
+
+~~
+~~删除内容~~
+
+## 左侧花括号
+$$
 \begin{equation}  
 % \begin{equation*} 加'*'去掉公式编号
-\left\{
+\left \{
 \begin{aligned}     %请使用'aligned'或'align*'
 2x + y &= 1  \\     %加'&'指定对齐位置
 2x + 2y &= 2
@@ -82,16 +110,16 @@ $$\eqref{eq1}$$
 
 % 注意：在 markdown 环境下，某些特殊字符，如'\', '*'等，会首先被 markdown 语法转义，然后再被 Latex 转义。
 % 因此有时候 '\{'需要写作'\\{'，'*'需要写作'\*'，'\\'需要写作'\\\\'等，视不同的解释环境而定
-```
+$$
 
 注：如果各个方程需要在某个字符处对齐（如等号对齐），只需在所有要对齐的字符前加上 & 符号。如果不需要公式编号，只需在宏包名称后加上 * 号。
 
-分情况讨论方程式
+## 方程组
 
-f(x) =
-\begin{cases}
-x^2 \qquad & a \gt 0 \\
-e^x \qquad & a \le 0
+f(x) =  
+\begin{cases}  
+x^2 \qquad & a \gt 0 \\  
+e^x \qquad & a \le 0  
 \end{cases}
 
 $$f(x) =
@@ -100,10 +128,42 @@ x^2 \qquad & a \gt 0 \\
 e^x \qquad & a \le 0
 \end{cases}$$
 
+## 公式推导
+有时一行放不下所有的推导过程，放到多行并使得每行的等号对齐可以大大增加可读性。下面这个例子原始形式是A，然后经过三步推导最终得到了D。以符号 & 的下一个字符进行对齐，末尾的三个反斜杠 \ 用来分割行。这里是由于markdown与mathjax的渲染有冲突才需要用三个反斜杠。
+需要效果为
+
+$$
+\begin {aligned}
+A&=B \\\
+&=C \\\
+&=D
+\end {aligned}
+$$
+
+
+源码为：
+```Latex
+$$
+\begin {aligned}
+A&=B \\\
+&=C \\\
+&=D
+\end {aligned}
+$$
+```
+
 
 # 6.编辑特殊符号  
+
+## 空心字母与Fraktur字母
+A-Z皆可用
+符号|markdown原文
+-|-
+A|$\mathbb{A}$
+B|$\mathfrak{B}$
+
 ## 常见希腊字母表  
-Name|	Display|	Capital Case	|Display|	Var Case|	Display
+Name|Display|Capital Case|Display|Var Case|Display
 -|-|-|-|-|-
 \alpha	|$\alpha$	
 \beta	|$\beta$				
@@ -134,84 +194,50 @@ o|$o$
 Name|Display|Name|Display|Name|Display|Name|Display  
 -|-|-|-|-|-|-|-
 \times|$\times$|\div|$\div$|\pm|$\pm$|\mp|$\mp$	
-\otimes		\ominus		\oplus		\odot	
-\oslash		\triangleq		\ne		\equiv	
-\lt		\gt		\le		\ge	
-\cup		\cap		\Cup		\Cap	
-\bigcup		\bigcap		\ast		\star	
-\bigotimes		\bigoplus		\circ		\bullet	
-\bigcirc		\amalg		\to		\infty	
-\vee		\wedge		\lhd		\rhd	
-\bigvee		\bigwedge		\unlhd		\unrhd	
-\sqcap		\sqcup		\prec		\succ	
-\subset		\supset		\sim		\approx	
-\subseteq		\supseteq		\cong		\doteq	
-\setminus		\mid		\ll		\gg	
-\parallel		\Join		\in		\notin	
-\propto		\neg		\ldots		\cdots	
-\forall		\exists		\vdots		\ddots	
-\aleph		\nabla		\imath		\jmath	
-\ell		\partial		\int		\oint	
-\uplus		\biguplus				
-
-
-$\times$	
-
-$\div$
-
-$\pm$		
-
-$\mp$
-
-$\otimes$
-
-$\ominus	  
- \oplus		\odot	
-\oslash		\triangleq		\ne		\equiv	
-\lt		\gt		\le		\ge	
-\cup		\cap		\Cup		\Cap	
-\bigcup		\bigcap		\ast		\star	
-\bigotimes		\bigoplus		\circ		\bullet	
-\bigcirc		\amalg		\to		\infty	
-\vee		\wedge		\lhd		\rhd	
-\bigvee		\bigwedge		\unlhd		\unrhd	
-\sqcap		\sqcup		\prec		\succ	
-\subset		\supset		\sim		\approx	
-\subseteq		\supseteq		\cong		\doteq	
-\setminus		\mid		\ll		\gg	
-\parallel		\Join		\in		\notin	
-\propto		\neg		\ldots		\cdots	
-\forall		\exists		\vdots		\ddots	
-\aleph		\nabla		\imath		\jmath	
-\ell		\partial		\int		\oint	
-\uplus		\biguplus	$			
-
+\otimes|$\otimes$|\ominus|$\ominus$|\oplus|$\oplus$|\odot|$\odot$	
+\oslash|$\oslash$|\triangleq|$\triangleq$|\ne|$\ne$|\equiv|$\equiv$	
+\lt|$\lt$|\gt|$\gt$|\le|$\le$|\ge|$\ge$	
+\cup|$\cup$|\cap|$\cap$|\Cup|$\Cup$|\Cap|$\Cap$	
+\bigcup|$\bigcup$|\bigcap|$\bigcap$|\ast|$\ast$|\star|$\star$	
+\bigotimes|$\bigotimes$|\bigoplus|$\bigoplus$|\circ|$\circ$|\bullet|$\bullet$	
+\bigcirc|$\bigcirc$|\amalg|$\amalg$|\to|$\to$|\infty|$\infty$	
+\vee|$\vee$|\wedge|$\wedge$|\lhd|$\lhd$|\rhd|$\rhd$	
+\bigvee|$\bigvee$|\bigwedge|$\bigwedge$|\unlhd|$\unlhd$|\unrhd|$\unrhd$	
+\sqcap|$\sqcap$|\sqcup|$\sqcup$|\prec|$\prec$|\succ|$\succ$	
+\subset|$\subset$|\supset|$\supset$||$\sim$|\approx|$\approx$	
+\subseteq|$\subseteq$|\supseteq|$\supseteq$|\cong|$\cong$|\doteq|$\doteq$	
+\setminus|$\setminus$|\mid|$\mid$|\ll|$\ll$|\gg|$\gg$	
+\parallel|$\parallel$|\Join|$\Join$|\in|$\in$|\notin|$\notin$	
+\propto|$\propto$|\neg|$\neg$|\ldots|$\ldots$|\cdots|$\cdots$	
+\forall|$\forall$|\exists|$\exists$|\vdots|$\vdots$|\ddots|$\ddots$	
+\aleph|$\aleph$|\nabla|$\nabla$|\imath|$\imath$|\jmath|$\jmath$	
+\ell|$\ell$|\partial|$\partial$|\int|$\int$|\oint|$\oint$	
+\uplus|$\uplus$|\biguplus|$\biguplus$|
 
 其他  
-Name	Display	Name	Display  
-$\triangleleft$	  
-$\triangleright$  	  
-$\bigtriangleup$    
-$\bigtriangledown$    	
-\uparrow		\downarrow	
-\leftarrow		\rightarrow	
-\Leftarrow		\Rightarrow	
-\longleftarrow		\longrightarrow	
-\Longleftarrow		\Longrightarrow	
-\leftrightarrow		\longleftrightarrow	
-\Leftrightarrow		\Longleftrightarrow	
-\leftharpoonup		\rightharpoonup	
-\leftharpoondown		\rightharpoondown	
-\rightleftharpoons		\S	
-\nwarrow		\nearrow	
-\swarrow		\searrow	
-\triangle		\box	
-\diamond		\diamondsuit	
-\heartsuit		\clubsuit	
-\spadesuit	$
+Name|Display|Name|Display 
+-|-|-|- 
+\triangleleft|$\triangleleft$|\triangleright|$\triangleright$  	  
+\bigtriangleup|$\bigtriangleup$|\bigtriangledown|$\bigtriangledown$   
+\uparrow|$uparrow$|\downarrow|$\downarrow$	
+\leftarrow|$\leftarrow$|\rightarrow|$\rightarrow$	
+\Leftarrow|$\Leftarrow$|\Rightarrow|$\Rightarrow$	
+\longleftarrow|$\longleftarrow$|\longrightarrow|$\longrightarrow$	
+\Longleftarrow|$\Longleftarrow$|\Longrightarrow|$\Longrightarrow$	
+\leftrightarrow|$\leftrightarrow$|\longleftrightarrow|$\longleftrightarrow$	
+\Leftrightarrow|$\Leftrightarrow$|\Longleftrightarrow|$\Longleftrightarrow$	
+\leftharpoonup|$\leftharpoonup$|\rightharpoonup|$\rightharpoonup$	
+\leftharpoondown|$\leftharpoondown$|\rightharpoondown|$\rightharpoondown$	
+\rightleftharpoons|$\rightleftharpoons$|\S|$\S$	
+\nwarrow|$\nwarrow$|\nearrow|$\nearrow$	
+\swarrow|$\swarrow$|\searrow|$\searrow$	
+\triangle|$\triangle$|\Box|$\Box$	
+\diamond|$\diamond$|\diamondsuit|$\diamondsuit$	
+\heartsuit|$\heartsuit$|\clubsuit|$\clubsuit$	
+\spadesuit|$\spadesuit$	
 
 在线latex数学公式
-利用“在线latex数学公式”来帮助生成数学公式代码，可以帮助我们更快的完成公式的书写。
+利用“[在线latex数学公式](http://latex.codecogs.com/eqneditor/editor.php)”来帮助生成数学公式代码，可以帮助我们更快的完成公式的书写。
 
-作者：阿长啊
+作者：阿长啊  
 链接：https://www.jianshu.com/p/70917dab822b
