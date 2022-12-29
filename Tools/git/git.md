@@ -257,7 +257,7 @@ git commit -m "dev three commit and fix bug"
 ```
 我们先来做个总结，然后学习本篇文章介绍的最后一个git命令-rebase，然后就和我们的远程仓库进行交互了。
 ## 总结
-```
+```shell
 git init #初始化一个仓库
 git add test.txt #把文件添加到暂存区
 git commit test.txt -m "first commit" #把暂存区的文件提交到本地仓库
@@ -279,5 +279,6 @@ git stash list #查看stash内容
 git stash pop #恢复并删除stash内容
 git cherry-pick <hash_val> #合并分支,如果有冲突，需要手动解决冲突，再提交
 git push -u origin master
+git push -f origin master #强制更新
 git pull --rebase origin master
 ```
