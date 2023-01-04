@@ -9,6 +9,7 @@
 		- [2.1 模式串和模板串](#21-模式串和模板串)
 		- [2.2 前缀后缀](#22-前缀后缀)
 		- [2.3 next数组](#23-next数组)
+		- [2.4 快速得到next数组](#24-快速得到next数组)
 	- [3 代码实现](#3-代码实现)
 		- [3.1 next数组的应用](#31-next数组的应用)
 		- [3.2 next数组的初始化](#32-next数组的初始化)
@@ -99,7 +100,7 @@ p[ ]是模板串，即比较短的字符串。（这样可能不严谨）
 ### 2.3 next数组
 在上面的例子中，我们每一次应该向右直接移动多少位是通过next数组得到的，而`next`数组是经过预处理得到的。  
 简单的来讲，`next`数组可以这样通俗地描述：  
-`next[i]`：以i为终点的后缀和从1开始的前缀相等，且长度最长。数组中存放的是这个前缀的最后一个元素的下标。（因为这样才能拼接过去）  
+`next[i]`：以i为终点的后缀和从1开始的前缀相等，且长度最长。**（子串中前k个字符恰好等于后k个字符的最大的k，也就是代表当前字符之前的字符串中，有多大长度的相同后缀）**数组中存放的是这个前缀的最后一个元素的下标。（因为这样才能拼接过去）  
 ```c
 // 伪代码形式
 next[i] = j;
@@ -108,6 +109,16 @@ p[1, j] = p[i - j + 1, i]
 还是刚刚那个：`P = abcab`
 ![image2][image2] 
 eg.对5来说，`next[5] = 2`的含义就是：`p[1 ~ 2] = p[4 ~ 5]`  
+
+### 2.4 快速得到next数组
+核心思想：**P自己与自己做匹配**  
+next数组：next[x]定义为：P[0]~P[x]这一段字符串，使得长度为k的前缀恰等于长度为k的后缀的最大的k（k不能等于自身长度）。那么我们可以考虑，从P串开头开始，逐个比较，由于前缀或后缀长度不能等于这个串的本长，两个比较字符最近时也只是相邻，故初始化head = -1， tail = 0（head表示前缀，tail表示后缀）  
+分情况讨论：  
+- 如果$head=−1$，则说明未开始或P[0]∼P[tail]没有相同前后缀，$head ++;tail++;next[tail] = head;$
+
+- 如果$P[head]=P[tail]$，两个字符相同，此时P[0]∼P[tail]最长相同前后缀的长度为$head+1$，也就是说，$next[tail+1]=head+1$，将两个指针后移指向下一位，$head ++;tail ++;$
+
+- 否则P[head]≠P[tail]，两个字符不相同，由于 head 一定小于 tail，此时next[head]必定是已知的，则令tail不变，head = next[head];，跳回到P[0]∼P[head−1]中最长相同前后缀的下一位，此时将P[tail]与P[next[head]]比较（head为执行head = next[head];前），重复这一步，直至满足head=−1或P[head]=P[tail]。
 ## 3 代码实现
 ### 3.1 next数组的应用
 有了next数组，我们每次匹配不成功时，就可以直接得出下一个跳向哪个位置，这一操作可以直接由`j = next[j]`来完成。  
@@ -188,6 +199,52 @@ int main(){
     	}
     }
     return 0;
+}
+```
+模板：[洛谷P3375](https://www.luogu.com.cn/problem/P3375)
+```c
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+using namespace std;
+
+int next[10001];
+string s,p;
+
+void GetNext(string p,int next[]) {  
+    int lp = p.length();  
+    next[0] = -1;  
+    int head = -1;  
+    for(int tail = 0;tail < lp;tail ++){
+        while (head != -1 && p[tail] != p[head])
+			head = next[head];
+		head ++;
+        next[tail + 1] = head;
+    }
+}  
+
+void KmpSearch(string s,string p) {  
+    int ls = s.length();  
+    int lp = p.length();  
+    int j = 0;   
+    for(int i = 0;i < ls;i ++){
+        while(j != -1 && p[j] != s[i])
+          j = next[j];
+        j ++;
+        if (j == lp){
+	    	cout << i - lp + 2 << endl;
+	    	j = next[j];
+		}
+    }
+}  
+
+int main() {
+	cin >> s >> p;
+	GetNext(p,next);
+	KmpSearch(s,p);
+	for (int i = 1;i <= p.length();i ++)
+	  cout << next[i] << " ";
+	return 0;
 }
 ```
 
