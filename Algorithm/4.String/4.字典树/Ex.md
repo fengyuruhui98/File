@@ -1,0 +1,3 @@
+# 1. [LeetCode-1803](../../../LeetCode/2023-%E7%99%B8%E5%8D%AF%E9%A2%98%E8%AE%B0/2023-01/LeetCode-20230105-1803%2BTrie%E6%A0%91.md)
+
+# 2. [LeetCode-1805](../../../LeetCode/2022-%E5%A3%AC%E5%AF%85%E9%A2%98%E8%AE%B0/2022-12/LeetCode-20221206-1805%2B%2B%E7%AE%80%E5%8D%95%E6%A8%A1%E6%8B%9F-trie%E6%A0%91.md)
