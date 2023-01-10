@@ -1,0 +1,1 @@
+find.exe "C:\Users\zhengdong\Desktop\File" -empty -type d -print0 | xargs.exe -0 -I {} touch "{}\.gitkeep"
