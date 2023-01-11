@@ -1,9 +1,3 @@
-#include <sys/time.h>
-#include <sys/types.h>
-#include <unistd.h>
-#include <stdio.h>
-#include <pthread.h>
-
 #ifndef SERIAL_DEBUG_PRINT
 #define	SERIAL_DEBUG_PRINT
 #endif
@@ -19,7 +13,7 @@ int serial(char * port, unsigned char *inbuf, int inlen, unsigned char *outbuf, 
 	unsigned char fStat;
 	unsigned char sendbuf[1024], serialname[20], resbuf[50], buff[100];
 	int handleFD, ret, trytime, readlen;
-	long sendlen;
+	int sendlen;
 	fd_set readfd, intervalfd;
 	struct timeval timeout, intervalTimeout;
 	
@@ -37,7 +31,7 @@ int serial(char * port, unsigned char *inbuf, int inlen, unsigned char *outbuf, 
 		if(handleFD <= 0){
 			
 			#ifdef SERIAL_DEBUG_PRINT
-			printf("open comm failure\n");
+			printf("Open serial failure, handleFD:%d, port:%c%c%c%c%c%c%c%c%c%c\n", handleFD, port[0], port[1], port[2], port[3], port[4], port[5], port[6], port[7], port[8], port[9]);
 			#endif
 			
 			return 0xff;
@@ -48,7 +42,7 @@ int serial(char * port, unsigned char *inbuf, int inlen, unsigned char *outbuf, 
 		parity_set(handleFD, 8, 1, 'n');
 		
 		#ifdef SERIAL_DEBUG_PRINT
-		printf("open comm success\n");
+		printf("Open serial success\n");
 		#endif
 		
 	}
@@ -67,17 +61,20 @@ int serial(char * port, unsigned char *inbuf, int inlen, unsigned char *outbuf, 
 		#endif
 		
 		tcflush(handleFD, TCIOFLUSH);
-		if( !writecom(handleFD, sendbuf, sendlen) ){
+		ret = writecom(handleFD, sendbuf, sendlen);
+		if(!ret){
 			
 			#ifdef SERIAL_DEBUG_PRINT
-			printf("write sendbuf failure\n");
+			printf("write sendbuf failure ret: %d, inlen:%d, sendlen:%d\n", ret, inlen, sendlen);
 			#endif
 			
 			pthread_mutex_unlock(&rd);
 			return 0xff;
 		}
+	  usleep(1000);
+		return 0;
 	}
-	
+	/*
 	do{
 		FD_ZERO(&readfd);
 		FD_SET(handleFD, &readfd);
@@ -146,7 +143,7 @@ int serial(char * port, unsigned char *inbuf, int inlen, unsigned char *outbuf, 
 			pthread_mutex_unlock(&rd);
 			return -1;
 		}while(1);
-	}while(1);
+	}while(1);*/
 }
 
 int InsertDLE(unsigned char *pbytData, int intLength){

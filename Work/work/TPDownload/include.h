@@ -15,6 +15,9 @@
 #include <asm/ioctls.h>
 #include <sys/io.h>
 #include <time.h>
+#include <pthread.h>
+#include <sys/ioctl.h>
+#include <unistd.h>
 
 #include "serial.h"
 #include "file_manager.h"

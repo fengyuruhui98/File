@@ -1,4 +1,4 @@
 #!/bin/sh
 echo "run the TPdownload application...."
-chmod 700 * -R
-./TPdownload /dev/ttyS0
+chmod 777 shanghai
+./shanghai /dev/ttyS1

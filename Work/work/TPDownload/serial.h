@@ -9,8 +9,8 @@
 #define PROT_DT_DLE   0x10
 
 int serial(char * port, unsigned char *inbuf, int inlen, unsigned char *outbuf, int outlen, short timeMs);
-int InsertXOR(unsigned char *pbytData, int intLength);
-int DeleteXOR(unsigned char *pbytData, int intLength);
+int InsertDLE(unsigned char *pbytData, int intLength);
+int DeleteDLE(unsigned char *pbytData, int intLength);
 unsigned char writecom(int fd, unsigned char *pdata, long lnglen);
 unsigned char readcom(int fd, unsigned char *pdata, long lnglen);
 void speed_set(int fd, int speed);

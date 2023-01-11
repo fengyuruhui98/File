@@ -1,12 +1,3 @@
-#include <sys/stat.h>
-#include <sys/types.h>
-#include <unistd.h>
-#include <fcntl.h>
-#include <stdio.h>
-#include <sys/types.h>  /*数据类型，比如一些XXX_t的那种*/
-#include <sys/stat.h>   /*定义了一些返回值的结构，没看明白*/
-#include <fcntl.h>      /*文件控制定义*/
-
 #ifndef FILE_DEBUG_PRINT
 #define	FILE_DEBUG_PRINT
 #endif
@@ -16,7 +7,7 @@ int fileManager(char * port){
 	long lngnum, lngPosition;
 	unsigned char buffer[500], returnbuf[500];
 	unsigned short length, returnlen;
-	int i, ret;
+	int i, ret, tail;
 	
 	intFile = fopen("./TP.tar", "rb");
 	if(intFile == NULL){
@@ -47,6 +38,10 @@ int fileManager(char * port){
   if(lngnum % 240 == 0) 
   	length = lngnum/240;
   else length = lngnum /240 + 1;
+  
+  #ifdef FILE_DEBUG_PRINT
+  printf("\nTotal:%ld packages,each package size:%d\n", (lngnum % 240 == 0 ? lngnum / 240 : lngnum /240 + 1), 240);
+  #endif
   
   //读取文件
   for(i = 1; i <= lngnum/240; i++){
@@ -87,9 +82,8 @@ int fileManager(char * port){
 	#ifdef FILE_DEBUG_PRINT
 	printf("\nTransfered %d packages, still have 1 package to send.\n", i);
 	#endif
-	
+	memset(&buffer, 0x00, 247);
 	if(lngnum % 240 != 0){
-		
 		buffer[0] = 0xf1;
   	buffer[1] = 0x00;
   	//memcpy(&buffer[2], length, 2);
@@ -99,14 +93,14 @@ int fileManager(char * port){
   	buffer[5] = (unsigned char)i;
   	buffer[4] = i >> 8;
   	
-  	buffer[6] = 0xf0;
+		tail = lngnum % 240;
+  	buffer[6] = tail;
   	
-		memset(&buffer, 0x00, 247);
-		lngPosition += 240;
+		
+		lngPosition = 240 * i;
   	fseek(intFile, lngPosition, SEEK_SET);
-		int tail = lngnum % 240;
 		fread(&buffer, sizeof(char), tail, intFile);
-		printf("\nTail package size :%d\n", tail);
+		printf("\nTail package size :%02x\n", tail);
 		printf("\nTranslating tail package:\n");
 		
 		//传送最后一个包
@@ -123,26 +117,16 @@ int fileManager(char * port){
 	fclose(intFile);
 	return 0;
 }
+int update(char * port, char * buff){
+	int ret = 0, returnlen;
+	char * returnbuffer;
+	ret = serial(port, buff, 2, returnbuffer, returnlen, 100);
+	if(ret == 0){
+		#ifdef FILE_DEBUG_PRINT
+		printf("\nSuccess: TP software update The last instruct success\n");
+		#endif
+	}else{
+		return -3;
+	}
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	  
-	  

@@ -10,12 +10,12 @@ int main(int argc, char * argv[]){
 	printf("\nTP software update Version:%02x\n", version);
 	#endif
 	
-	ret = fileManager(argv[0]);
+	ret = fileManager(argv[1]);
 	if(ret) return ret;
 		
 	memset(buf, 0x00, 30);
 	memcpy(&buf[0], "\xf2\x00", 2);
-	ret = serial(argv[0], buf, 2, returnbuf, returnlen, 100);
+	ret = update(argv[1], buf);
 	if(ret == 0){
 		
 		#ifdef FILE_DEBUG_PRINT
@@ -26,6 +26,6 @@ int main(int argc, char * argv[]){
 		return -3;
 	}
 	
-	sleep(120);
+	sleep(60);
 	return 0;
 }
