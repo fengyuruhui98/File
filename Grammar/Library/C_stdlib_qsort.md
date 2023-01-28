@@ -21,6 +21,7 @@ int cmp_int(const void *_a, const void *_b){
 	return *a - *b; 
 }
 qsort(num, 100, sizeof(num[0]), cmp_int);
+
 /*对char型数组排序*/
 int word[100];
 int cmp_word(const void *_a, const void *_b){
@@ -29,6 +30,7 @@ int cmp_word(const void *_a, const void *_b){
 	return *a - *b; 
 }
 qsort(word, 100, sizeof(word[0]), cmp_char);
+
 /*对double型数组排序*/
 double in[100];
 int cmp_double(const void* _a , const void* _b)　　//参数格式固定
@@ -41,6 +43,7 @@ int cmp_double(const void* _a , const void* _b)　　//参数格式固定
 	//而cmp的返回值是int型，因此会将这个小数返回0，系统认为是相等，失去了本来存在的大小关系
 }
 qsort(in,100,sizeof(in[0]),cmp_double);
+
 /*对字符串进行排序*/
 char word[100][10];
 int cmp_string(const void* _a , const void* _b)　　//参数格式固定
@@ -81,6 +84,9 @@ int cmp(const void *a, const void *b)
     return ((int *)a)[0] - ((int *)b)[0];
 }
 ```
+
+## 7. 结构体排序
+
 结构体排序相对简单。
 结构体的结构：
 ```c
