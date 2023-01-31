@@ -29,3 +29,21 @@ The plan will be named as "FangZhou-I" will running mainly on BaiDu net disk, it
 
 PS.if next week can not back, Sis will went to aunt alone.
 PS.talking CHN is getting less and less atractive.
+
+# 22:12 Tue, Jan 31, 2023
+
+## Cost: ￥7.00 In: ￥6000.00
+>Rail way to Sis ￥7.00
+>Housing provident fund ￥6000.00
+
+## Daily
+
+Today is Tuesday, Min Wu, that bitch want me to went Dalian ASAP, f**k off!  
+In the morning, the only egg left yesterday, boilling broken, not tasty, just give one bit, then drank a glass of TeLunSu, then went to work, and do the leetcode test, get the badge of Janurary Leetcode, then copy MinWu's VM software.  
+Fish glass noodles, the newest favorite food of these days still yummy, then when pay the bill, I found that the account had been transfered ￥500.00 now, HotMax will be a freedom place.  
+In the afternoon, I didn't get much books collected, but ordered the plane to DaLian tomorrow. It would be China Southern Airlines, CZ6522, planning to take off at 10:30 and will arrive at 11:56. I was surprised to find that now it can check in on the web, but still decided to print the ticket.  
+In the evening, after smoke, and decided not to buy XuanHeMen, I packed up and went to Sis, on the rail way, read the book of Matthew Scudder "*The sins of the fathers*", a good norvel.  
+
+PS.the food ate in Sis, the meat is really yummy.
+PS.put Sis in the gitee group, hope she will never found this. ops.
+
