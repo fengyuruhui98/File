@@ -1,6 +1,6 @@
 # 21:51 Wed, Feb 1, 2023
 
-## Cost: ￥70.40 In: ￥6000.00
+## Cost: ￥70.40 In: None
 >Rail way to PuDong Airport T2 ￥9.00
 >Rail way from DaLian ZhouShuiZi to Xi'an road ￥3.00
 >Lanch LingZhiMeiZi spicy fish bool glass noodles & cheicken bones ￥27.40 
@@ -20,3 +20,37 @@ In XuMa's song "south of the thouth hill", saids, 'you are in the grate southern
 
 PS.this weekend plan to go somewhere.
 PS.maybe CHN can come here, who knows.
+
+# 23:02 Thu, Feb 2, 2023
+
+## Cost: ￥1221.52 In: ￥1007.00
+>China Mobile ￥1.99
+>Dalian Rail way from Xi'an road to Dalian rail way building ￥4.00
+>Lanch of meats and rice ￥17.86 
+>Dalian Rail way building to xi'an road ￥4.00
+>Dinner glass noodles ￥12.40
+>Dinner barbecue ￥16.77
+>Dinner feedback ￥2.00
+>Dinner feedback ￥5.00
+>Lu's bill ￥588.75 * 2
+>Lu's back ￥1000.0
+
+## Daily
+
+Today, in the morning, the sleep was so good, like baby sleep, the breakfast tastes not bad.  
+After breakfase, went work, long trip, and a little dangerous, in the morning, not do anything, in the afternoon, do something, nothing to say, talked with CHN in video, with beautiful dress. Reconnected with Luwenshu. Tomorrow will be a tough day.
+# 23:24 Fri, Feb 3, 2023
+
+## Cost: ￥41.48 In: None
+>Dalian Rail way from Xi'an road to Dalian rail way building ￥4.00
+>Lanch of meats and rice ￥15.88 
+>Dinner spicy max ￥21.60
+
+## Daily
+
+Today, in the morning, ate some vegetable salad, some chicken meats, a glass of milk, and a banana.  
+Then went work a little later, and worked hard, busy day.  
+Tomorrow, may still need to work, maybe, hold on, on sunday, plan to outside and have fun, talked with CHN, watched some "Kuangbiao", interesting.  
+
+PS.take more six days of the hotel.
+PS.didn't pay taking the rail way from Dalian railway building to Xi'an road.
