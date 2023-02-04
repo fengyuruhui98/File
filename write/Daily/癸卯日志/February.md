@@ -39,12 +39,13 @@ PS.maybe CHN can come here, who knows.
 
 Today, in the morning, the sleep was so good, like baby sleep, the breakfast tastes not bad.  
 After breakfase, went work, long trip, and a little dangerous, in the morning, not do anything, in the afternoon, do something, nothing to say, talked with CHN in video, with beautiful dress. Reconnected with Luwenshu. Tomorrow will be a tough day.
+
 # 23:24 Fri, Feb 3, 2023
 
 ## Cost: ￥41.48 In: None
 >Dalian Rail way from Xi'an road to Dalian rail way building ￥4.00
 >Lanch of meats and rice ￥15.88 
->Dinner spicy max ￥21.60
+>Dinner spicy mixed ￥21.60
 
 ## Daily
 
@@ -54,3 +55,22 @@ Tomorrow, may still need to work, maybe, hold on, on sunday, plan to outside and
 
 PS.take more six days of the hotel.
 PS.didn't pay taking the rail way from Dalian railway building to Xi'an road.
+
+# 23:59 Sat, Feb 4, 2023
+
+## Cost: ￥80.48 In: None
+>Dalian Rail way from Xi'an road to Dalian rail way building ￥4.00
+>Lanch of meats and rice ￥17.88 
+>Dinner Sis&Bro potato glass noodles ￥21.60
+>Ice younger ￥18.00
+>Xuanhemen ￥19.00
+
+## Daily
+
+Morning, nearly ate the Dalian native food Menzi, but not. Just some meat, vegetables, and two glasses of milk.  
+Busy day, f**ked Chenjingpeng, have to work saturday, but left early, at 5:00 pm, take the employee train, no pay for the ticket, when get Xi'an road station, went to ate Sis&Bro glass noodles with LiuQing, then when to Xi'an road night market, so hot underground, many barbecue, so hot, and there was a place with camp, awsome. then bought Ice yourger, tasty.
+No talking with CHN, and a beauty bitch send message to me, of course ignored it.
+
+PS.the peace square is so close to star sea square, tomorrow plan to went to star sea square.
+PS.tomorrow eat sweet dumplings. 
+
