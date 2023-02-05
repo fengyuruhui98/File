@@ -74,3 +74,21 @@ No talking with CHN, and a beauty bitch send message to me, of course ignored it
 PS.the peace square is so close to star sea square, tomorrow plan to went to star sea square.
 PS.tomorrow eat sweet dumplings. 
 
+# 22:53 Sun, Feb 5, 2023
+
+## Cost: ￥46.48 In: ￥7599.82
+>Bus from Hotel to Dalian star sea square ￥0.88
+>Bus back from Dalian zoo south to star sea square ￥1.00
+>Bus from star sea square to hotel ￥1.00
+>Lanch of spicy mix and rice ￥21.60 
+>Dinner Sweet dumplings ￥21.00
+>LOLm ￥1.00
+>Salary ￥7599.82
+
+## Daily
+
+In the morning, ate sweet dumplings not the black sesame but the peanut, and some food, then take some rest at hotel, then went to Star sea square, tired, so far, saw the seagulls, many of them, then went to golden beach, saw the sea.  
+In the afternoon, planned to sea the firework, but decided to stay at hotel.
+
+PS.tomorrow will went to work, f**k.
+PS.pay much time at the soul app.
