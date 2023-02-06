@@ -92,3 +92,20 @@ In the afternoon, planned to sea the firework, but decided to stay at hotel.
 
 PS.tomorrow will went to work, f**k.
 PS.pay much time at the soul app.
+
+# 23:55 Mon, Feb 6, 2023
+
+## Cost: ￥38.00 In: None
+>Dalian Rail way from Xi'an road to Dalian rail way building ￥4.00
+>Lanch of rice at the canteen ￥10.00 
+>Dalian Rail way building to xi'an road ￥4.00
+>Dinner dumplings and cold dish￥20.00
+
+## Daily
+
+Today, I was addicted in the norvel "Begin from the red moon", morning, ate at the hotel, then went to work, so f\*\*king lazy Liuqing, came late, f\*\*k him.
+Noon, with Liuye gave ￥200 in cash so we finally can ate at the employee canteen, not bad, then the afternoon, not work too much.  
+F**k Wumin, then at eve, went back, and ate the dumplings nearby the hotel, at a 24 hours restaurant, then back to the hotel.  
+In the eve, thought about invite CHN coming here to play around. Later. Then control myself not to ate more.
+
+PS.F**k Wumin&Chenjingpeng
