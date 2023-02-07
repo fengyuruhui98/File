@@ -109,3 +109,20 @@ F**k Wumin, then at eve, went back, and ate the dumplings nearby the hotel, at a
 In the eve, thought about invite CHN coming here to play around. Later. Then control myself not to ate more.
 
 PS.F**k Wumin&Chenjingpeng
+
+# 23:56 Tue, Feb 7, 2023
+
+## Cost: ￥67.89 In: None
+>Dalian Rail way from Xi'an road to Dalian rail way building ￥4.00
+>Lanch of rice & meats ￥17.89
+>Dalian Rail way building to xi'an road ￥4.00
+>Dinner Sis&Bro glass noodles￥18.00
+>Baking food ￥24.00
+
+## Daily
+
+F\*\*king busy day, in the morning, ate at hotel, then went to work, Liuqing didn't went tearly, and didn't gave us the card of the canteen, order the takeaway food, F\*\*k LaoLei, pretend to knew everything.  
+In the afternoon, do some works, and made a call with Mom, then went back at 18:30, went to the underground market, ate the noodles, then on the way back, Liuqing pay for the milk tea, and bought some baking foods. 
+
+PS.first time to know that the cream puff inject cream before ate, not far before.
+PS.CHN reject the invitation to come here with me.
