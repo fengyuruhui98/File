@@ -126,3 +126,19 @@ In the afternoon, do some works, and made a call with Mom, then went back at 18:
 
 PS.first time to know that the cream puff inject cream before ate, not far before.
 PS.CHN reject the invitation to come here with me.
+
+# 23:55 Wed, Feb 8, 2023
+
+## Cost: ￥70.50 In: None
+>Dalian Rail way from Xi'an road to Dalian rail way building ￥4.00
+>Lanch of rice at canteen ￥10.00
+>Dinner Sis&Bro glass noodles￥18.00
+>Duck food ￥38.50
+
+## Daily
+
+In the morning, ate at hotel, then wait for LiuQing went to the rail way buildings, noon ate at the canteen, used ￥8.00, but pay Liuqing ￥10.00, In the afternoon do the work, and nearly got it but found that the SC code had problem with dealing with the MLC Posts. F**k Chenjingpeng.  
+Then when back to the hotel at about 19:30, ate the Sis&Bro still, then bought some duck food, so f**king day.  
+
+PS.made an argument with CHN, that because she seems don't care where I am, F**k off.
+PS.the business trip had been delayed about 10 days, today forgot to delay the hotel, but remebered to book for one more day.
