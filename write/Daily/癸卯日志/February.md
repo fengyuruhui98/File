@@ -142,3 +142,20 @@ Then when back to the hotel at about 19:30, ate the Sis&Bro still, then bought s
 
 PS.made an argument with CHN, that because she seems don't care where I am, F**k off.
 PS.the business trip had been delayed about 10 days, today forgot to delay the hotel, but remebered to book for one more day.
+
+# 23:28 Thu, Feb 9, 2023
+
+## Cost: ￥54.96 In: None
+>Dalian Rail way from Xi'an road to Dalian rail way building ￥4.00
+>Lanch of rice at canteen ￥10.00
+>Takeaway foods coupon ￥11.00
+>Dinner Barbecue ￥29.96
+
+## Daily
+
+Morning, ate at the hotel, not much, then went to the rail way buildings, so f**king doormen, made the phone call from Liuye before got into the zone, Lishuisheng said that I can take the train to the warehouse, tomorrow maybe.  
+Busy day, and ate the chicken and glass noodles at the canteen, then work in the afternoon, spoke with Laolei, F**k him, then back late at about 18:30, there was no out warehouse train anymore, then not pay for the train.  
+Dinner booked the takeaway foods of barbecue, bad.  
+After ate the dinner, take part in the meeting, then talked to Wumin, that this sunday I may have my own time.
+
+PS.no talk between me and CHN.
