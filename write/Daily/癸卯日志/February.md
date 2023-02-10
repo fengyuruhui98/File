@@ -159,3 +159,21 @@ Dinner booked the takeaway foods of barbecue, bad.
 After ate the dinner, take part in the meeting, then talked to Wumin, that this sunday I may have my own time.
 
 PS.no talk between me and CHN.
+
+# 23:47 Fri, Feb 10, 2023
+
+## Cost: ￥59.10 In: None
+>Lanch of rice at canteen ￥10.00
+>Dinner Sis&Bro glass noodles￥18.00
+>Chicken leg ￥12.10
+>Xuanhemen ￥19.00
+
+## Daily
+
+Morning, sleep late, but toke the rail way to the building, and obviously didn't cost any money.  
+In the noon ate the sweet and sour fish with meats at the canteen, in the afternoon, after spoke loud with Laolei, left to take the last train back. Liuqing left at 15:30, backed home. F**k.  
+Tomorrow will be Saturday, but still have to go to the buildings, f**k, but asked Wumin Last night at that meeting, that I don't have to work at Sunday which made me feel better.
+At night, ate the Sis&Bro glass noodles, then bought a chicken leg, tasty, then made the phone call with mom and sis, then join the meeting.
+
+PS.CHN backed to Beijing, and found the eyeshadow palette at the dormitory.
+PS.washed the clothes.
