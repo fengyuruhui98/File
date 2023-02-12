@@ -177,3 +177,43 @@ At night, ate the Sis&Bro glass noodles, then bought a chicken leg, tasty, then 
 
 PS.CHN backed to Beijing, and found the eyeshadow palette at the dormitory.
 PS.washed the clothes.
+
+# 23:20 Sat, Feb 11, 2023
+
+## Cost: ￥59.10 In: None
+>Lanch of rice at canteen ￥10.00
+>Dinner fried noodles ￥27.00
+
+## Daily
+Morning, ate at the hotel, then went to work, so happy people work at Saturday, it feeled so bad, then planned to take the rail way to the building, while found that it wasn't 8:59 at Saturday, much early. so walked to the building from Yaojia.  
+Afternoon, ate the fried chicked, then worked on the SQL, which costed much time.  
+At night, arrived Xi'an road at about 18:30, then bought some fried noodles, with some meats. 
+Tomorrow, plan not to work but to see the Prison and other places.
+
+PS.no talk with CHN
+PS.do the test at leetcode.
+
+# 23:20 Sun, Feb 12, 2023
+
+## Cost: ￥124.07 In: None
+>Health insurance ￥2.08
+>Taked the rail way to LvShun station ￥7.00
+>Back from LvShun station ￥7.00
+>Take the bus from LvShun to the Japanese-Russian prison ￥1.00
+>Lanch ate the fish noodles ￥18.00
+>Chuanguandong base tickets ￥30.00
+>Take the taix from the prison to the Chuangguandong movie base ￥11.99
+>Take the bus from the base to the rail way station ￥1.00
+>Duck foods ￥36.50
+>Dinner instant noodles & Pepsi-Cola ￥9.50
+
+## Daily
+Today, ate the breakfast at the hotel, then decided not to work today, at about 9:50 left the hotel ahead for the LvShun Japanese-Russian prison. On the way to the LvShun rail way station, saw many villas which is really beautiful. I like the yellow grass cover on the ground, and the trail were really clean, with black pitch covered on them, not much people, looks like the northern europe style, cold and cheerless, building of dream. 
+When got then Lvshun rail way station, it was about 12:30am, when waiting for the bus, I met a family, the mother, the son, and the mother's mother who was smoking on the bus platform. The family destinated the same place with me. For the son's homework which is writing an article about the travel, at the platform I sended a message to CHN, while she just ended an exam.  
+It cost me over thirty minutes waited for the bus, then I got there, after booked a ticket on the internet and waited for all people got into it, we access into the prison, the prison was builed by the Russians, and been taken by Japanese at 1930s. 
+When we got into it, a cat was wandering on the execution yard, the cell is so small, and every movement must going in such small cells while about six or seven people around you. 
+Then went to ate the fish noodles, not good. 
+After visited the Chuangguandong base, I backed home.
+
+PS.then day is a hard day.
+PS.mother f**ker Japanese, it is a race should be genocide.
