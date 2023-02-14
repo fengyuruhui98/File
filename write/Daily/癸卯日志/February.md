@@ -217,3 +217,37 @@ After visited the Chuangguandong base, I backed home.
 
 PS.then day is a hard day.
 PS.mother f**ker Japanese, it is a race should be genocide.
+
+# 23:49 Mon, Feb 13, 2023
+
+## Cost: ￥35.10 In: None
+>Bus from rail way building to hotel ￥1.00
+>Lanch at the canteen ￥10.00
+>Dinner spicy mix ￥25.10
+
+## Daily
+Morning, ate at the hotel, then went to work, busy morning, do much works. And it seems like that then don't like I left at sunday. F**k off.
+The noon is still busy, then at about 17:40 pm we left. And on the way to the rail station, Shuisheng found that his phone left at the building, then we went back to the building. 
+When I got hotel, I talked with the waiters that tomorrow is lovers' day I wondered if I can book the hotel cheaper, yes, of course,
+F**ked Liuqing, told me to book to tomorrow.
+
+PS.talked with CHN, one day after her one day exam.
+
+# 23:58 Tue, Feb 14, 2023
+
+## Cost: ￥50.19 In: None
+>Tow bottles of cola ￥4.40
+>Lanch at the canteen ￥10.00
+>Dinner Zhangliang spicy mix ￥16.79
+>Xuanhemen ￥19.00
+
+## Daily
+Moning, after ate at the hotel, I left the canteen, then the little sister of the hotel got my room into the zero pressure big room. Started my good mood of the day. Then ahead for the work place. 
+The noon ate at the building canteen the fish and the potatoes yummy. 
+Then bought two bottles of cola, really cheap. F\*\*k Liuye, son of b\*\*ch, told Wumin that we left too early, but left him behind.
+F**k him. 
+Then ate dinner at the buildings. Ordered the takeaway food of the Zhangliang spicy mix, then go ahead home at 20:00pm. 
+On the way home, missed family very much.
+
+PS.today is lovers' day, CHN send me a photo, which is seems like staying with another guy. forget them.
+PS.miss family.
