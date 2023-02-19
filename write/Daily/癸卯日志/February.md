@@ -251,3 +251,86 @@ On the way home, missed family very much.
 
 PS.today is lovers' day, CHN send me a photo, which is seems like staying with another guy. forget them.
 PS.miss family.
+
+# 23:59 Wed, Feb 15, 2023
+
+## Cost: ￥70.30 In: None
+>One bottles of cola ￥2.20
+>Lanch at the canteen ￥10.00
+>Dinner Zhangliang spicy mix ￥17.10
+>Mobil phone fee ￥50.00
+>Bus from rail way building to hotel ￥1.00
+
+## Daily
+Morning, got up late and found that I am not the only one got up late, Liuqing met me at the canteen. Then missed the rail way back to the warehouse, then we walked to the building. 
+Noon, ate at the canteen, the food today still tasty. Then worked the afternoon, nothing more to say.
+Last night, CHN said there was a guy that loved her send a photo at friendship circle, that the girl on the photo looks very like her. So she also send some self photo, and with others said the girl on the picture looks like her. Shit. 
+Then at night, when I asked if she would like to come here, she rejected. 
+We were done. 
+
+PS.the exam result came out today.
+PS.no more with CHN.
+
+# 23:54 Thu, Feb 16, 2023
+
+## Cost: ￥3426.32 In: None
+>Elema ￥10.00
+>One bottles of cola ￥2.20
+>Lanch at the canteen ￥10.00
+>Dinner Zhangliang spicy mix ￥20.10
+>Rent house ￥1730.00
+>Cup ￥55.41
+>Return rent JingDong ￥1608.61
+
+## Daily
+Morning, ate at the hotel, then went to work with my mark cup, then, went to work, the woman at the rail way station rejected me to get into the station, then got at another way, at noon, Wumin & Shenweilong got here, and Shen pay for the money to the card. 
+At night left at 21:00, and got home at 22:00.  
+Today, asked Wumin, if I can rest at Sat & Sun. Wu said yes.
+
+PS.CHN may talked with someone else about us, no more.
+PS.send some photoes.
+
+# 23:59 Fri, Feb 17, 2023
+
+## Cost: ￥38.30 In: None
+>Dinner spicy mix ￥17.10
+>Cola ￥2.20
+>Xuanhemen ￥19.00
+
+## Daily
+Morning， ate at the hotel, the noodles tasted good, with some ostreidaes. Then got the building at 9:16 when Wumin had already got there.  
+Noon ate at the canteen, fast ate, which takes about 5 minutes, then the afternoon join a meeting, f**k those people, then Chenjingpeng put some his own work on me. F\*\*k him.  
+At night back home at about 21:00, Wumin said that I could not coming tomorrow. F**k him.
+
+PS.no talking with CHN.
+PS.the email with photoes send wrong to Lijunzhuo.
+
+# 23:59 Sat, Feb 18, 2023
+
+## Cost: ￥39.90 In: None
+>Rail way from hotel to the building & back ￥8.00
+>Dinner spicy mix ￥17.10
+>Milk bought at the Rosen ￥19.30
+>Instant noodles ￥5.50
+
+## Daily
+Morning, ate at the hotel, then take the shower and went to work at about 11:00, took the rail way paied by myself, then worked the whole day, then backed hotel at about 21:00 when we got outside, found snow flowed down on the ground, the wind was so big that throw the snow in to the sky and down, and up and down, then Shenweilong ordered a texi, we take the car to the rail way station. 
+When arrived at the xi'an road, Liuqing and I went to find something to eat on the street, only found that there was all barbecues.  
+Then, went to the Rosen and bought some milk, and the instant noodles.  
+
+PS.no talking with CHN.
+PS.write this at 2.20.
+
+# 23:59 Sun, Feb 19, 2023
+
+## Cost: ￥54.38 In: None
+>Rail way from hotel to the building & back ￥8.00
+>Duck foods ￥39.38
+>Milk tea ￥7.00 
+
+## Daily
+Morning, ate at the hotel, then wait Liuqing drinking coffee, then went to work at about 11:00, then worked the afternoon, and at about six, went to ate paid by Yang, at a locoal restaurant, dumplings, then went back. 
+On the way, Wumin said I can order the hotel at HantingUjia, but I rejected him, and ordered the water bed room at Quanji xi'an road peace square. 
+In the morning , I found my photo of the sunset down on the reeds. 
+
+PS. bought the duck foods with Liuqing.
