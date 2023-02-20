@@ -334,3 +334,17 @@ On the way, Wumin said I can order the hotel at HantingUjia, but I rejected him,
 In the morning , I found my photo of the sunset down on the reeds. 
 
 PS. bought the duck foods with Liuqing.
+
+# 23:59 Mon, Feb 20, 2023
+
+## Cost: ￥54.38 In: None
+>Rail way from hotel to the building & back ￥4.00
+>Pizza ￥16.78
+>Instant noodles ￥15.00 
+
+## Daily
+F**k Liuye, son of bitch, the work is so hard.  
+Morning, ate at the canteen of the hotel, then waited for Liuqing, f**k, then went first, he will leave at Wen, and I have to stay.  
+It's really near to went outside to get something to ate, but ended nothing, the work is so boring and tired, and little money, f**k.
+
+PS.no talk with CHN.
