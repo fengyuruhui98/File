@@ -348,3 +348,47 @@ Morning, ate at the canteen of the hotel, then waited for Liuqing, f**k, then we
 It's really near to went outside to get something to ate, but ended nothing, the work is so boring and tired, and little money, f**k.
 
 PS.no talk with CHN.
+
+# 23:55 Tue, Feb 21, 2023
+
+## Cost: ￥26.00 In: None
+>Rail way from hotel to the building ￥4.00
+>Back from the building to Huanan square ￥2.00 & ￥3.00
+>Xuanhemen ￥19.00 
+
+## Daily
+Morning, I got up late , with no shower last night. When I got the canteen, I met Liuqing at the canteen. Then, got to the building late at about 10:30, boring work.
+In the afternoon, in case that Liuye wasn't there we left for the Jeff's food, which tasted really good, and the resturant is located at Huanan square, Liuqing will leave tomorrow, a little uncomfortable.
+
+PS.CHN send me a message.
+PS.the score will get out today. 
+
+# 23:55 Wed, Feb 22, 2023
+
+## Cost: ￥32.18 In: None
+>coffee & cookies ￥17.00
+>spicy mix ￥15.18
+
+## Daily
+Morning, ate at the hotel, Liuqing left today, went alone. Then worked the morning, at noon, didn't bought much to ate, only got some coffee, and cookies, then work the afternoon, didn't call home, because I don't want them to know that I failed again.
+Then, at night some one send me a message said that a girl left me a message to recept. But let me wait until the right time coming.  
+Shit it would be no better than came from WT, but I know that was impossiable.  
+The most lossing thing in the hole world is that you can't have what you desire even just one second.
+
+PS.CHN send message to me about her video of the final paper. We made a phone call about two hours. 
+
+# 23:55 Tue, Feb 23, 2023
+
+## Cost: ￥51.00 In: None
+>coffee & cookies ￥20.10
+>rail way back hotel ￥4.00
+>duck foods ￥26.90
+
+## Daily
+Morning, met Shuisheng at the canteen, and we left together, but he was asked to go to the Ganjingzi station, and still I go ahead alone. 
+Good news was that Wumin & Shenweilong was going leave tomorrow, and the bad news was that Chenjingpeng will coming tomorrow.  
+Then then leave message I didn't got yesterday is still on the way.  
+And at night, after we ate at the building, Wumin release me to back to the hotel at 19:30pm, shit, planned to get my hair cut, but the plan never comes to the changes.  
+
+PS.also a two hours talk with CHN.
+PS.these days, Liaoning province is holding the exam of the civil servent. The price of the hotel flows up and Shuisheng must to order seven days.  
