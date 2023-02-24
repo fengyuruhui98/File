@@ -1790,6 +1790,20 @@ if (_usr.LineNid != "00")
     strSQL.AppendFormat(@" and CCDB_LIB.F_SYS_GETLINENIDBYSTATION(IN_NID) = '{0}' ", _usr.LineNid);
 }
 ```
+Param.AFC_UC_ViewEdit.cs line262
+```c#
+ AFC_LoginUser _usr = AFC_LoginUser.CurrentUser;
+string strSQL = "";
+if (_usr.LineNid != "00")
+{
+    strSQL += string.Format(@"SELECT LINE_NID NID, LINE_NAME ParamRange FROM TBL_SS_MLC_LINE where substr(line_nid,1,2) = '{0}'",_usr.LineNid);
+}
+else 
+{
+    strSQL = @"SELECT LINE_NID NID, LINE_NAME ParamRange FROM TBL_SS_MLC_LINE ";
+}
+```
+
 ## LCC.MN监控管理子系统
 ### 系统监控
 线路监控 已修改  -
@@ -1926,4 +1940,101 @@ PM0304  已修改
 SS.0101.User.cs line1161
 ```c#
 _ds_LineStation = AFC_SystemDSString.GetKeyValuePairs(DSString.HHJTStations);
+```
+
+Param.AFC_UC_ViewEdit.cs line228
+```c#
+
+string strSQL = "";
+AFC_LoginUser _usr = AFC_LoginUser.CurrentUser;
+if (_usr.LineNid != "00")
+{
+    strSQL += string.Format(@"SELECT STATION_NID||'6121' NID, STATION_NID||'-'||STATION_NAME_CN ParamRange 
+FROM TBL_SS_STATION_INFO where line_id in (select SUBSTR(LINE_NID,1,2) from tbl_ss_mlc_line where substr(line_nid,1,2) = '{0}') UNION ALL SELECT SPECIAL_STATION_NID||'6121' NID, SPECIAL_STATION_NID||'-'||STATION_NAME_CN ParamRange 
+FROM TBL_SS_SPECIAL_STATION where special_line_nid in (select SUBSTR(LINE_NID,1,2) from tbl_ss_mlc_line where substr(line_nid,1,2) = '{0}')", _usr.LineNid);
+}
+else
+{
+    strSQL = @"SELECT STATION_NID||'6121' NID, STATION_NID||'-'||STATION_NAME_CN ParamRange 
+FROM TBL_SS_STATION_INFO where line_id in (select SUBSTR(LINE_NID,1,2) from tbl_ss_mlc_line) UNION ALL SELECT SPECIAL_STATION_NID||'6121' NID, SPECIAL_STATION_NID||'-'||STATION_NAME_CN ParamRange 
+FROM TBL_SS_SPECIAL_STATION where special_line_nid in (select SUBSTR(LINE_NID,1,2) from tbl_ss_mlc_line)";
+}
+```
+
+# 角色树选择更改
+UI.TreeViewModel.cs line301
+```c#
+public static List<SelectedTreeViewModel<SelectedTreeViewFunction>>
+CreateTreeViewByFuncInfoList(List<IFunctionInfo> listData, int temp)
+{
+    List<SelectedTreeViewModel<SelectedTreeViewFunction>> views = new List<SelectedTreeViewModel<SelectedTreeViewFunction>>();
+    foreach (var item in listData.Where(d => d.ParentFuncId == temp))
+    {
+        views.Add(GenerateTree(listData, item));
+    }
+
+    foreach (var item in views)
+    {
+        item.Initialize();
+
+    }
+
+    return views;
+}
+```
+SS.0102.Role.cs line870
+```c#
+var v = FunctionUtil.GetFunc();
+AFC_LoginUser _usr = AFC_LoginUser.CurrentUser;
+if (_usr.LineNid != "00")
+{
+    _treeViewFunc = SelectedTreeViewFunction.CreateTreeViewByFuncInfoList(v,_usr.LineId);
+}
+else
+{
+    _treeViewFunc = SelectedTreeViewFunction.CreateTreeViewByFuncInfoList(v);
+}
+```
+
+# 线路分中心缩小权限
+LCC.MN.cs line41
+LCC.RP.cs line34
+LCC.TK.cs line34
+
+# 线路分中心之后修改代码
+TK.0103.FaultRefund.cs line107 
+TK.0104.FaultRefund.cs line107 line376
+```c#
+strSQL.AppendFormat(" AND CCDB_LIB.F_SYS_GETLINENID(DEVICE_NID) LIKE '{0}' ", LineNid);
+```
+## 签退关闭软件
+UI.Main.WindowBase.cs line491
+```c#
+Shutdown();
+```
+LCC.MainWindow.cs 
+```c#
+protected override void Shutdown()
+{
+    _mainLCCWin.Close();
+}
+```
+Base.SystemDS.cs line336 line441 line446
+```c#
+ string lineStrSQL = "";
+string lineStrSQL1 = "";
+if (_usr.LineNid != "00")
+{
+    lineStrSQL = string.Format(@" WHERE SUBSTR(LINE_NID,1,2) = '{0}'", _usr.LineNid);
+    lineStrSQL1 = string.Format(@" WHERE SUBSTR(LINE_ID,1,2) = '{0}'", _usr.LineId);
+}
+
+
+strSQL += string.Format(@"select DEVICE_NID,'['||DEVICE_NID||']'||DEVICE_NAME from TBL_SS_DEVICE {0} order by 1",lineStrSQL);
+
+
+strSQL += string.Format(@"select DEVICE_NID,'['||DEVICE_NID||']'||DEVICE_NAME from TBL_SS_DEVICE {0}
+                        union all
+                        select SC_NID,'['||SC_NID||']'||'SC' from tbl_ss_sc_info  
+                            where line_id in (select SUBSTR(LINE_NID,1,2) from tbl_ss_mlc_line {0}) order by 1 ", lineStrSQL1);
 ```
