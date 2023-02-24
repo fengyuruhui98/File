@@ -392,3 +392,16 @@ And at night, after we ate at the building, Wumin release me to back to the hote
 
 PS.also a two hours talk with CHN.
 PS.these days, Liaoning province is holding the exam of the civil servent. The price of the hotel flows up and Shuisheng must to order seven days.  
+
+# 20:45 Fri, Feb 24, 2023
+
+## Cost: ￥ In: None
+>dinner spicy mix with Leishankai ￥30.07
+>
+
+## Daily
+Morning, ate much at the canteen at hotel, then went to work by the back train to the building, morning, Chenjingpeng came at about 11:00am, and they went to have some lunch, and I ate the instant noodles at about 15:30pm, then Chenjingpeng said that I should stay night and wait for the update of the MLC software, f**k.  
+At night, Leixiangsheng asked me to order the takeaway food and I didn't recieve the money he gave to me. At night, my last cigarette was smoken. And CHN said that the video delayed to 16th March, and I must go get her, f**k.
+
+PS.tonight wrote the daily at the building, and now is 21:00, still don't know when can I back home. 
+PS.the costs of the taxi is't write now. Later.
