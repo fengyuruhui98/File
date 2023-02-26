@@ -395,9 +395,10 @@ PS.these days, Liaoning province is holding the exam of the civil servent. The p
 
 # 20:45 Fri, Feb 24, 2023
 
-## Cost: ￥ In: None
+## Cost:￥104.97 In: None
 >dinner spicy mix with Leishankai ￥30.07
->
+>taxi from the building to hotel ￥50.40
+>Xuanhemen & instant noodles ￥24.50
 
 ## Daily
 Morning, ate much at the canteen at hotel, then went to work by the back train to the building, morning, Chenjingpeng came at about 11:00am, and they went to have some lunch, and I ate the instant noodles at about 15:30pm, then Chenjingpeng said that I should stay night and wait for the update of the MLC software, f**k.  
@@ -405,3 +406,39 @@ At night, Leixiangsheng asked me to order the takeaway food and I didn't recieve
 
 PS.tonight wrote the daily at the building, and now is 21:00, still don't know when can I back home. 
 PS.the costs of the taxi is't write now. Later.
+
+# 23:45 Sat, Feb 25, 2023
+
+## Cost: ￥99.27 In: None
+>dinner spicy mix with Leishankai ￥30.07
+>KFC ￥39.20
+>rail way back hotel ￥2.00 
+>Sis&Bro glass noodles ￥18.00
+>Melon seeds ￥10.00
+
+## Daily  
+Morning, tired, but got up early and met Shuisheng at the canteen, and ate. Then went to the golden stone beach.  
+We crossed many crosses then went to the destanition without paid. 
+Then we went to the beach, the blue sky pull down on the sea, the sea was so beautiful that I hope one day I may have some one with me walking on the side of the sea, then we ate at the KFC and backed, the KFC cost me much, and the flypiggy got me some miles scores, which can cash out some KFC and others.
+Then, the night we ate the noodles, and then went to the Changxingli Xi'an road night market, then went hotel.
+
+PS.CHN delayed her paper and asked me to back home and pay time compare with her.
+PS.dad want me to send him my score of the exam.
+
+# 23:45 Sun, Feb 26, 2023
+
+## Cost: ￥100.29 In: None
+>bus from Heping square Quanji station to tiger beach ￥1.00
+>bus from tiger beach to No2. last station ￥1.00
+>Kugou ￥15.00
+>Bangchui island state guest house ￥20.00
+>taxi from the house to hotel ￥27.10
+>cola the the building ￥2.20
+>babecue ￥33.99
+
+## Daily
+Morning, ate at the canteen, then Shuisheng took two eggs, then went out, and ahead for the state guest house.
+We took the bus to the tiger beach, then turned to No.2 bus line to its last station at where we hike the mountain and saw the house on the plant at the hill, then there was mountain above the sea where the middle was hidden behind the cloud. 
+At about 14:00pm mother f**ker Liuye called us to back to the building, and call every four minutes, so wen have to take a taxi and back to the hotel to get our computer, and then we bought instant noodles, and ate at the building, then work the afternoon, then back to the hotel, and feel hungery to ordered the barbecue.
+
+PS.no talking with CHN.
