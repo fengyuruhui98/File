@@ -442,3 +442,17 @@ We took the bus to the tiger beach, then turned to No.2 bus line to its last sta
 At about 14:00pm mother f**ker Liuye called us to back to the building, and call every four minutes, so wen have to take a taxi and back to the hotel to get our computer, and then we bought instant noodles, and ate at the building, then work the afternoon, then back to the hotel, and feel hungery to ordered the barbecue.
 
 PS.no talking with CHN.
+
+# 23:45 Mon, Feb 27, 2023
+
+## Cost: ￥5.40 In: None
+>cola the the building ￥2.20
+>cola the the building ￥2.20
+>bus from building to market ￥1.00
+
+## Daily
+Morning, ate at the canteen, then went to work, at noon, ate at the building canteen. F**k Chenjingpeng find new works for me, do some new views. 
+Then the day work is boring, and the priority queue written by Chenjingpeng was ugly.
+Don't know if the rail way may open at Mar 1. If it comes true, then I may can't back, but the apply was just to the day after tomorrow, see tomorrow.
+
+PS.no talking with CHN.
