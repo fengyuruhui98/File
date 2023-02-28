@@ -180,7 +180,7 @@ PS.washed the clothes.
 
 # 23:20 Sat, Feb 11, 2023
 
-## Cost: ￥59.10 In: None
+## Cost: ￥37.00 In: None
 >Lanch of rice at canteen ￥10.00
 >Dinner fried noodles ￥27.00
 
@@ -337,7 +337,7 @@ PS. bought the duck foods with Liuqing.
 
 # 23:59 Mon, Feb 20, 2023
 
-## Cost: ￥54.38 In: None
+## Cost: ￥35.78 In: None
 >Rail way from hotel to the building & back ￥4.00
 >Pizza ￥16.78
 >Instant noodles ￥15.00 
@@ -377,7 +377,7 @@ The most lossing thing in the hole world is that you can't have what you desire 
 
 PS.CHN send message to me about her video of the final paper. We made a phone call about two hours. 
 
-# 23:55 Tue, Feb 23, 2023
+# 23:55 Thu, Feb 23, 2023
 
 ## Cost: ￥51.00 In: None
 >coffee & cookies ￥20.10
@@ -456,3 +456,21 @@ Then the day work is boring, and the priority queue written by Chenjingpeng was 
 Don't know if the rail way may open at Mar 1. If it comes true, then I may can't back, but the apply was just to the day after tomorrow, see tomorrow.
 
 PS.no talking with CHN.
+
+# 23:55 Tue, Feb 27, 2023
+
+## Cost: ￥39.90 In: None
+>melon seeds ￥10.00
+>cola ￥2.70
+>Xuebi ￥2.70
+>Xuanhemen & instant noodles ￥24.50
+
+## Daily
+Today was the last day of Feb, morning ate at the canteen, too much, tomorrow I must eat less.
+Morning, got the message that the rail way will delay to open, then may I back home, but motherf**ker Shuisheng went first, and I have to stay to build the code, Qianliang rejected my application, and I had to reapply again. And the application finished at the afternoon. 
+Night backed hotel early, and the leetcode couldn't made up. Shit.
+
+PS.called CHN, she said that another guy will photo with us.
+
+# MONTH-COUNT
+## Cost: ￥6121.16 In: ￥8606.82 Sub: ￥2485.66
