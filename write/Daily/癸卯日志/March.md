@@ -14,3 +14,15 @@ But tomorrow I would say goodbye to the peace square Quanji at last. Night, afte
 At the hotel, I saw CHN talked with LiuxinTao at the friendship circle, and I decided to tell her that I'm not going back next weekend, and she said that she would be fine, because she had found another one to take part in her vedio. F**k off.
 
 PS.tomorrow I decided to went to Qingniwa with Shuisheng and got the ticket for free.
+
+# 21:51 The, Mar 2, 2023
+
+## Cost: ￥3.70 In: None
+>Cola ￥2.70
+>Bus back hotel ￥1.00
+
+## Daily
+Morning, went to Qingniwa station with Shuisheng, and found that the Qingniwa wasn't open to sale the ticket, so we went to South Suoyuwan, and got one ticket at Suoyuwan station, and I backed to Houguan while Shuisheng went to Suoyuwan, when I got Houguan, I got another ticket at the outport, and then walked back to the building.  
+Efficiential afternoon, make grate process, then at about 18:00pm, I backed to the hotel at the Russia style street, and ordered a big house at Quanji. But Shuisheng will went back tomorrow.
+
+PS.no talking with CHN, though she send me a message.
