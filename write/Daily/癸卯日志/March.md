@@ -26,3 +26,50 @@ Morning, went to Qingniwa station with Shuisheng, and found that the Qingniwa wa
 Efficiential afternoon, make grate process, then at about 18:00pm, I backed to the hotel at the Russia style street, and ordered a big house at Quanji. But Shuisheng will went back tomorrow.
 
 PS.no talking with CHN, though she send me a message.
+
+# 21:51 Fri, Mar 3, 2023
+
+## Cost: ￥16.00 In: None
+>Bus back hotel ￥1.00
+>Changbaishan cigarette ￥15.00
+
+## Daily
+Morning, ate at the hotel canteen, and the noodles tasty, then went to work, stupid Shuisheng sended me a message that he was going to ate at the canteen. Then I took the rail way to the building, noon, ate at the canteen.
+Works can never be done, once you make something done, the other works comes over and over again, the sky went dark, the light went bright, but the workers never stop. 
+Night backed home with Leishankai, one reactionary worker.
+
+PS.no talking with CHN.
+
+# 19:48 Sat, Mar 4, 2023
+
+## Cost: ￥2003.70 In: None
+>fish foods ￥481.20
+>trepang ￥598.00
+>transfer to mom ￥800.00
+>instant noodles & Xuanhemen ￥24.50
+>Shunfeng Card fee ￥100.00
+
+## Daily
+Morning ate at the canteen, yummy, then laid on the bed till about 12:00am, then went ahead to the Dalian market, the underground is really complex, and it took me much time on finding the way out, then I got to the Dalian market. 
+Then, I bought trepang and the sea foods, then I went back to the hotel.
+Once a man is free, there is one simple problem that he will think much things that may makes him cry. 
+The house keeper send me message that I had to pay for much electric fees, which drive me crazy...
+
+PS.night talking with CHN.
+PS.watched Asenna and Borenmouth, and the FC Byren and other football at night, while ate some spicy mix.
+
+# 20:03 Sun, Mar 5, 2023
+
+## Cost: ￥10071.55 In: ￥7483.42
+>spicy mix ￥17.09
+>yoghourt fruit ￥34.90
+>old Nanchang glass noodles ￥19.56
+>domestic remittance benificery is dad ￥10000.00
+
+## Daily
+At night, ate the spicy mix, and watched the football, and slept at about 4:30am, and got up at about 9:00am, then went to ate some thing at the canteen, and took some oranges backed room, at the morning, do the leetcode test, then went downstairs to delay the room and got a shaver. 
+Then at noon, Sis called me that the package I send arrived. Airplane transfer was truely fast.
+At night, also another package arrived at home. 
+Noon, ate the black yoghourt mixed with some fruits, tasty, then the afternoon, stayed at room.
+
+PS.CHN went Chengdu Sichuan province, and we talked the day.
