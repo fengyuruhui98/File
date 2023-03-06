@@ -73,3 +73,15 @@ At night, also another package arrived at home.
 Noon, ate the black yoghourt mixed with some fruits, tasty, then the afternoon, stayed at room.
 
 PS.CHN went Chengdu Sichuan province, and we talked the day.
+
+# 22:53 Mon, Mar 6, 2023
+
+## Cost: None In: None
+
+## Daily
+Morning, ate at the canteen at the hotel, then went to work, the egg tart was cold, not really good. The road was too long that I was so tired to walk.
+Noon ate at the building of the Dalian metro, then work the whole day, but it costed me much time do the leetcode test.
+Night, because I have to confirm the signal code, so I left Leishankai went to the bus station and I walked to the metro station, I was so tired that I got asleep on the train, and when I got Xi'an road at about 19:30pm, mom made a phone call to me that Sis was pregnant, some thing shot me, that my dear Sis, though we got far and far after she got married, and still be loved Sis, is going to have a baby, what an amazing and wonderful thing. Then mom talked the life things blablabla....... that Zhengpeng is going to made an order. And Gaochanghe got his girlfriend back home.
+Then went back to the hotel.
+
+PS.no talking with CHN.
