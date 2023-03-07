@@ -85,3 +85,19 @@ Night, because I have to confirm the signal code, so I left Leishankai went to t
 Then went back to the hotel.
 
 PS.no talking with CHN.
+
+# 23:18 Tue, Mar 7, 2023
+
+## Cost: ￥20033.00 In: ￥27936.00
+>noodles ￥19.00
+>Maiduo pies ￥14.00
+>bonus ￥27936.00
+>transfer to dad ￥20000.00
+
+## Daily
+Morning, after ate at the hotel, went to work, and Shuisheng send me a message that he had got on a train to the building that I may got him on the way, then we went to the building together. 
+Noon, Chenjingpeng called me that I may back home tomorrow, but Shuisheng told me not to back so early, that I can stay with him. 
+I hesitated, so I will leave at friday, at 12:30am, and the hotel will be changed to the Youhao square Meiju hotel, then talked with Sis and Mom on the phone.
+Tomorrow will change to the hotel.
+
+PS.no talk with CHN.
