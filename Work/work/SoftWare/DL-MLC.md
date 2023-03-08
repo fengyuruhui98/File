@@ -72,6 +72,11 @@
     - [MLC参数](#mlc参数-1)
     - [参数管理](#参数管理-1)
 - [剩余杂项修改](#剩余杂项修改)
+- [角色树选择更改](#角色树选择更改)
+- [线路分中心缩小权限](#线路分中心缩小权限)
+- [线路分中心之后修改代码](#线路分中心之后修改代码)
+  - [签退关闭软件](#签退关闭软件)
+- [其他问题](#其他问题)
 
 
 # 6022报文
@@ -2038,3 +2043,8 @@ strSQL += string.Format(@"select DEVICE_NID,'['||DEVICE_NID||']'||DEVICE_NAME fr
                         select SC_NID,'['||SC_NID||']'||'SC' from tbl_ss_sc_info  
                             where line_id in (select SUBSTR(LINE_NID,1,2) from tbl_ss_mlc_line {0}) order by 1 ", lineStrSQL1);
 ```
+
+# 其他问题
+RP.0205.Flow.Ticket.Account.cs line106
+换位置，group by放在后面
+
