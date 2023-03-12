@@ -101,3 +101,73 @@ I hesitated, so I will leave at friday, at 12:30am, and the hotel will be change
 Tomorrow will change to the hotel.
 
 PS.no talk with CHN.
+
+
+# 23:18 Wed, Mar 8, 2023
+
+## Cost: ￥20.00 In: None
+>dumplings ￥20.00
+
+## Daily
+Morning, ate at the Dalian station Quanji hotel at about 7:30am, then walked to the Meiju hotel at the Qingniwa station at Youhao square, at the hotel, the room was cleaned for about twenty minutes at 1411, and the Heping square was 8306, and the Dalian station was 8301. Then I and Shuisheng went work together. At afternoon, we went back at about 17:00pm and took the out train to back hotel, then we went to the Pang Sis dumplings. 
+
+PS.CHN asked me to sign up for her Putonghua exam.
+
+# 23:18 The, Mar 9, 2023
+
+## Cost: ￥6285.30 In: ￥107.00
+>transfer to dad ￥6000.00
+>check out ￥200.00
+>receive from Leishankai ￥100.00
+>receive from Shuisheng ￥7.00
+>fry chicken ￥18.60
+>Maodan ￥10.00
+>cola ￥2.7
+>noodles of beef ￥54.00
+
+## Daily
+Morning ate at the canteen at meiju hotel, and then went to work, at noon, I checked out 200.00 to recharge the card at the canteen, then offered Leishankai 100.00 to recharge his card, then worked the whole day.
+At afternoon, we went back at about 17:00 and then went to the Zhongyuan street night market and then bought the fried chicken, a little fat, then got some Maodan but left at the hotel, and then we went to a noodle store, then ate the beef noodles, tasty and the boss wasn't much friendly. 
+Then didn't shower and went bed.
+
+PS. forget to sign up for CHN, and said that will be done at tomorrow.
+
+# 23:18 Fri, Mar 10, 2023
+
+## Cost: ￥89.99 In: ￥40.00
+>railway from hotel to airport ￥4.00
+>seaweed & egg soup at the airport ￥6.00 
+>railway from airport to hotel ￥4.00
+>peach crisp ￥34.49
+>ravioli ￥16.00
+>Xuanhemen & instant noodles & lighter ￥25.50
+>Shuisheng ￥40.00
+
+## Daily
+Morning, ate at the canteen at about 9:20am, and then took a shower and then waited for the access to the exam sign up for CHN, then, the message wasn't complete and I went to the airport and do the sign up again on the rail way, but found fully finally, and then I got the airport.
+The cloud and the forge was so thick that the airplane delayed and delayed and finally, it cancled, then I delay my business trip and went back to the hotel, and by the way, the dumpling canteen was too expensive, and I drank a seaweed & egg soup at the airport while do the test for CHN about psychology.
+Then I went back to the Manju and found that the hotel gave me the same room as the day before.
+
+PS.really a hard day
+PS.CHN information 
+phone:18801289060
+ID:412822199805180821
+class:21 EMBA & AMBA
+academy：broadcast hosts the Academy of arts
+password：19980518 || nuo518cc
+
+
+# 23:18 Sat, Mar 11, 2023
+
+## Cost: ￥89.99 In: ￥40.00
+>railway from hotel to airport ￥4.00
+>from airport to Sis home ￥9.00
+>Shuisheng ￥10.00
+
+## Daily
+Morning I found that the airplane delayed to 13:50pm and then I got up at about 9:30am then went to eat the breakfast and then took a shower and then went for the airport, and arrived at about 12:00am, so I didn't went to the people counter and use the E-boarding passes, and then I got into the waiting room, and found that the points I got isn't enough for the private car to the plane, then I waited for the bus, and got on the airplane. 
+It is truely an enjoy fly, that there was a beauty seat besides me, and the smell always make me comfortable.
+There was some papers on the plane, that Xijinping got the seats also, and Likeqiang got away. 
+Then I made it my Sis's house, and then ate the Japanese foods, then went bed early.
+
+PS.CHN send me a message and I delayed the reply and then she said nothing. Ops...
