@@ -2178,3 +2178,23 @@ LCC.RP.cs line144 未修改
 
 new Parameter() {PName = "LineId", PValue = LineId == null ? "全部":DS_Line.FirstOrDefault(d => d.Key == LineId).Value},
 
+# 票卡目录及线路中心显示
+未修改  
+Base.SystemDS.cs 
+```c#
+case DSString.TICKET_DIRECTORY:
+                    //strSQL += @"select DIREC_CODE,DIREC_NAME from TBL_SS_TICKET_DIRECTORY";
+                    strSQL += @"select DIREC_CODE,DIREC_NAME from TBL_SS_TICKET_DIRECTORY
+                                where DIREC_NAME in ('普通单程票','普通明珠卡','乘次票A','乘次票B')  order by 1";
+case DSString.CENTER_ID:
+                    strSQL += @"select substr(station_nid,1,2),to_number(substr(station_nid,1,2),'XX')||'号线' from tbl_ss_current_station where rownum = 1 order by 1";
+
+
+
+
+
+
+
+
+                            
+```
