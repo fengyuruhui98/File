@@ -156,10 +156,9 @@ class:21 EMBA & AMBA
 academy：broadcast hosts the Academy of arts
 password：19980518 || nuo518cc
 
-
 # 23:18 Sat, Mar 11, 2023
 
-## Cost: ￥89.99 In: ￥40.00
+## Cost: ￥23.00 In: None
 >railway from hotel to airport ￥4.00
 >from airport to Sis home ￥9.00
 >Shuisheng ￥10.00
@@ -171,3 +170,59 @@ There was some papers on the plane, that Xijinping got the seats also, and Likeq
 Then I made it my Sis's house, and then ate the Japanese foods, then went bed early.
 
 PS.CHN send me a message and I delayed the reply and then she said nothing. Ops...
+
+# 23:18 Sun, Mar 12, 2023
+
+## Cost: ￥88.08 In: None
+>Xunlei VIP ￥69.00
+>water of Nongfu mountain spring ￥10.00
+>railway from Sis to home ￥7.00
+>Health insurence ￥2.08
+
+## Daily
+Morning, ate at Sis, we ate the trepeng, and the Cubilose in the milk, then Sis sleep for the morning, and vomit all the things ate at the morning, and I do some daily writting, and then we ate the beef bone bought on the DingDong.
+Then Sis slept, and I also laid on the bed and wait for the time coming. 
+At 16:00 around, I went back to the home, and got my hair cut, then boiled two bolcks of beef and a chicken leg, but not ate and drunk a glass of milk.  
+Wherever and how much places a man went, there must always have some place to back to. The rent house was not perfect nor even good, but a really port for me, the candles, the beef, and other things. 
+
+PS.no talking with CHN.
+
+# 23:18 Mon, Mar 13, 2023
+
+## Cost: ￥7.00 In: None
+>railway from home to Sis ￥7.00
+
+## Daily
+Today, ate the chicken leg and a glass of milk, then went to work at 9:00am after packaged all the things went to Dalian, and by the way, last night I submit the application to out work ahead to Dalian and Wumin agreed at 23:00pm.
+Then the whole morning write the Travel reimbursement forms then find Lujunhui got my guild card and the health package, which contions a package of smell, and tea, and Sanqi.
+Then ate at the canteen where Liuguangpu pay for the food, then we walked around the park, while talking about the business...
+The girl I forgot whose name, blew bubbles under the sunshine, pretty girl.
+Then we backed seats, and I went to Hotmax and buy some cola which was sweet osmanthus tastes.  
+Then went to Sis at 16:00pm and met Sis at the rail way station, then we walked home, tomorrow I would go to Dalian.
+Night, we ate the stewed noodles.
+
+PS.no talking with CHN.
+PS.CHN send me some message about the hotel and the talk beginners.
+PS.the flower in the park was gloom, and the decision to do some park work build.
+
+# 22:25 Tue, Mar 14, 2023
+
+## Cost: ￥71.00 In: ￥27.00
+>rail way from Sis to the airport ￥9.00
+>rail way from Dalian Zhoushuizi to Mercure ￥4.00
+>instant noodles ￥9.00
+>hot dry noodles ￥10.00
+>Dough ￥12.00
+>Shuisheng use the card at Dalian railway building ￥27.00
+
+## Daily
+Morning, ate at Sis, and then walked out with Sis while Sis took the bus and I took the rail way to Pudong airplane, last time I went to Dalian was also the airplane at 10:30am, and last time I went to Dalian I took the morning rail way which was so many people, and arrived at about 9:14am, then went to the toilet, and just at the time.
+This time was the same situation. But what un same was that this fly was much smoth than the last time. 
+Then I ate the instant noodles and the foods of green bean cake, then do some rests, and then at about 16:00 went to cash ￥200.00 to pay for tomorrow card. 
+Then went to buy the hot dry noodles, and then wait for 30 minutes for the egg pie cake, then not ate both of them.
+At about 20:00pm I met Shuisheng, with reback the foods I left him last time I was here, and some cola.
+The "XuNiWanJiaDengHuo" was good.
+
+PS.talked with CHN, but not much.
+PS.tomorrow at 4:00am get up to watch the game.
+PS.the smell of the Mercure bathrobe was really perfect.
