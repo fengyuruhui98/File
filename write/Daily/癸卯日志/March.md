@@ -224,5 +224,39 @@ At about 20:00pm I met Shuisheng, with reback the foods I left him last time I w
 The "XuNiWanJiaDengHuo" was good.
 
 PS.talked with CHN, but not much.
-PS.tomorrow at 4:00am get up to watch the game.
+PS.tomorrow at 4:00am get up to watch the game of Manchester city with RB Leipzig.
 PS.the smell of the Mercure bathrobe was really perfect.
+
+# 22:25 Wed, Mar 15, 2023
+
+## Cost: ￥178.55 In: None
+>check in the canteen card ¥100.00
+>cola ¥2.70
+>taxi from the building to the hotel ¥56.85
+>Shuisheng use the card at Dalian railway building ￥19.00
+
+## Daily
+Morning, ate at the canteen, then went to the building for the first working day this weekend. Then do the job on the morning, and then went to the canteen, then checked in the cash into the card. Then at afternoon Chenjingpeng arrived at the building and then we did the work until 23:00pm, then I called a taxi. Yeah, not Chenjingpeng nor Shuisheng, but I ordered the taxi, then I applyed an application to make my money back.
+F**k, then at night I watched the game between Real Mardrid and the Liverpool at 4:00am, and the light couldn't be off, and then I got asleep while watching the games.
+
+PS.send message to CHN without got back.
+PS.no watch the "Xuniwanjiadenghuo"
+
+
+# 22:25 Thu, Mar 16, 2023
+
+## Cost: ￥70.00 In: None
+>Yanwee milk ¥5.00
+>LOL ¥45.00
+>xuanhemen ¥20.00
+
+## Daily
+Last night, we decided not to get up so early tomorrow, and we went to the canteen at the 9:00am, then went to the Yaojia station at about 10:30am, then got the building at about 10:50am, then we went to the canteen where Chenjingpeng paid for the lunch.
+Then we walked together, and Chengjingpeng said that he had three sis and want me t do something, f**k off, just kidding.
+Then we worked the afternoon, then we backed to the building, and then at about 17:30 we went to the canteen while they went to the Yaojia to eat some noodles. 
+At night we went back at about 21:30pm and got the hotel at 22:40pm.
+At the hotel, the Memo notepaper I left morning was read and got more on it.
+The light was right, and I figured out that Chenjingpeng was graduated from Huadong Shifan university. Shit, his wife was beautiful.
+
+PS.short talk with CHN.
+PS.long conversation with mom & dad about the future.
