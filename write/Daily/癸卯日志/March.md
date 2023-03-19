@@ -260,3 +260,61 @@ The light was right, and I figured out that Chenjingpeng was graduated from Huad
 
 PS.short talk with CHN.
 PS.long conversation with mom & dad about the future.
+
+# 22:25 Fri, Mar 17, 2023
+
+## Cost: ￥4160.53 In: None
+>Rent house ￥2330.00
+>Rail way from Xi'an road to hotel ￥2.00
+>Huabei ￥1059.53
+>WDdisk ￥769.00
+
+## Daily
+Morning, ate at the hotel, then went to the building and Shuisheng went to the station, then worked the whole day, in the noon, CHN sended me a vide and asked if I can help her, I said that might be noon, then when I went to ate the lanch, when I asked about the video, she said that she had alreay done. Shit. 
+Then at the afternoon, at about 17:00pm Chenjingpeng said that we would left early for the dinner. 
+Then we went to the Xi'an road Luosifu square, we ate the barbecue with Dingnan, and another guy. We drunk two bottles of beer, then we backed to the hotel.  
+The barbecue was grate.  
+
+PS.Shuisheng said he will work there, and then he called me to made Chenjingpeng know that he worked till.
+
+
+# 22:25 Sat, Mar 18, 2023
+
+## Cost: ￥43.40 In: ￥9.00
+>Lanch ate with Leishankai three kinds ￥32.00
+>Cola ￥2.70
+>Cola ￥2.70
+>Bus to the Yaojia ￥1.00
+>Rail way from Yaojia to Xi'an road ￥5.00
+>Shuisheng ￥9.00
+
+## Daily
+Morning, I ate at the canteen at about 9:00am, then I went to the building, then when I was on the rail way, Liuye sended me a message that we need to went to the building today.
+When I called shuisheng, he seemed to be really angry, then he sended that he was already work on the wechat, shit son of b**ch.
+Then I arrived the building, and on the noon, when we went to the canteen, we found that the canteen was closed, so we went to the building and then ordered the take away food, I ate with Leishankai together.
+Then at the noon, we left at about 18:15pm. Took the bus to the rail way station.
+
+PS.the net was closed because I forget to reconnect it befire we left, so Liuye called Leishankai to went back and made the net connected.
+PS.clothes washed, then send the 0302 Params and checked the SC.
+PS.watched the "Renshijian"
+PS.send CHN message but got no response.
+PS.Shuisheng took some cola to me at night.
+
+# 22:25 Sun, Mar 19, 2023
+
+## Cost: ￥94.50 In: None
+>Bus from hotel to Lvshun ￥5.00
+>Phone fee ￥50.00
+>noodles at Lvshun ￥17.00
+>Bus from Lvshun to Lvshun rail station ￥1.00
+>Rail way from Lvshun to Hotel ￥8.00
+>Instant noodles & seeds ￥13.50
+
+## Daily
+Morning, I got up at about 9:11am, then ate the breakfast, and then met Shuisheng at the canteen. Then we went to Lvshun.
+The towers shinning under the sunshine, silencely watched the people, come and go.
+Then we went to the Baiyu moutaion and didn't up to the head, for ￥40.00. Then we walked around the hill for finding some road to escape the ticket.
+And the saw the sea arm ships. Then went to the park, saw the Soviet tower, the park of Guandong zhouting, the Lvshun museum saw the Yangzhou baguai, the "smile through thousand years". From Qingzhou of the nine areas.
+Shuisheng wasn't like to walk around.
+
+PS.no talking with CHN.
