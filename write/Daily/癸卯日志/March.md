@@ -318,3 +318,52 @@ And the saw the sea arm ships. Then went to the park, saw the Soviet tower, the 
 Shuisheng wasn't like to walk around.
 
 PS.no talking with CHN.
+
+# 22:25 Mon, Mar 20, 2023
+
+## Cost: ￥90.70 In: None
+>Cola ￥2.70
+>Xuanhemen and smoth seven stars ￥55.00
+>Medicine of 999 & Lianhuaqingwen ￥33.00
+
+## Daily
+Morning, ate at the canteen, met Shuisheng, but he went to the station, I can hardly open my eyes, and worked all the day, the night, felt not good at last night, but still watched the "Renshijain" at night. The time flows, the tree growes, the children left.
+
+PS.no talking with CHN.
+
+# 22:25 Tue, Mar 21, 2023
+
+## Cost: ￥319.88 In: None
+>taxi from building to hospital ￥33.15
+>rail way from hospital to building ￥2.00
+>rail way from hotel to hospital ￥2.00
+>rail way back to hotel ￥2.00
+>peach Su ￥25.51
+>registered ￥19.20 + ￥14.40
+>Fever registered ￥24.00
+>cov-2019 tests ￥3.95
+>Blood test ￥66.49
+>Medicine ￥18.26
+>Huawei ￥8.92
+>check in card ￥100.00 
+
+## Daily
+Last night feel very bad, dream all the night, then morning, ate at the canteen with Sshuisheng, and then went to work, on the rail way, slept all the way, and didn't feel that my eyes was so red that Shuisheng said that I should went to hospital. Then at noon, after I drunk some medicine, but still felt bad then went back take a taxi to the Dalian Yike university the 1st hospital, registered twice, in different hospital, then went to hotel, slept and slept, dreamed and dreamed, till felt so bad, and went to the hospital, the fever part, then got blood test, ate some medicine.
+Then the night was long...
+
+PS.no talking with CHN.
+
+# 22:25 Wen, Mar 21, 2023
+
+## Cost: ￥63.20 In: ￥28.00
+>duck food ￥63.20
+>Shuisheng ￥28.00
+
+## Daily
+
+Last night drunk the porridge Shuisheng took me. There was couples doing the test, hands over hands. But me, alone.
+Today, morning, ate at the canteen, then backed room, and do some rest. Noon, bought some duck foods, to made me taste good, then do work at the room, and then stay hotel whole day, SHuisheng said that he would back at friday, I may not back, with much work to do. 
+CHN talked with me little, and then no respone anymore, some times that a man may never got company anymore. Loonliness is the true root of people, maybe.
+No more. The "Renshijain" made me cry and cry.
+
+PS.completely over with CHN.
