@@ -353,7 +353,7 @@ Then the night was long...
 
 PS.no talking with CHN.
 
-# 22:25 Wen, Mar 21, 2023
+# 22:25 Wen, Mar 22, 2023
 
 ## Cost: ￥63.20 In: ￥28.00
 >duck food ￥63.20
@@ -367,3 +367,44 @@ CHN talked with me little, and then no respone anymore, some times that a man ma
 No more. The "Renshijain" made me cry and cry.
 
 PS.completely over with CHN.
+
+# 22:25 Thu, Mar 23, 2023
+
+## Cost: ￥90.60 In: None
+>Xi'an noodles ￥16.00
+>no person sold juice ￥3.20
+>fish foods ￥10.00 ￥61.40
+
+## Daily
+Morning, ate at the hotel, and then went to work with Shuisheng, the first day I went to work after the illness last few days, and I took some cakes with me but not ate, then we backed at about 17:00pm took the out station train, and then we took off at Qingniwaqiao, and went to the Dalian Market, we thought that we can ate the big bowl, however, our bowl wasn't big. Then we went down to the ground floor and Shuisheng bought some fish food, and I also bought some.
+At noon, Liuye talked about the trip we had applied, and send Yangxiangdong message that we should delay for two weeks, and Yang called Wumin, so we delaied our application.
+PS.talked with mom, that if they would like to made a travel to Luoyang.
+
+# 22:25 Fri, Mar 24, 2023
+
+## Cost: ￥22.98 In: ￥9.00
+>Yuanji dumplings ￥21.98
+>LOL ￥1.00
+>Shuisheng ￥9.00
+
+## Daily
+Morning, ate at the canteen, then I went to the building alone, in case that Shuisheng went back home today, and then at morning, Chenjingpeng, said that I should focus on the skills but not some things that shouldn't borthered.
+I wondered thet if I need to find a job.
+Then at noon, I received calls from Chenjingpeng said that I should went back early, and I don't know, where next, but most probably went to Chuzhou Anhui province, and I send CHN some message that she was so clod. 
+I know that we were done, shit.
+
+PS.talked with mom, Sis still not resend message.
+
+# 22:25 Sat, Mar 25, 2023
+
+## Cost: ￥57.90 In: ￥3.00
+>Jiefudexiaocai ￥32.90
+>back red balls ￥3.00
+>melon seeds ￥10.00
+>spicy glass noodles & Tripe ￥15.00
+
+## Daily
+Morning, ate at the canteen, planned to get up early, but still late, then spend the morning watching listening, then at noon, ordered the Jiefudexiaocai of the Hunan foods.
+I ordered two bowls of rice and left half for the dinner, then after ate the food I went to sleep, till awake at about 18:38pm, then got up and ate the food left noon, then watch some movies, then at about 22:00pm, I went outside and bought some melon seeds and some others, after ate which I feel stomachache. Shit...
+
+PS.no talking with CHN, so bored.
