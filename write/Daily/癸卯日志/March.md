@@ -408,3 +408,114 @@ Morning, ate at the canteen, planned to get up early, but still late, then spend
 I ordered two bowls of rice and left half for the dinner, then after ate the food I went to sleep, till awake at about 18:38pm, then got up and ate the food left noon, then watch some movies, then at about 22:00pm, I went outside and bought some melon seeds and some others, after ate which I feel stomachache. Shit...
 
 PS.no talking with CHN, so bored.
+
+# 23:19 Sun, Mar 26, 2023
+
+## Cost: ￥28.90 In: None
+>Apochaoxiang ￥28.90
+
+## Daily
+Morning, awake at about 4:30am, then watch something and then went asleep again then wake up again at about 9:30am, then went down stairs and ate at the canteen, the whole day, morning, wash the clothes at 21 floor, then watch the video all day.
+Noon, CHN send me some message that tomorrow she may not order the exam, okay...
+Afternoon, saw the video. Sometimes, that I may feel confuse about the future, really uncentern, life was full of accident...
+No more to say, for now, what can I do wasn't much...
+
+# 23:19 Mon, Mar 27, 2023
+
+## Cost: ￥70.35 In: None
+>Healthy insurence ￥2.08
+>taxi from the building to the Yaojia station ￥11.47
+>chicken legs ￥13.80
+>instant noodles ￥5.00
+>noodles at Dalian market ￥15.00
+>rock salt cheese red tea ￥13.00
+>melon seeds ￥10.00
+
+## Daily
+Morning, ate at the hotel, and then went to the building, then planned to back at Wensday, I went to the Yaojia with Liuye and we ate the Huainan beef soup, and then we walked back to the building, and then we went back at 17:00, when I arrived at the hotel, and went to the Zhongyuan road and bought some foods, and then Shuisheng called me and asked if I had ate or not so we went to the Dalian market and ate the noodles, and I felt not very good, I might don't want to to left so suddenly, but I had no ways...
+Shuisheng went to Quanji at the Dalian market, in case that the mecure was over the line of the out work limit.
+
+PS.no talking with CHN
+PS.Liuye said that we may ate together.
+
+# 23:19 Tue, Mar 28, 2023
+
+## Cost: ￥4.00 In: None
+>rail way from Youhao square to Suoyuwan ￥2.00 & ￥2.00
+
+## Daily
+Morning, ate at the canteen, and then went to the Suoyuwan station with Shuisheng at about 9:00am, then we worked the whole morning at the building locate at the Suoyuwan station, the chairs wasn't enough for four people, so I standed the whole morning, and then at noon, we went outside and ate the fish and other things, then we went to the sea said and view the sea, and the football court, and the flowers gloom around the sea, the machine and the tower was standed ahead the sky, the steel hard and the flower soft made me feel little sad, that I was going back tomorrow. 
+Then we backed and do the work with Xiao son of a b**ch, and then we went back at about 17:00pm, and Liuye said "bon voyage", Lei said "goodbye". 
+Life was full with despart and separete, next time I went here would some year and some day.
+Then Shuisheng and I went to saw the shrimp. Then went back.
+
+PS.no talking with CHN, listen the "renshijian" all the night.
+
+# 23:19 Wen, Mar 29, 2023
+
+## Cost: ￥28.90 In: None
+>Jiefudexiaocai ￥33.90
+>Kugou VIP ￥15.00
+
+## Daily
+Life is a circle, we go around and around, some went out of the rail and go far, never back, and some always keep rooling...
+
+Flowers grow new buds
+
+Like children grow up
+
+The train of life rolls on and stops for none
+
+Through every station
+
+Memories of joy and misery are felt
+
+We're just snowflakes drifting round 'til the day we melt
+
+Every life suffers, lovers part and sleep alone
+
+On your adventure turn around and visit home
+
+We're normal people holding up the family's roof so their flame
+
+Is not extinguished by the world's tides of change
+
+I hope you live a joyful life next to your soulmate lover's side
+
+Hear childhood stories tales of pride all through your mother's elder eyes
+
+Please don't forget those youthful skies
+
+But if fond memories fade with time
+
+Hold onto one that's yours and mine
+
+We loved like fire
+
+We lived like warriors
+
+For life is precious
+
+In every life there will be pain and there'll be joy
+
+With every choice made the sun will rise and slowly fall
+
+We're normal people trying hard to find our way through each storm
+
+And though our hands are cold our hearts will be warm
+
+I hope you live a joyful life next to your soulmate lover's side
+
+Hear childhood stories tales of pride all through your mother's elder eyes
+
+Please don't forget those youthful skies
+
+But if fond memories fade with time
+
+Hold onto one that's yours and mine
+
+Beneath the sunrise
+
+Like seeds we'll soon rise
+
+And touch the blue sky  
