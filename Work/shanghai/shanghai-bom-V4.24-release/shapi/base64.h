@@ -1,0 +1,12 @@
+#ifndef base64__h
+#define base64__h
+
+
+char * base64_encode( const unsigned char * bindata, char * base64, int binlength );
+int base64_decode( const char * base64, unsigned char * bindata );
+
+char * base64url_encode( const unsigned char * bindata, char * base64url, int binlength );
+int base64url_decode( const char * base64url, unsigned char * bindata );
+int ifbase64( const char * base64url, unsigned char * bindata );
+
+#endif

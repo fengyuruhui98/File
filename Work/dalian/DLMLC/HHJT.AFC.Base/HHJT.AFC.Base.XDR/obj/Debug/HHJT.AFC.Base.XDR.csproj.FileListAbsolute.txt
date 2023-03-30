@@ -1,0 +1,20 @@
+E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\HHJT.AFC.Base.XDR.dll
+E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\HHJT.AFC.Base.XDR.pdb
+E:\AFCDev\大连\平台\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.dll
+E:\AFCDev\大连\平台\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.pdb
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\前端\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.XDR.dll
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\前端\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.XDR.pdb
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.csproj.CoreCompileInputs.cache
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.dll
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.pdb
+C:\HHJT Project\Git repository\DL MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.XDR.dll
+C:\HHJT Project\Git repository\DL MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.XDR.pdb
+C:\HHJT Project\Git repository\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.csproj.CoreCompileInputs.cache
+C:\HHJT Project\Git repository\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.dll
+C:\HHJT Project\Git repository\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.pdb
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.XDR.dll
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.XDR.pdb
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.csproj.CoreCompileInputs.cache
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.dll
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.pdb
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.XDR\obj\Debug\HHJT.AFC.Base.XDR.csproj.AssemblyReference.cache

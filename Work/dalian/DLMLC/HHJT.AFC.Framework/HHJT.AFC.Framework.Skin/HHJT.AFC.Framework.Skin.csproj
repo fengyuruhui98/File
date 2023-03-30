@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF2C8D9E-4D44-4D17-8BDC-D66832DE5837}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HHJT.AFC.Framework.Skin</RootNamespace>
+    <AssemblyName>HHJT.AFC.Framework.Skin</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\UI\HHJT.AFC.DLMLC\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Skin.Common.cs" />
+    <Compile Include="Skin.Elements.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Pics\about.png" />
+    <Resource Include="Pics\action_add.png" />
+    <Resource Include="Pics\action_confirm.png" />
+    <Resource Include="Pics\action_delete.png" />
+    <Resource Include="Pics\action_minus.png" />
+    <Resource Include="Pics\action_stop.png" />
+    <Resource Include="Pics\alarm.png" />
+    <Resource Include="Pics\attention.png" />
+    <Resource Include="Pics\autoupdate.png" />
+    <Resource Include="Pics\broadcast.png" />
+    <Resource Include="Pics\caculator.png" />
+    <Resource Include="Pics\calender.png" />
+    <Resource Include="Pics\clock.png" />
+    <Resource Include="Pics\column.png" />
+    <Resource Include="Pics\computer.png" />
+    <Resource Include="Pics\config.png" />
+    <Resource Include="Pics\config_tool.png" />
+    <Resource Include="Pics\cut.png" />
+    <Resource Include="Pics\database.png" />
+    <Resource Include="Pics\db.png" />
+    <Resource Include="Pics\db_add.png" />
+    <Resource Include="Pics\db_alarm.png" />
+    <Resource Include="Pics\db_backup.png" />
+    <Resource Include="Pics\db_clearup.png" />
+    <Resource Include="Pics\db_delete.png" />
+    <Resource Include="Pics\db_fetch.png" />
+    <Resource Include="Pics\db_refresh.png" />
+    <Resource Include="Pics\db_save.png" />
+    <Resource Include="Pics\db_shutdown.png" />
+    <Resource Include="Pics\detail.png" />
+    <Resource Include="Pics\directory.png" />
+    <Resource Include="Pics\donet.png" />
+    <Resource Include="Pics\down.png" />
+    <Resource Include="Pics\download.png" />
+    <Resource Include="Pics\exit.png" />
+    <Resource Include="Pics\export.png" />
+    <Resource Include="Pics\fileget.png" />
+    <Resource Include="Pics\filesave.png" />
+    <Resource Include="Pics\find.png" />
+    <Resource Include="Pics\flag_blue.png" />
+    <Resource Include="Pics\flag_brown.png" />
+    <Resource Include="Pics\flag_green.png" />
+    <Resource Include="Pics\flag_red.png" />
+    <Resource Include="Pics\flag_yellow.png" />
+    <Resource Include="Pics\group.png" />
+    <Resource Include="Pics\hand.png" />
+    <Resource Include="Pics\help.png" />
+    <Resource Include="Pics\help1.png" />
+    <Resource Include="Pics\home.png" />
+    <Resource Include="Pics\huahong.png" />
+    <Resource Include="Pics\key.png" />
+    <Resource Include="Pics\left.png" />
+    <Resource Include="Pics\light_off.png" />
+    <Resource Include="Pics\light_on.png" />
+    <Resource Include="Pics\lock.png" />
+    <Resource Include="Pics\log.png" />
+    <Resource Include="Pics\log1.png" />
+    <Resource Include="Pics\login.png" />
+    <Resource Include="Pics\map.png" />
+    <Resource Include="Pics\message_white.png" />
+    <Resource Include="Pics\message_yellow.png" />
+    <Resource Include="Pics\music.png" />
+    <Resource Include="Pics\new.png" />
+    <Resource Include="Pics\new1.png" />
+    <Resource Include="Pics\pane.png" />
+    <Resource Include="Pics\path.png" />
+    <Resource Include="Pics\pie.png" />
+    <Resource Include="Pics\plugin.png" />
+    <Resource Include="Pics\pointer.png" />
+    <Resource Include="Pics\press.png" />
+    <Resource Include="Pics\print.png" />
+    <Resource Include="Pics\printer.png" />
+    <Resource Include="Pics\refresh.png" />
+    <Resource Include="Pics\report.png" />
+    <Resource Include="Pics\report1.png" />
+    <Resource Include="Pics\right.png" />
+    <Resource Include="Pics\save.png" />
+    <Resource Include="Pics\up.png" />
+    <Resource Include="Pics\updatesoftware.png" />
+    <Resource Include="Pics\user.png" />
+    <Resource Include="Pics\user_add.png" />
+    <Resource Include="Pics\user_delete.png" />
+    <Resource Include="Pics\user_group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Skins\BaseSkin.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Skins\BlackSkin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="Skins\BlueSkin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="Skins\GreenSkin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

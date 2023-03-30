@@ -1,0 +1,15 @@
+
+open 172.210.200.1
+metro
+hhjt2777
+bin
+prompt off
+cd /home/metro/metro_center
+mput  *.pc
+mput  *.cpp
+mput  *.h
+
+ 
+
+ 
+

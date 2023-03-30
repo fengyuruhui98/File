@@ -1,0 +1,589 @@
+//eeprom.c
+//eeprom操作程序
+//编制：
+//时间：
+
+#ifndef _EEPROM_C_
+#define _EEPROM_C_
+//start of file
+
+/*=======================================================================
+函数：
+功能：
+=========================================================================*/
+void fm_iic_delay(void)
+{
+int i;	
+for(i=0;i<2;i++){};
+return;
+}
+
+/*=======================================================================
+函数:fm_iic_start
+功能:起始条件(SCL为高时,SDA下降沿)
+=========================================================================*/
+void fm_iic_start(void)
+{	
+fm_iic_scl_clr();
+fm_iic_delay();
+
+fm_iic_sda_out();
+
+fm_iic_sda_set();
+fm_iic_delay();
+
+fm_iic_scl_set();
+fm_iic_delay();
+
+fm_iic_sda_clr();
+fm_iic_delay();
+return;
+}
+
+/*========================================================================
+函数:fm_iic_stop
+功能:起始条件(SCL为高时,SDA上升沿)
+==========================================================================*/
+void fm_iic_stop(void)
+{
+fm_iic_scl_clr();
+fm_iic_delay();
+
+fm_iic_sda_out();
+
+fm_iic_sda_clr();
+fm_iic_delay();
+
+fm_iic_scl_set();
+fm_iic_delay();
+
+fm_iic_sda_set();
+fm_iic_delay();
+return;
+}
+
+/*=========================================================================
+函数:fm_iic_send_byte
+功能:发送一个字节(MSB first)
+===========================================================================*/
+void fm_iic_send_byte(UBYTE ch)
+{
+fm_iic_scl_clr();
+fm_iic_delay();
+fm_iic_sda_out();
+
+//bit07
+fm_iic_scl_clr();
+fm_iic_delay();
+if(ch&BIT07_MASK){fm_iic_sda_set();}
+else{fm_iic_sda_clr();} 
+fm_iic_delay();
+fm_iic_scl_set();
+fm_iic_delay();
+
+//bit06
+fm_iic_scl_clr();
+fm_iic_delay();
+if(ch&BIT06_MASK){fm_iic_sda_set();}
+else{fm_iic_sda_clr();}
+fm_iic_delay();
+fm_iic_scl_set();
+fm_iic_delay();
+
+//bit05
+fm_iic_scl_clr();
+fm_iic_delay();
+if(ch&BIT05_MASK){fm_iic_sda_set();}
+else{fm_iic_sda_clr();}
+fm_iic_delay();
+fm_iic_scl_set();
+fm_iic_delay();
+
+//bit04
+fm_iic_scl_clr();
+fm_iic_delay();
+if(ch&BIT04_MASK){ fm_iic_sda_set();}
+else {fm_iic_sda_clr();} 
+fm_iic_delay();
+fm_iic_scl_set();
+fm_iic_delay();
+
+//bit03
+fm_iic_scl_clr();
+fm_iic_delay();
+if(ch&BIT03_MASK) {fm_iic_sda_set();}
+else {fm_iic_sda_clr();} 
+fm_iic_delay();
+fm_iic_scl_set();
+fm_iic_delay();
+
+//bit02
+fm_iic_scl_clr();
+fm_iic_delay();
+if(ch&BIT02_MASK) {fm_iic_sda_set();}
+else {fm_iic_sda_clr(); }
+fm_iic_delay();
+fm_iic_scl_set();
+fm_iic_delay();
+
+//bit01
+fm_iic_scl_clr();
+fm_iic_delay();
+if(ch&BIT01_MASK) {fm_iic_sda_set();}
+else {fm_iic_sda_clr();} 
+fm_iic_delay();
+fm_iic_scl_set();
+fm_iic_delay();
+
+//bit00
+fm_iic_scl_clr();
+fm_iic_delay();
+if(ch&BIT00_MASK) {fm_iic_sda_set();}
+else {fm_iic_sda_clr(); }
+fm_iic_delay();
+fm_iic_scl_set();
+fm_iic_delay();
+
+fm_iic_scl_clr();
+fm_iic_delay();
+
+return;
+}
+
+/*=========================================================================
+函数:fm_iic_send_ack
+功能:发送ACK
+===========================================================================*/
+void fm_iic_send_ack(void)
+{
+fm_iic_scl_clr();
+fm_iic_delay();
+
+fm_iic_sda_out();
+
+fm_iic_sda_clr();
+fm_iic_delay();
+
+fm_iic_scl_set();
+fm_iic_delay();
+
+fm_iic_scl_clr();
+fm_iic_delay();
+
+return;
+}
+
+/*==========================================================================
+函数:fm_iic_send_ack
+功能:不发送ACK
+============================================================================*/
+void fm_iic_send_noack(void)
+{
+fm_iic_scl_clr();
+fm_iic_delay();
+
+fm_iic_sda_out();
+
+fm_iic_sda_set();
+fm_iic_delay();
+
+fm_iic_scl_set();
+fm_iic_delay();
+
+fm_iic_scl_clr();
+fm_iic_delay();
+
+return;
+}
+
+/*============================================================================
+函数:fm_iic_rece_byte
+功能:接收一个字节(MSB first)
+==============================================================================*/
+UBYTE fm_iic_rece_byte(void)
+{
+UBYTE ch;
+
+ch = 0;
+fm_iic_scl_clr();
+fm_iic_delay();
+
+fm_iic_sda_in();
+
+//bit7
+fm_iic_scl_set();
+fm_iic_delay();
+if(fm_iic_sda_data()) ch |= (UBYTE)BIT07_MASK;
+fm_iic_scl_clr();
+fm_iic_delay();
+//bit6
+fm_iic_scl_set();
+fm_iic_delay();
+if(fm_iic_sda_data()) ch |= (UBYTE)BIT06_MASK;
+fm_iic_scl_clr();
+fm_iic_delay();
+//bit5
+fm_iic_scl_set();
+fm_iic_delay();
+if(fm_iic_sda_data()) ch |= (UBYTE)BIT05_MASK;
+fm_iic_scl_clr();
+fm_iic_delay();
+//bit4
+fm_iic_scl_set();
+fm_iic_delay();
+if(fm_iic_sda_data()) ch |= (UBYTE)BIT04_MASK;
+fm_iic_scl_clr();
+fm_iic_delay();
+//bit3
+fm_iic_scl_set();
+fm_iic_delay();
+if(fm_iic_sda_data()) ch |= (UBYTE)BIT03_MASK;
+fm_iic_scl_clr();
+fm_iic_delay();
+//bit2
+fm_iic_scl_set();
+fm_iic_delay();
+if(fm_iic_sda_data()) ch |= (UBYTE)BIT02_MASK;
+fm_iic_scl_clr();
+fm_iic_delay();
+//bit1
+fm_iic_scl_set();
+fm_iic_delay();
+if(fm_iic_sda_data()) ch |= (UBYTE)BIT01_MASK;
+fm_iic_scl_clr();
+fm_iic_delay();
+//bit0
+fm_iic_scl_set();
+fm_iic_delay();
+if(fm_iic_sda_data()) ch |= (UBYTE)BIT00_MASK;
+fm_iic_scl_clr();
+fm_iic_delay();
+
+return ch;
+}
+
+/*=================================================================================
+函数:fm_iic_rece_ack
+功能:接收IIC应答信号
+返回:
+0: 有应答
+1: 无应答
+===================================================================================*/
+UBYTE fm_iic_rece_ack(void)
+{
+UBYTE ch;
+
+fm_iic_scl_clr();
+fm_iic_delay();
+
+fm_iic_sda_in();
+
+fm_iic_scl_set();
+fm_iic_delay();
+
+if(fm_iic_sda_data()) ch = 1;
+else ch = 0;
+
+fm_iic_scl_clr();
+fm_iic_delay();
+
+return ch;
+}
+
+/*==============================================================================
+函数:ee_read
+功能:读取EE
+================================================================================*/
+UBYTE ee_read(UWORD addr,UWORD bytes,UBYTE *outbuf)
+{
+UBYTE high,low;
+UBYTE cnt;
+UWORD i;
+
+
+if(bytes == 0) return 0;
+if(addr >= MAX_EEPROM_SIZE) return 1;
+if(bytes > MAX_EEPROM_SIZE) return 1;
+if((addr+bytes) > MAX_EEPROM_SIZE) return 1;
+
+//
+//os_lock();
+
+cnt = 0;
+//地址
+low = *((char *)&addr+INT_LOW);
+high = *((char *)&addr+INT_HIGH);
+
+label_loop:
+
+//设置起始地址
+fm_iic_start();
+#ifdef  _FM24CL64_ 
+fm_iic_send_byte(0xa0);
+if(fm_iic_rece_ack() != 0) goto label_err;
+fm_iic_send_byte(high);
+if(fm_iic_rece_ack() != 0) goto label_err;
+#endif
+#ifdef  _FM24CL16_ 
+fm_iic_send_byte((high*2)|0xa0);
+if(fm_iic_rece_ack() != 0) goto label_err;
+#endif
+fm_iic_send_byte(low);
+if(fm_iic_rece_ack() != 0) goto label_err;
+
+fm_iic_start();
+#ifdef _FM24CL16_
+fm_iic_send_byte((high*2)|0xa1);
+#endif
+#ifdef _FM24CL64_
+fm_iic_send_byte(0xa1);
+#endif
+if(fm_iic_rece_ack() != 0) goto label_err;
+
+//读
+for(i=0;i<(bytes-1);i++){
+   outbuf[i]  = fm_iic_rece_byte();
+   fm_iic_send_ack();
+   }
+//最后一个字节
+outbuf[i] = fm_iic_rece_byte();
+fm_iic_send_noack();
+fm_iic_stop();
+
+
+//读第二次
+//设置起始地址
+fm_iic_start();
+#ifdef  _FM24CL64_ 
+fm_iic_send_byte(0xa0);
+if(fm_iic_rece_ack() != 0) goto label_err;
+fm_iic_send_byte(high);
+if(fm_iic_rece_ack() != 0) goto label_err;
+#endif
+#ifdef  _FM24CL16_ 
+fm_iic_send_byte((high*2)|0xa0);
+if(fm_iic_rece_ack() != 0) goto label_err;
+#endif
+fm_iic_send_byte(low);
+if(fm_iic_rece_ack() != 0) goto label_err;
+//
+fm_iic_start();
+#ifdef _FM24CL16_
+fm_iic_send_byte((high*2)|0xa1);
+#endif
+#ifdef _FM24CL64_
+fm_iic_send_byte(0xa1);
+#endif
+if(fm_iic_rece_ack() != 0) goto label_err;
+//读
+for(i=0;i<(bytes-1);i++){
+   if((UBYTE)outbuf[i] != (UBYTE)fm_iic_rece_byte()) goto label_retry;
+   fm_iic_send_ack();
+   }
+//最后一个字节
+if((UBYTE)outbuf[i] != (UBYTE)fm_iic_rece_byte()) goto label_retry;
+fm_iic_send_noack();
+fm_iic_stop();
+//os_unlock();
+return 0;
+
+label_retry:
+cnt++;
+if(cnt > 5){
+  goto label_err;
+  }
+goto label_loop;
+
+label_err:
+//os_unlock();
+return 1;  
+}
+
+
+/*=============================================================================
+函数:fm2416_write
+功能:写EE
+===============================================================================*/
+UBYTE ee_write(UWORD addr,UWORD bytes,UBYTE *inbuf)
+{
+UBYTE high,low;
+UBYTE cnt,ch;
+UWORD i;
+
+
+if(bytes == 0) return 0;
+if(addr >= MAX_EEPROM_SIZE) return 1;
+if(bytes > MAX_EEPROM_SIZE) return 1;
+if((addr+bytes) > MAX_EEPROM_SIZE) return 1;
+
+//os_lock();
+cnt = 0;
+
+high = *((char *)&addr+INT_HIGH);
+low  = *((char *)&addr+INT_LOW);
+fm_iic_wp_clr();
+
+label_loop:
+
+//write
+fm_iic_start();
+#ifdef  _FM24CL64_ 
+fm_iic_send_byte(0xa0);
+if(fm_iic_rece_ack() != 0) goto label_err;
+fm_iic_send_byte(high);
+if(fm_iic_rece_ack() != 0) goto label_err;
+#endif
+
+#ifdef  _FM24CL16_ 
+fm_iic_send_byte((high*2)|0xa0);
+if(fm_iic_rece_ack() != 0) goto label_err;
+#endif
+
+fm_iic_send_byte(low);
+if(fm_iic_rece_ack() != 0) goto label_err;
+
+for(i=0;i<bytes;i++){
+   fm_iic_send_byte(inbuf[i]);
+   if(fm_iic_rece_ack() != 0) goto label_err;
+   }
+fm_iic_stop();
+
+//铁电存储器无需等待
+
+//校验
+fm_iic_start();
+#ifdef  _FM24CL64_ 
+fm_iic_send_byte(0xa0);
+if(fm_iic_rece_ack() != 0) goto label_err;
+fm_iic_send_byte(high);
+if(fm_iic_rece_ack() != 0) goto label_err;
+#endif
+#ifdef  _FM24CL16_ 
+fm_iic_send_byte((high*2)|0xa0);
+if(fm_iic_rece_ack() != 0) goto label_err;
+#endif
+fm_iic_send_byte(low);
+if(fm_iic_rece_ack() != 0) goto label_err;
+fm_iic_start();
+#ifdef _FM24CL16_
+fm_iic_send_byte((high*2)|0xa1);
+#endif
+#ifdef _FM24CL64_
+fm_iic_send_byte(0xa1);
+#endif
+if(fm_iic_rece_ack() != 0) goto label_err;
+//
+for(i=0;i<(bytes-1);i++){
+    ch = fm_iic_rece_byte();
+    fm_iic_send_ack();
+    if((UBYTE)ch != (UBYTE)inbuf[i]) goto label_retry;
+    }
+ch = fm_iic_rece_byte();
+fm_iic_send_noack();
+if((UBYTE)ch != (UBYTE)inbuf[i]) goto label_retry;
+fm_iic_stop();
+fm_iic_wp_set();
+//os_unlock();
+return 0;
+
+label_retry:
+cnt++;
+if(cnt > 5){
+   goto label_err;
+   }
+goto label_loop;
+
+//错误出口
+label_err:
+fm_iic_wp_set();
+fm_iic_stop();
+//os_unlock();
+return 1;
+}
+
+
+
+/*=========================================================================
+函数：fm2416_init
+功能：
+===========================================================================*/
+UBYTE ee_init(void)
+{
+fm_iic_wp_set();
+fm_iic_delay();
+fm_iic_scl_set();
+fm_iic_delay();
+fm_iic_sda_in();
+fm_iic_delay();
+fm_iic_sda_set();
+fm_iic_delay();
+return 0;	
+}	
+
+
+/********************************************************************************
+函数:ee_write_lrc2
+功能:按照lrc2结构更新数据
+*********************************************************************************/
+UBYTE ee_write_lrc2(UWORD addr,UBYTE bytes,UBYTE *buf)
+{
+UBYTE ret;
+UBYTE lbuf[2];	
+	
+lrc_gen(buf,bytes);
+ret = ee_write((UWORD)(addr+bytes+1),(UBYTE)(bytes+1),buf);
+if(ret != 0) return ret;
+
+lbuf[0] = 0x55;
+lbuf[1] = 0x55;
+ret = ee_write((UWORD)(addr+2*bytes+2),2,lbuf);
+if(ret != 0) return ret;
+
+ret = ee_write(addr,(UBYTE)(bytes+1),buf);
+if(ret != 0) return ret;
+
+lbuf[0] = 0;
+lbuf[1] = 0;
+ret = ee_write((UWORD)(addr+2*bytes+2),2,lbuf);
+if(ret != 0) return ret;
+	
+return 0;	
+}
+
+/******************************************************************************
+函数:ee_read_lrc2
+功能:按照lrc2结构更新数据
+*******************************************************************************/
+UBYTE ee_read_lrc2(UWORD addr,UBYTE bytes,UBYTE *buf)
+{
+UBYTE lbuf[2];
+UBYTE ret;
+
+ret = ee_read((UWORD)(addr+2*bytes+2),2,lbuf);
+if(ret != 0) return ret;	
+if((lbuf[0] == 0x55) && (lbuf[1] == 0x55)){
+   ret = ee_read((UWORD)(addr+bytes+1),(UBYTE)(bytes+1),buf);
+   if(ret != 0) return ret;
+   if(lrc_chk(buf,bytes) != 0) return (UBYTE)-5;
+   return 0;	
+   }	 	
+
+ret = ee_read(addr,(UBYTE)(bytes+1),buf);
+if(ret != 0) return ret;
+if(lrc_chk(buf,bytes) != 0) return (UBYTE)-5;
+	
+return 0;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

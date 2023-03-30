@@ -1,0 +1,4 @@
+E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\HHJT.AFC.Base.API.dll
+E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\HHJT.AFC.Base.API.pdb
+E:\AFCDev\大连\平台\HHJT.AFC.Base\HHJT.AFC.Base.API\obj\Debug\HHJT.AFC.Base.API.dll
+E:\AFCDev\大连\平台\HHJT.AFC.Base\HHJT.AFC.Base.API\obj\Debug\HHJT.AFC.Base.API.pdb

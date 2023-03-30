@@ -1,0 +1,5 @@
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\bin\HHJT.AFC.Base.Comm.dll
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\bin\HHJT.AFC.Base.Comm.pdb
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Release\HHJT.AFC.Base.Comm.csproj.CoreCompileInputs.cache
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Release\HHJT.AFC.Base.Comm.dll
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Release\HHJT.AFC.Base.Comm.pdb

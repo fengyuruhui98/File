@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Params>
+  <!--五号线线路分中心配置-->
+  <ServerIP>172.5.200.12</ServerIP>
+  <ServerPort>1521</ServerPort>
+  <ServiceName>ORCL</ServiceName>
+  <UserID>ccdb</UserID>
+  <Password>ccdb</Password>
+
+	<MlcServerIP>172.198.1.1</MlcServerIP>
+	<MlcServerPort>1521</MlcServerPort>
+	<MlcServiceName>ORCL</MlcServiceName>
+	<MlcUserID>dlmlcdb</MlcUserID>
+	<MlcPassword>dlmlcdb</MlcPassword>
+
+</Params>

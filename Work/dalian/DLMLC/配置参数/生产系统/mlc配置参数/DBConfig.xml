@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Params>
+
+  <!--MLC-->
+  <ServerIP>172.198.1.1</ServerIP>
+  <ServerPort>1521</ServerPort>
+  <ServiceName>ORCL</ServiceName>
+  <UserID>dlmlcdb</UserID>  
+  <Password>dlmlcdb</Password>
+
+</Params>

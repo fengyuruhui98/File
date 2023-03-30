@@ -1,0 +1,18 @@
+[Project ID]
+	Signature=UE Proj: v.1
+[Project Information]
+	Use Relative Directory=1
+	Relative to Project File=1
+	Include Sub Directories=0
+	Project Tagfile=
+	Project Wordfile=
+	Project TpFile=
+	Filter=
+	Create Tagfile=0
+[Files]
+	0=serial.h
+	1=include.h
+	2=file_manager.c
+	3=file_manager.h
+	4=Makefile
+	5=serial.c

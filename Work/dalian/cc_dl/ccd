@@ -1,0 +1,55 @@
+RETVAL=0
+prog="metro_center"
+
+start() {
+        echo -n $"Starting $prog..."
+        echo
+        /home/metro/metro_center/$prog
+        RETVAL=$?
+        return $RETVAL
+}
+
+stop() {
+        echo -n $"Stopping $prog..."
+        echo
+        ps -ef|grep $prog | grep -v grep|awk '{print $2}'|xargs -i kill -15 {} 
+        sleep 5
+        ps -ef|grep $prog | grep -v grep|awk '{print $2}'|xargs -i kill -9 {} 
+        RETVAL=$?
+        return $RETVAL
+}
+
+# See how we were called.
+case "$1" in
+  start)
+        ps -ef|grep $prog | grep -v grep
+        if [ $? -eq 0 ]; then
+	    echo  "Program is running ..."
+	else
+	    start
+	fi	
+        ;;
+  stop)
+        stop
+        ;;
+  status)
+        ps -ef|grep $prog | grep -v grep
+        if [ $? -eq 0 ]; then
+	    echo  "Program is running ..."
+	else
+            echo [`date`]
+            echo  "Program is stopped!"	
+	fi
+	echo
+        ;;
+  reload|restart)
+        stop
+        sleep 5
+        start
+        ;;
+  *)
+        echo $"Usage: $0 {start|stop|status|restart|reload}"
+        exit 1
+esac
+
+exit $RETVAL

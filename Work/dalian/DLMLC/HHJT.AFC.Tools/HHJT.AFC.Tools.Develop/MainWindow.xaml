@@ -1,0 +1,11 @@
+﻿<Window x:Class="HHJT.AFC.Tools.Develop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="hhjt.ico"
+       Title="华虹计通AFC系统工具" Height="600" Width="800">
+    <DockPanel>
+        <Label DockPanel.Dock="Bottom">(C) 2014 上海华虹计通智能系统股份有限公司AFC事业部</Label>
+        <TabControl Name="tabCtrl"></TabControl>
+    </DockPanel>
+</Window>
+

@@ -1,0 +1,48 @@
+E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\HHJT.AFC.Base.Comm.dll
+E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\HHJT.AFC.Base.Comm.pdb
+E:\AFCDev\大连\平台\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.dll
+E:\AFCDev\大连\平台\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.pdb
+E:\大连地铁\DL\大连地铁MLC\大连地铁MLC前端应用程序\大连源代码\HHJT.AFC.Base\bin\HHJT.AFC.Base.Comm.dll
+E:\大连地铁\DL\大连地铁MLC\大连地铁MLC前端应用程序\大连源代码\HHJT.AFC.Base\bin\HHJT.AFC.Base.Comm.pdb
+E:\大连地铁\DL\大连地铁MLC\大连地铁MLC前端应用程序\大连源代码\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csprojResolveAssemblyReference.cache
+E:\大连地铁\DL\大连地铁MLC\大连地铁MLC前端应用程序\大连源代码\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.dll
+E:\大连地铁\DL\大连地铁MLC\大连地铁MLC前端应用程序\大连源代码\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.pdb
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\前端\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.dll
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\前端\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.pdb
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csproj.CoreCompileInputs.cache
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.dll
+C:\HHJT Project\AFC\DL\大连源代码1\大连源代码\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.pdb
+C:\HHJT Project\Git repository\DL MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.dll
+C:\HHJT Project\Git repository\DL MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.pdb
+C:\HHJT Project\Git repository\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csproj.CoreCompileInputs.cache
+C:\HHJT Project\Git repository\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.dll
+C:\HHJT Project\Git repository\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.pdb
+C:\HHJT Project\Git repository\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csproj.AssemblyReference.cache
+E:\大连地铁\DL\大连地铁MLC\DL MLC\DL MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.dll
+E:\大连地铁\DL\大连地铁MLC\DL MLC\DL MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.pdb
+E:\大连地铁\DL\大连地铁MLC\DL MLC\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.dll
+E:\大连地铁\DL\大连地铁MLC\DL MLC\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.pdb
+E:\大连地铁\DL\大连地铁MLC\DL MLC\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csproj.AssemblyReference.cache
+E:\大连地铁\DL\大连地铁MLC\DL MLC\DL MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csproj.CoreCompileInputs.cache
+E:\大连地铁\DL\大连地铁MLC\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.dll
+E:\大连地铁\DL\大连地铁MLC\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.pdb
+E:\大连地铁\DL\大连地铁MLC\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csprojResolveAssemblyReference.cache
+E:\大连地铁\DL\大连地铁MLC\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.dll
+E:\大连地铁\DL\大连地铁MLC\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.pdb
+E:\大连地铁\代码\MLC\前端\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.dll
+E:\大连地铁\代码\MLC\前端\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.pdb
+E:\大连地铁\代码\MLC\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csprojResolveAssemblyReference.cache
+E:\大连地铁\代码\MLC\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.dll
+E:\大连地铁\代码\MLC\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.pdb
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.dll
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.pdb
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csproj.AssemblyReference.cache
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csproj.CoreCompileInputs.cache
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.dll
+D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.pdb
+D:\zdworkspace\dalian\五号线\MLC\前端\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.dll
+D:\zdworkspace\dalian\五号线\MLC\前端\DL_MLC\UI\HHJT.AFC.DLMLC\bin\HHJT.AFC.Base.Comm.pdb
+D:\zdworkspace\dalian\五号线\MLC\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csproj.AssemblyReference.cache
+D:\zdworkspace\dalian\五号线\MLC\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.csproj.CoreCompileInputs.cache
+D:\zdworkspace\dalian\五号线\MLC\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.dll
+D:\zdworkspace\dalian\五号线\MLC\前端\DL_MLC\HHJT.AFC.Base\HHJT.AFC.Base.Comm\obj\Debug\HHJT.AFC.Base.Comm.pdb

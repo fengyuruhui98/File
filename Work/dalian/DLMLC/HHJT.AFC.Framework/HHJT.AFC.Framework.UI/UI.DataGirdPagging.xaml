@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="HHJT.AFC.Framework.UI.UIDataGirdPagging"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                          xmlns:ui="clr-namespace:HHJT.AFC.Framework.Skin;assembly=HHJT.AFC.Framework.Skin"
+ >
+    <Grid>
+ 
+        <WrapPanel>
+            <Button Name="btnFirstPage" Content="首页" Width="40" Margin="2" Click="btnFirstPage_Click" ></Button>
+            <Button Name="btnPageUp" Content="上一页" Width="50" Margin="2" Click="btnPageUp_Click"></Button>
+            <Button Name="btnPageDown" Content="下一页" Width="50" Margin="2" Click="btnPageDown_Click"></Button>
+            <Button Name="btnEndPage" Content="尾页" Width="40" Margin="2" Click="btnEndPage_Click"></Button>
+            <ComboBox Width="100" Name="cbxPageSizeList" DisplayMemberPath="PageSizeValue" SelectedValuePath="PageSizeKey"  SelectionChanged="cbxPageSizeList_SelectionChanged"  />
+            <TextBlock Name="txtPagerInfo"   Margin="5"></TextBlock>
+        </WrapPanel>
+    </Grid>
+</UserControl>
