@@ -453,69 +453,123 @@ PS.no talking with CHN, listen the "renshijian" all the night.
 
 # 23:19 Wen, Mar 29, 2023
 
-## Cost: ￥28.90 In: None
+## Cost: ￥112.91 In: None
 >Jiefudexiaocai ￥33.90
+>red envelope from Jiefudexiaocai￥3.00
 >Kugou VIP ￥15.00
+>Huazhu Vip ￥50.00
+>China CITIC bank credit card ￥0.01
+>Rail way from hotel to airport ￥4.00
+>rail way from Pudong airport to home ￥7.00
 
 ## Daily
 Life is a circle, we go around and around, some went out of the rail and go far, never back, and some always keep rooling...
 
-Flowers grow new buds
-
-Like children grow up
-
-The train of life rolls on and stops for none
-
-Through every station
-
-Memories of joy and misery are felt
-
-We're just snowflakes drifting round 'til the day we melt
-
-Every life suffers, lovers part and sleep alone
-
-On your adventure turn around and visit home
-
-We're normal people holding up the family's roof so their flame
-
-Is not extinguished by the world's tides of change
-
-I hope you live a joyful life next to your soulmate lover's side
-
-Hear childhood stories tales of pride all through your mother's elder eyes
-
-Please don't forget those youthful skies
-
-But if fond memories fade with time
-
-Hold onto one that's yours and mine
-
-We loved like fire
-
-We lived like warriors
-
-For life is precious
-
-In every life there will be pain and there'll be joy
-
-With every choice made the sun will rise and slowly fall
-
-We're normal people trying hard to find our way through each storm
-
-And though our hands are cold our hearts will be warm
-
-I hope you live a joyful life next to your soulmate lover's side
-
-Hear childhood stories tales of pride all through your mother's elder eyes
-
-Please don't forget those youthful skies
-
-But if fond memories fade with time
-
-Hold onto one that's yours and mine
-
-Beneath the sunrise
-
-Like seeds we'll soon rise
-
+Flowers grow new buds  
+Like children grow up  
+The train of life rolls on and stops for none  
+Through every station  
+Memories of joy and misery are felt  
+We're just snowflakes drifting round 'til the day we melt  
+Every life suffers, lovers part and sleep alone  
+On your adventure turn around and visit home  
+We're normal people holding up the family's roof so their flame  
+Is not extinguished by the world's tides of change  
+I hope you live a joyful life next to your soulmate lover's side  
+Hear childhood stories tales of pride all through your mother's elder eyes  
+Please don't forget those youthful skies  
+But if fond memories fade with time  
+Hold onto one that's yours and mine  
+We loved like fire  
+We lived like warriors  
+For life is precious  
+In every life there will be pain and there'll be joy  
+With every choice made the sun will rise and slowly fall  
+We're normal people trying hard to find our way through each storm  
+And though our hands are cold our hearts will be warm  
+I hope you live a joyful life next to your soulmate lover's side  
+Hear childhood stories tales of pride all through your mother's elder eyes  
+Please don't forget those youthful skies  
+But if fond memories fade with time  
+Hold onto one that's yours and mine  
+Beneath the sunrise  
+Like seeds we'll soon rise  
 And touch the blue sky  
+
+Plants and trees will sprout and children will grow
+The train of years does not stop for anyone
+The platform of fate Sorrow and joy are all moments
+Man like snowflakes fly high and melt
+The bitterness of the world, love will be scattered, and the rain will fall
+The sweetness of the world Remember to go home as far as you go
+Ordinary us hold up a fireworks under the eaves
+No matter how many vicissitudes change in the world
+I wish you a thousand waves
+Be able to stay by your lover's side
+In the time when mom was old
+Listen to her talk slowly about her childhood
+I also wish you not to forget your youthful appearance
+And not afraid of the gray-haired one
+If the years will be forgotten, remember you and me
+Love like fire
+The world is worth it
+
+Wu
+
+There are as many ways to live as there are bitter pleasures
+As many changes as there are, the sun rises and sets
+Ordinary us, rain, snow, wind and frost, do not ask where to go
+With the withering of the seasons, they still sing in the wind
+I wish you a thousand waves
+Be able to stay by your lover's side
+In the time when mom was old
+Listen to her talk slowly about her childhood
+I also wish you not to forget your youthful appearance
+And not afraid of the gray-haired one
+We are like seeds
+A lifetime of sunshine
+In this soil
+Grow with everything
+
+At morning after ate at about 9:30am, I received mom's calls asked me to take all things on, and then I feel very tired.  
+At about 15:00pm, I left the hotel ahead for the airport and for I didn't order the seats on the phone, I print the ticket at the airport and chose the seats mid in the plane. 
+When I left the hotel, I was told that my room can not be checked for I left late after 14:00pm, and I had to pay for the Huazhu Vip, so that I could just delay the time I can check. 
+Then I called Ali travelling merchants. 
+Then I arrived home at about 22:30pm and found that some one got into my room and change the pipe, then the rain was flowing when I arrived. 
+The room was really wet.
+
+PS.no housing made me feel very bad.
+
+# 23:19 Thu, Mar 30, 2023
+
+## Cost: ￥65.40 In: ￥9.00
+>Morning steamed stuffed bun ￥9.00
+>Tofu & Haidilao hot pot ingredients ￥16.40
+>seven stars ￥40.00
+>lunch fee from Shuisheng ￥9.00
+
+## Daily
+Morning, got up at about 8:30am, and then went to the Xiaofuyuan, and ate the steamed stuffed bun, and then went to work, I met Chenjingpeng at the cross, and he told me that he would left.
+When I arrived the company only fonud that my display was disappear and was on Shitingnan's desktop, and I didn't made it really on my heart, and then I found Wumin wasn't at the company, and the whole day, he didn't called me, and I was thanksful that he didn't come to me.
+Then the morning I was collecting books, and at lunch, I went to the canteen with Chenjingpeng, and then he told me that he would left the company and went to do the Quantum teleportation, at Guoke Quantum Communication Network Co., Ltd. There would ￥300,000 a year, and said that he would left ASAP.
+Life was so different between mans, people come and met and know each other an then dispart at some crosses.
+I feel complex all the afternoon, and then bought the hot pot ingredients and tofu and bowl them with beef, tastes good, especially the beef tendon.
+
+# 23:19 Fri, Mar 31, 2023
+
+## Cost: ￥22.00 In: ￥20.00
+>morning ate at the Quanjia convenience store ￥22.00
+>red evenlope from SHuisheng ￥20.00
+
+## Daily
+
+Morning, after I got up late at about 9:00am, I went to the company and bought some foods at Quanjia where I thought that I can have the discount but betold that only the VIP can have the discount, shit.
+Then Wumin was still wasn't in the company, and I heard that he was thinking that if I should be dispatched to Chuzhou, and he planned to send Jinguangyu to do the MLC work, I feel little disappointed that I may had no chance went there and here.
+I thout that was because that Jinguangyu had no house at Shanghai, and had to stay there, and Chenjingpeng sadi that the company may raise our salary and recruit four people, then I did the paper test the four people did, and then, the afternoon was busy, I root some card readers.
+At noon, Sis sended me message that if I would went outside and eat something, just after Chenjingpeng told me that he would enjoy life at Yangcheng lake, so I said yes.
+I went back at about 16:30pm, and then do the collection of the Japan AVs, then ate some melon seed peanuts. And didn't ate dinner.
+
+PS.forgot to sign up for CHN with the test of Putonghua.
+
+# MONTH-COUNT
+## Cost: ￥44216.51 In: ￥35672.45 Sub: ￥-8544.06
