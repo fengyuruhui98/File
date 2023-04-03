@@ -1,1 +1,0 @@
-ftp -s:processLcc.txt 

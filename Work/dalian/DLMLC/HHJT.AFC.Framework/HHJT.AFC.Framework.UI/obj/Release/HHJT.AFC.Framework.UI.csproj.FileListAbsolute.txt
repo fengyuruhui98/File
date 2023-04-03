@@ -1,4 +1,0 @@
-D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Framework\HHJT.AFC.Framework.UI\obj\Release\HHJT.AFC.Framework.UI.csproj.AssemblyReference.cache
-D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Framework\HHJT.AFC.Framework.UI\obj\Release\HHJT.AFC.Framework.UI.Properties.Resources.resources
-D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Framework\HHJT.AFC.Framework.UI\obj\Release\HHJT.AFC.Framework.UI.csproj.GenerateResource.cache
-D:\zdworkspace\dalian\前端\大连MLC前端_V23.1.31\前端\DL_MLC\HHJT.AFC.Framework\HHJT.AFC.Framework.UI\obj\Release\HHJT.AFC.Framework.UI.csproj.CoreCompileInputs.cache

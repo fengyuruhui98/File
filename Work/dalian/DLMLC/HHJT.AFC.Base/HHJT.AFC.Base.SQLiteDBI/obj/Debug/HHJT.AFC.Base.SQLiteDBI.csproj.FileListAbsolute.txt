@@ -1,8 +1,0 @@
-E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\System.Data.SQLite.dll
-E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\SQLite.Interop.dll
-E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\System.Data.SQLite.Linq.dll
-E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\HHJT.AFC.Base.SQLiteDBI.dll
-E:\AFCDev\大连\平台\HHJT.AFC.Base\bin\HHJT.AFC.Base.SQLiteDBI.pdb
-E:\AFCDev\大连\平台\HHJT.AFC.Base\HHJT.AFC.Base.SQLiteDBI\obj\Debug\HHJT.AFC.Base.SQLiteDBI.csprojResolveAssemblyReference.cache
-E:\AFCDev\大连\平台\HHJT.AFC.Base\HHJT.AFC.Base.SQLiteDBI\obj\Debug\HHJT.AFC.Base.SQLiteDBI.dll
-E:\AFCDev\大连\平台\HHJT.AFC.Base\HHJT.AFC.Base.SQLiteDBI\obj\Debug\HHJT.AFC.Base.SQLiteDBI.pdb
