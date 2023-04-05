@@ -1,0 +1,120 @@
+# C语言中函数指针和复杂声明
+
+最近在看c语言解析json的相关类库，看到了一些比较复杂的声明方式，所以又重新回顾了一下相关知识。
+
+## 函数指针
+不同于JS中函数可以作为函数变量被创建，C语言中函数本身不是变量，但是可以定义指向函数的指针，即函数指针，从而用作变量进行一些参数传递等。
+
+以下用一些示例代码来讲解。
+
+```c
+// 声明一个函数指针
+int (*comp)(void *, void *) /* 正确的写法 */
+int *comp(void *, void *)   /* 错误的写法 */
+```
+
+这句话规定了：comp是一个函数指针，它所指向的函数具有两个void\*类型的参数，返回类型是int。
+
+(\*comp)的括号是必不可少的，如果缺少就会变成上述第二种错误写法，这种写法的含义是：定义一个函数，这个函数返回类型是int类型的指针。并不是函数指针。（下面的复杂声明部分将详细分析\*的使用规律。）
+
+void\*是通用指针类型，任何类型的指针都可以转换为void\*，并且从void\*反转回来时不会丢失信息。在调用comp时，将会把参数强制转换为void\*类型。
+
+```c
+// 调用该函数
+if((*comp)(v[i], v[left]) < 0)
+```
+
+comp代表一个函数指针，\*comp代表一个函数，上述写法代表调用了comp所指向的函数，并且判断这个函数的返回值是否<0。
+
+## 复杂声明
+C语言的声明不能从左至右阅读，而且频繁使用大括号来结合各个部分，导致声明复杂而难以理解。
+
+上面已经说到，因为函数指针中\*的结合规则，有这样两种声明：
+
+```c
+int *f();       // f是一个函数，返回一个指向int类型的指针
+int (*pf)();    // pf是一个函数指针，返回一个int类型的对象
+```
+
+从以上差异可以看出，\*是一个前缀运算符，优先级低于()。
+
+## typedef定义函数指针
+
+```c
+typedef int (*PFI)(void *, void *);
+PFI comp;
+```
+
+上述写法定义了类型PFI是“一个函数指针，它所指向的函数具有两个void\*类型的参数，返回类型是int”。然后声明comp为该类型的函数指针。当需要定义多个同类型函数指针时，这种写法更为简洁。
+
+## 实际应用
+再回到json类库的问题中（不相干代码略过）：
+
+```c
+// json.h
+typedef struct json_hooks   json_hooks;
+
+struct json_hooks
+{
+    void *(*malloc_fn)(size_t sz);
+    void (*free_fn) (void *ptr);
+};
+
+void json_init_hooks(json_hooks *hooks);
+
+
+
+// json.c
+static void *(*json_malloc)(size_t sz) = malloc;
+static void (*json_free)(void *ptr) = free;
+
+void json_init_hooks(json_hooks *hooks)
+{
+    if (!hooks) /* Reset hooks */
+    { 
+        json_malloc = malloc;
+        json_free = free;
+        return;
+    }
+
+    json_malloc = (hooks->malloc_fn)?hooks->malloc_fn:malloc;
+    json_free = (hooks->free_fn)?hooks->free_fn:free;
+}
+```
+
+下面是上述代码的分析，首先json_hooks结构声明中：
+
+```c
+void *(*malloc_fn)(size_t sz);
+void (*free_fn) (void *ptr);
+```
+
+malloc_fn是一个函数指针，它所指向的函数具有一个size_t类型的参数，返回void类型的指针。
+free_fn是一个函数指针，它所指向的函数具有一个void\*类型的指针，无返回值。
+json.c中：
+
+```c
+static void *(*json_malloc)(size_t sz) = malloc;
+static void (*json_free)(void *ptr) = free;
+```
+
+在全局声明了两个静态函数指针（json_malloc和json_free），把json_malloc指向malloc函数，json_free指向free函数。
+
+```c
+void json_init_hooks(json_hooks *hooks)
+{
+    if (!hooks)
+    { 
+        json_malloc = malloc;
+        json_free = free;
+        return;
+    }
+
+    json_malloc = (hooks->malloc_fn)?hooks->malloc_fn:malloc;
+    json_free = (hooks->free_fn)?hooks->free_fn:free;
+}
+```
+
+如果hooks未声明，则对两个函数指针进行重置。
+如果hooks已声明，使用了三元判断式，如果hooks的malloc_fn存在，则让json_malloc指向它，否则指向malloc，free同理。
+说到底，hook的意思是钩子，换句话说就是劫持，这部分代码的意义在于，**提供一个接口允许开发者自定义一组malloc和free函数，如果开发者没有定义，默认采用stdlib.h中的malloc和free。**
