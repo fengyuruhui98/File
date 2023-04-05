@@ -46,6 +46,8 @@ The rain went big and we were told that the car rent by company would send us ba
 The Suning yayue was good, the floor was under black woods. Awsome. 
 When I arrived hotel I went to the store and bought an umbrella.
 
+PS.Wensday would be Qingming, and we may over time work. And the salary might rise for twice.
+
 # 23:19 Tue, Apr 4, 2023
 
 ## Cost: ￥59.30 In: None
@@ -56,7 +58,11 @@ When I arrived hotel I went to the store and bought an umbrella.
 >dinner for beef glass noodles soup and pies ￥17.00
  
 ## Daily
-Morning, ate at the 
+Morning, ate at the Suning Yayue hotel, then went to work with all my clothes and other things. I took the 8th bus, which took me about one hour, and then walked to the Linlou village. At about 10:00am, I signed up for CHN, but found that it would use the new website, and when I got ready, I found that there was no more places. 
+Work on the morning and then ordered the take away foods, with chicken rice. Wumin and Liuguangpu didn't show up all the day, at afternoon, I watched the "wujian" and didn't work much, Chenjingpeng said it was not time out, but still asked if I had done, sh*t.
+Then at night about 18:00pm, I walked to the station of the 20th bus, and then got hotel of the Gelin Dongfang.
+The shower in the hotel was brillint, and the smell made feel very familiar the only unperfect thing was that the room I ordered was much smaller than others, and the electric card need money ￥50.00 as deposit. 
+Night I went out for dinner and the beef soup was bad, that too much oil.
 
 # 23:19 Wen, Apr 5, 2023
 
