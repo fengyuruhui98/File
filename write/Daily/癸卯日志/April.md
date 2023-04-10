@@ -66,9 +66,93 @@ Night I went out for dinner and the beef soup was bad, that too much oil.
 
 # 23:19 Wen, Apr 5, 2023
 
-## Cost: ￥ In: ￥7488.42
+## Cost: ￥6.00 In: ￥7488.42
 >Bus from Hotel to linlou village ￥1.00
 >salary ￥7483.42
 >red evenlope ￥5.00
+ 
+## Daily
+Morning, there was still cold outside, and I ate at the hotel and then went to took the bus from hotel to Linlou village and then walked to the Linlou village, then free for all the day, and lunch for the Luyuanwai, Wumin paid the bell, and dinner for the chicken Liuguangpu paid the bell, then we walked back to the hotel, which took us for about one hour.
+The room at Gelin Dongfang was so small but the shower was excellent. 
+At about 9:30am, I signed up for CHN and succeed, then it said that must be cash fee. So I told CHN.
+
+# 23:19 The, Apr 6, 2023
+
+## Cost: ￥59.05 In: None
+>taxi from hotel to Linlou village ￥12.05
+>Luyuanwi at Linlou village ￥18.00
+>Luyuanwi at Linlou village ￥15.50
+>PureFast VIP ￥13.50
+ 
+## Daily
+Morning, after ate at the canteen with Wumin and Liuguangpu, we took a taxi to the Linlou village, then we work all the day, there was a Kedaxunfei stuff and there was a man came, we ate the lunch together, they talked all the afternoon while I felt very haed heavy.
+Then we ate lunch together, I was planned to pay the bell for all of us, but Wumin said that we should AA, then we went to walk around the village, the flower and the tree was shinning after the rain, and the sunshine was relly grate.
+Then at night at about 16:30 we went to ate the dinner while Zhengyuying went back earlly. 
+After we ate dinner we walked back to the hotel, which cost us about one hour.
+The man came from kedaxunfei said that they would not live at Gelin dongfang for their 150 fees for hotel.
+
+# 23:19 Fri, Apr 7, 2023
+
+## Cost: ￥114.05 In: None
+>Instant noodles & sausage & Wahaha milk ￥22.40
+>Wangyiyun VIP ￥39.00
+>Xuanhemen ￥20.00
+>Luyuanwi at Linlou village ￥18.00
+>taxi from Linlou village to hotel ￥14.65
+ 
+## Daily
+Morning, I ate at the hotel, and met Wumin and Liuguangpu at the canteen, then we walked down stairs. I asked the waiter if I might change my room at night and was told better change now, so I backed to my room and changed the room hash, and then we took the taxi to the Linlou village with them, then worked the day, at noon, we went to the Luyunawai and ate lunch, then at about 17:30 after Wumin left, Zhengyuying and I took a taxi went back to the hotel, and when we arrived we went to the supermarket and shopping, I like the feeling fo shopping only There was not my girl together.
+Then I ate the instant noodles and the sausage.
+I planned to went to the Langya mountain tomorrow.
+
+PS.told CHN that she would print the paper to the exam.
+
+
+## Daily
+
+# 23:19 Sat, Apr 8, 2023
+
+## Cost: ￥153.04 In: None
+>Oranges & bread ￥16.60
+>Taxi from hotel to Langya mountain ￥17.51
+>Ticket at Langya mountain ￥65.00
+>Langya temple Suzhaifang Suzhai ￥18.00
+>Taxi from Langya mountion back to hotel ￥11.54
+>instant noodles ￥4.50
+>Hualaishi humberger ￥19.89
+ 
+## Daily
+Morning, after got up at about 8:30am, I went to ate breakfast at the hotel canteen, then I went to the market and bought some oranges and some breads, then at the corner of the cross I called a taxi and then went to Langya mountain. I talked a lot on the taxi and the driver talked much, said that he was not the local people and had viewed the ten years grow of the local people's life. And the Langya mountain was trying to level up to AAAAA area.  
+Then I got there, at the door I hesitated to read the "Zuiwongtingji" and bought the ticket. Hash... expensive.
+The sun was hanged on the sky, after last week's long rain, the trees was just green at the time and was baby green, the flowers was bloom, and walked under the tree shadow feel the wind flows on my skin, I feel really summer smell.
+Then I got Zuiwongting, there was s many people and the crowed went into the yard all together, then I walked fast and got to see the Tongle garden. 
+I walked throgh the mountain and hiked for oone hour, then I got lost on the mountain and find a hall to ate some oranges and bread.
+Then by the Amap I backed to the road and went to the temple.
+The temple had a very long history, the big door to Wuliang basilica which also called "无梁殿" was build at wanli MIng denisty.
+Then I went to ate the Ramadian at the temple. After ate and drunk, I seated at the Mingyue lobby, wind through the yard, cross the circlr of the door, blowed the flower down on the ground and then got me. 
+The red candle shadowed with the smoke up. The chanting was close and away, I just seated there feel the wind, the sunshine. It just recalled me the words from Sushi "Only the breeze on the river and the bright moon in the mountains, the sound heared by the ears, the color saw by the eyes, were inexhaustible use".
+Then walked to Nantianmen, and saw the tower.
+Then walked back to the northern door and took the taxi back to the hotel.
+Woonderful day.
+
+# 23:19 Sun, Apr 9, 2023
+
+## Cost: ￥77.39 In: None
+>Chinese people healthy insurence ￥2.00
+>mobile fee ￥50.00
+>dinner Huaxiaoxiao glass noodles ￥20.39
+ 
+## Daily
+Morning, got up at about 9:00am, then feel my legs hurts, then went to ate the breakfast at the canteen, then went bed and slept for the morning, from about 12:45 to about 15:35pm, then got up and felt very hungery and then ate the bread left yesterday, and then had some fun.
+Mom send me some photo said that dad went to the Baiyun mountain and didn't took mom together, then at afternoon, they went to Tongshan lake together. 
+This year at 5.1 I thought I might went back to home, and then I thought that I might took Mom and Dad to saw the view, to Luoyang and other country.
+Then I ordered the take away dood, and ate then laid on the bed and went asleep.
+
+# 23:19 Sun, Apr 10, 2023
+
+## Cost: ￥ In: None
+>Taxi from hotel to Linlou village ￥9.96
+>take away food of Huangmen chicken ￥19.30
+>xuanhemen ￥20.00
  
 ## Daily
