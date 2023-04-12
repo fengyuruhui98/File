@@ -76,3 +76,10 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
         memset(sun[i], 0x00, sizeof(int) * 4);
     }
 ```
+
+在申请大内存空间时：
+```c
+int a[314][1024][1024];
+//---
+```
+进行操作时可能会有问题，连续内存空间可能无法分配（为初始化仅声明，并不分配内存空间）

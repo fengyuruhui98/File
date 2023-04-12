@@ -51,3 +51,26 @@ default:
 	 break;
 }
 ```
+
+# 对于像数组溢出，隐式修改等程序不规范书写造成的运行过程中的修改，编译器是无能为力的，也说明const修饰的变量仍然是具备变量属性的。
+
+```c
+#include<stdio.h>
+ 
+void main(void)
+{
+    char buf[4];
+    const char a = 0;
+ 
+    buf[-1] = 88;
+    printf("the a is %d\n" ,a);
+}
+```
+
+结果：
+
+baoli@ubuntu:~/c$ ./a.out
+
+the a is 88
+
+说明：const修饰的变量，其实质是告诉程序员和编译器该变量为只读，而对于像数组溢出，隐式修改等程序不规范书写造成的运行过程中的修改，编译器是无能为力的，也说明const修饰的变量仍然是具备变量属性的。
