@@ -305,10 +305,11 @@ no changes added to commit (use "git add" and/or "git commit -a")
 # GIT文件状态
 GIT文件状态主要包括untracked 未追踪、unmodified未修改、modified已修改、staged
 
-
+![image17][image17]
 
 GIT开发流程
 
+![image18][image18]
 
 Gitflow工作流
 Gitflow工作流定义了一个围绕项目发布的严格分支模型。虽然比功能分支工作流复杂几分，但提供了用于一个健壮的用于管理大型项目的框架。
