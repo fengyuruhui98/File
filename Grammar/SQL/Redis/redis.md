@@ -3,6 +3,9 @@
 redis-cli
 redis-cli -h 127.0.0.1 -p 6379 -a "mypass"
 
+--更换数据库
+select 3
+
 --查询所有的key
 keys *
 
