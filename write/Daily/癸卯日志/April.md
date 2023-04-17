@@ -148,11 +148,88 @@ Mom send me some photo said that dad went to the Baiyun mountain and didn't took
 This year at 5.1 I thought I might went back to home, and then I thought that I might took Mom and Dad to saw the view, to Luoyang and other country.
 Then I ordered the take away dood, and ate then laid on the bed and went asleep.
 
-# 23:19 Sun, Apr 10, 2023
+# 23:19 Mon, Apr 10, 2023
 
-## Cost: ￥ In: None
+## Cost:42.49 ￥ In: None
 >Taxi from hotel to Linlou village ￥9.96
 >take away food of Huangmen chicken ￥19.30
 >xuanhemen ￥20.00
+>dinner take away Huaxiaoxiao ￥22.49
+ 
+## Daily
+Morning, after ate at the hotel, I went to the bus station and planned to take the bus to Linlou village, and when I got the bus station, Zhengyuying sended me a message that she would down stairs at about 9:30am, then I went back to the hotel and we took the taxi and went back to Linlou village.
+Then they worked all the morning and I wrote the daily for last week, then at noon, we ordered the take away food.
+There had Zilin Baiwei chicken, Wumin and Liuguangpo didn't came today and Chenjingpeng said that he would come next week.
+Then at afternoon, we went back by the car of the Xiangmubu at about 17:00pm. 
+Then I ordered the glass noodles for dinner.
+
+# 23:19 Tue, Apr 11, 2023
+
+## Cost: ￥65.89 In: None
+>Taxi from hotel to Linlou village ￥10.15
+>Xiaochaorou at Luyuanwai ￥18.00
+>Taxi from Linlou village to hotel￥11.24
+>cookies and instant noodles and sausage and chicken legs ￥26.50
+ 
+## Daily
+Morning, I ate at the Linlou village and was late for them, I said that they would left first and I would come soon.
+When I arrived at the Linlou village I found Shuisheng was there. Chenjingpeng send us some App installers and I do the test while there was some MLC software to write. Chenjingpeng said that it took him about one year to handle the Code.
+Then at night at about 18:30pm, we went to the Dawangying station and then they insert and build the SC Database and build the release the software.
+At the station, I saw there was factory dormitory with basketball ground. There was some men playing on the ground, and I feel like time flows back and I went to the childhood and like this picture, cloud day with summer wind, under some leaves of poplar, standing on the ground, wet summer atmosphere.
+Then we went to the Cortrol center and build the LCC, and this got us to 21:30 at night, then we took the taxi back to the hotel. 
+There was no food outside and we bought some thing at the market.
+
+# 23:19 Wen, Apr 12, 2023
+
+## Cost: ￥41.00 In: None
+>Huangmen zhuti ￥23.00
+>Xiaochaorou at Luyuanwai ￥18.00
+ 
+## Daily
+At about 1:30am, I found that the UEFA 1/4 between Manchister city and FC Byren was at this morning, then I went bed and ordered the taing and got up to see the champion then FC Byern was defeated for 3:0...
+Morning I got up and went to the canteen, and met Liuguangpo there and said that Wumin had already went to the Control center for the check.
+Then we went to the village and worked for the day, then at noon, we ate the lunch at the store next to the Luyuanwai, then I remake the code for the java, and then at night, we ate the Luyuanwai and then return back to the hotel by walk. 
+On the road back, Shuisheng always walked besides Wumin and I finally found a chance walked around Wumin and I told him about the salary, he said that he would talk with the head about this thing, and what I should do was waiting for the raise...
+
+
+# 23:19 Thu, Apr 13, 2023
+
+## Cost: ￥53.33 In: None
+>Huangmen surou ￥20.00
+>Taxi from Linlou village to hotel￥13.33
+>red elevent to CHN ￥20.00
+ 
+## Daily
+Morning I planned to watch the game of UEFA between Cherrls and Royal Madrid, and found I was so asleepy that didn't get up early.
+Morning, at about 8:45am, went to the canteen and then went to the Linlou village and that Wumin paid the bill and when we arrived at Linlou village we met Guoxiaodong at the village, Guoxiaodong gave Wumin ten bottle of cigerate of Hengda pai and Wumin gave me one which costs ￥100.00 expensive...
+Then at aftenoon, Guo went to meeting and told that we would had dinner at the restaurant, and ordered for us a cup of coffee, I ordered the Americano.
+Then at about 
+
+
+# 23:19 Fri, Apr 14, 2023
+
+## Cost: ￥72.54 In: None
+>Taxi from hotel to Linlou village ￥9.49
+>Lanzhou beef noodles ￥14.00
+>Instant noodles and chicken leg ￥10.50
+>taxi from Huaboyuan station back to hotel ￥38.55
+
+ 
+## Daily
+
+# 23:19 Sat, Apr 15, 2023
+
+## Cost: ￥22.49 In: None
+>take away food of HUaxiaoxiao ￥22.49
+ 
+## Daily
+
+## Daily
+
+# 23:19 Sun, Apr 16, 2023
+
+## Cost: ￥26.60 In: None
+>take away food of Hualaishi ￥12.80
+>take away food of Hualaishi ￥13.80
  
 ## Daily
