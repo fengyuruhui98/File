@@ -203,7 +203,7 @@ On the road back, Shuisheng always walked besides Wumin and I finally found a ch
 Morning I planned to watch the game of UEFA between Cherrls and Royal Madrid, and found I was so asleepy that didn't get up early.
 Morning, at about 8:45am, went to the canteen and then went to the Linlou village and that Wumin paid the bill and when we arrived at Linlou village we met Guoxiaodong at the village, Guoxiaodong gave Wumin ten bottle of cigerate of Hengda pai and Wumin gave me one which costs ￥100.00 expensive...
 Then at aftenoon, Guo went to meeting and told that we would had dinner at the restaurant, and ordered for us a cup of coffee, I ordered the Americano.
-Then at about 
+Then at about 18:30pm we went back to the hotel and then we went to the Laochu the second store and met Guoxiaodong at the store, then 
 
 
 # 23:19 Fri, Apr 14, 2023
@@ -233,3 +233,12 @@ Then at about
 >take away food of Hualaishi ￥13.80
  
 ## Daily
+
+# 23:19 Mon, Apr 16, 2023
+
+## Cost: ￥26.60 In: None
+>take away food of Hualaishi ￥12.80
+>take away food of Hualaishi ￥13.80
+ 
+## Daily
+Morning, after ate at the canteen, then we went to the Linlou village by taxi, then we worked all the morning and then         
