@@ -203,7 +203,9 @@ On the road back, Shuisheng always walked besides Wumin and I finally found a ch
 Morning I planned to watch the game of UEFA between Cherrls and Royal Madrid, and found I was so asleepy that didn't get up early.
 Morning, at about 8:45am, went to the canteen and then went to the Linlou village and that Wumin paid the bill and when we arrived at Linlou village we met Guoxiaodong at the village, Guoxiaodong gave Wumin ten bottle of cigerate of Hengda pai and Wumin gave me one which costs ￥100.00 expensive...
 Then at aftenoon, Guo went to meeting and told that we would had dinner at the restaurant, and ordered for us a cup of coffee, I ordered the Americano.
-Then at about 18:30pm we went back to the hotel and then we went to the Laochu the second store and met Guoxiaodong at the store, then 
+Then at about 18:30pm we went back to the hotel and then we went to the Laochu the second store and met Guoxiaodong at the store, then we ate at the Laochu third store. 
+Guoxiaodong made a speech, we talked a lot and I drunk a lot. We talked about the life, the Buddhism, the philosophy, the true life, the poem of Gibran, "the sand and the foam" translated by BIngxin.
+Then when we got hotel, I called CHN and we talked some, Last, she asked me for a glass of milk which cost me twenty.
 
 
 # 23:19 Fri, Apr 14, 2023
@@ -213,18 +215,21 @@ Then at about 18:30pm we went back to the hotel and then we went to the Laochu t
 >Lanzhou beef noodles ￥14.00
 >Instant noodles and chicken leg ￥10.50
 >taxi from Huaboyuan station back to hotel ￥38.55
-
  
 ## Daily
+Morning, we ate at the hotel, then we went to the Linlou village, worked on the morning, and then they said that they would went back home at about 14:30, then they left and I made a decision that I would buy a keyboard that was small enough for the package then I watched the Jingdong app, then when it was about 17:30, when I planned to left, They said that tomorrow would check by someone then I and Jinguangyu went to the HUaboyuan station with Maqiang, then we do the work until 19:30pm, then I ordered a car and we left together, and I send them to Linlou village and I planned not went to Linlou tomorrow and wait for their car tomorrow at the hotel.  
 
 # 23:19 Sat, Apr 15, 2023
 
 ## Cost: ￥22.49 In: None
 >take away food of HUaxiaoxiao ￥22.49
- 
-## Daily
 
 ## Daily
+Morning, after ate at the canteen, I went back to the room and waited for the car and planned went to huanboyuan again but no message and Jinguangyu send me some messgae asked me for the remote control for LCC I got to know that there won't be work, then I went to sleep at about 11:30 I dreamed a lot.
+I was dead and wandered under the ground and the real world was unsawable, I feel that I would never saw my family and I would never say goodbye to anyone, I was limited to the world. Then I flowed past the time and went back to the 1990s and I saw red armys driving ships over the river. 
+May be the pillow was so high that I feel uncomfortable so made me dream...
+At night I dreamed again with little girl I pull my full love on..
+Afternoon I watched the LPL spring final between SN and JDG, JDG was winner. And I wathed the game between FC Byren and other while Dortmund lost a game while another was less one people for the red card.
 
 # 23:19 Sun, Apr 16, 2023
 
@@ -233,12 +238,33 @@ Then at about 18:30pm we went back to the hotel and then we went to the Laochu t
 >take away food of Hualaishi ￥13.80
  
 ## Daily
+Morning, I ate at the canteen, and planned to 
 
-# 23:19 Mon, Apr 16, 2023
+# 21:47 Mon, Apr 17, 2023
 
-## Cost: ￥26.60 In: None
->take away food of Hualaishi ￥12.80
->take away food of Hualaishi ￥13.80
+## Cost: ￥518.36 In: None
+>texi from hotel to Linlou village ￥11.36
+>Xuanhemen ￥20.00
+>Luyuanwai ￥18.00
+>dinner at Liuji chicken ￥50.00
+>keysborad ￥419.00
  
 ## Daily
-Morning, after ate at the canteen, then we went to the Linlou village by taxi, then we worked all the morning and then         
+
+
+# 21:47 Mon, Apr 18, 2023
+
+## Cost: ￥56.47 In: None
+>texi from hotel to Linlou village ￥9.47
+>Luyuanwai ￥22.00
+>beers and peanute ￥25.00
+ 
+## Daily
+Morning, after ate at the canteen, then we went to the Linlou village by taxi, then we worked all the morning and then we went to ate some foods, on the way down stairs we met Chenjingpeng and Liuqing under the building, but they had eat the lunch already. We went to the Luyuanwai then I ate the french bean with meats over the rice, and then we went back to the building, then Chenjingpeng gave us the code for everywhere and I upload the Code to the Baidu netdisk then I can hardly wait for the keyboard and the JIngdong transport was so fast that I bought the keyboard last night and got it at about 16:00pm this afternoon, then I test the equipment and found that the keyboard was much softer than I thought, while I took the keyboard I went down stairs and asked Shuisheng to walk out side. I found that his salary was raised by 10%, and it seems like that only I and Liuqing wasn't rise anymore. I told Shuisheng that I would left if this time my salary wasn't raise. 
+At night Shuisheng went to eat something and I went to the mutton noodles and when I was waiting for my noodles, Liuguangpu and other three came and we ate until 20:30, on the way back I bought two bottles of beers and then we went back, I planned to see the game tomorrow and would went asleep soon, I called mom, and Sis she didn't receive the phone call.
+
+
+
+
+
+                   
