@@ -238,7 +238,8 @@ Afternoon I watched the LPL spring final between SN and JDG, JDG was winner. And
 >take away food of Hualaishi ￥13.80
  
 ## Daily
-Morning, I ate at the canteen, and planned to 
+Morning, I ate at the canteen, and planned to study hard today, however I found that there was no ambition for me to do the study, then I read the noval all the day, and at noon, I booked the humbergers and other things for double people. 
+At night, I washed my clothes and then watched the game. Nothing more, and did not talk with CHN also.
 
 # 21:47 Mon, Apr 17, 2023
 
@@ -252,7 +253,7 @@ Morning, I ate at the canteen, and planned to
 ## Daily
 
 
-# 21:47 Mon, Apr 18, 2023
+# 21:47 Tue, Apr 18, 2023
 
 ## Cost: ￥56.47 In: None
 >texi from hotel to Linlou village ￥9.47
@@ -263,7 +264,14 @@ Morning, I ate at the canteen, and planned to
 Morning, after ate at the canteen, then we went to the Linlou village by taxi, then we worked all the morning and then we went to ate some foods, on the way down stairs we met Chenjingpeng and Liuqing under the building, but they had eat the lunch already. We went to the Luyuanwai then I ate the french bean with meats over the rice, and then we went back to the building, then Chenjingpeng gave us the code for everywhere and I upload the Code to the Baidu netdisk then I can hardly wait for the keyboard and the JIngdong transport was so fast that I bought the keyboard last night and got it at about 16:00pm this afternoon, then I test the equipment and found that the keyboard was much softer than I thought, while I took the keyboard I went down stairs and asked Shuisheng to walk out side. I found that his salary was raised by 10%, and it seems like that only I and Liuqing wasn't rise anymore. I told Shuisheng that I would left if this time my salary wasn't raise. 
 At night Shuisheng went to eat something and I went to the mutton noodles and when I was waiting for my noodles, Liuguangpu and other three came and we ate until 20:30, on the way back I bought two bottles of beers and then we went back, I planned to see the game tomorrow and would went asleep soon, I called mom, and Sis she didn't receive the phone call.
 
+# 21:47 Wen, Apr 19, 2023
 
+## Cost: ￥56.47 In: None
+>Lucki coffee vip ￥9.90
+>Lucki coffee ￥55.50
+>beers and peanute ￥25.00
+ 
+## Daily
 
 
 
