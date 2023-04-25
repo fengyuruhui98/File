@@ -292,7 +292,7 @@ We went to the resturant and wangyu asked Zhengyuying and I ordered the foods, w
 >old snow beers ￥20.00
 
 ## Daily
-Morning after we ate at the canteen we went to the Village and then we worked all the day and then 
+Morning after we ate at the canteen we went to the Village and then we worked all the day. Liuguangou and Zhengyuying went to nanjing and would not back until next week. Morning, I ordered some coffee and then at noon, we went to the resturant at the corner and ate the HUnagmen surou together and then we went back taking the car of the project department, then Shuisheng 
 
 # 21:47 Fri, Apr 21, 2023
 
