@@ -292,7 +292,8 @@ We went to the resturant and wangyu asked Zhengyuying and I ordered the foods, w
 >old snow beers ￥20.00
 
 ## Daily
-Morning after we ate at the canteen we went to the Village and then we worked all the day. Liuguangou and Zhengyuying went to nanjing and would not back until next week. Morning, I ordered some coffee and then at noon, we went to the resturant at the corner and ate the HUnagmen surou together and then we went back taking the car of the project department, then Shuisheng 
+Morning after we ate at the canteen we went to the Village and then we worked all the day. Liuguangou and Zhengyuying went to nanjing and would not back until next week. Morning, I ordered some coffee and then at noon, we went to the resturant at the corner and ate the HUnagmen surou together and then we went back taking the car of the project department, then Shuisheng and I went to the outside to find some thing to eat and Shuisheng want to find the Yoghourt of Weiquan, then we went to the mutton store for the noodles and I took a head and two legs for dinner.
+Shuisheng said that he would not come to me and I called Chenjingpeng that if he would come and we talked and drunk. Then I packed the head we left without ate. 
 
 # 21:47 Fri, Apr 21, 2023
 
@@ -303,6 +304,7 @@ Morning after we ate at the canteen we went to the Village and then we worked al
 >in stant noodles & water & icecream at Jinkui xincheng market ￥17.00
 
 ## Daily
+Morning, after we ate at the canteen at hotel we went to the Linlou village 
 
 # 21:47 Sat, Apr 22, 2023
 
@@ -325,6 +327,8 @@ Morning after we ate at the canteen we went to the Village and then we worked al
 >Shunfeng ￥50.00
 
 ## Daily
+Morning, when I was sleep at home Guoxiaodong called me to ask that if I can help solve the reader probolem, I said that I would view the problem together.
+Then I went to the company, 
 
 # 21:47 Mon, Apr 24, 2023
 
@@ -336,5 +340,16 @@ Morning after we ate at the canteen we went to the Village and then we worked al
 >taxi went to Linlou village ￥9.57
 >taxi went back to hotel ￥15.00
 >instand noodles and sausage and chicken legs ￥17.50
+
+## Daily
+Morning, I left early at about 7:00am, and got the high rail way station at HOngqiao at about 8:30am, I was afraid that whether my fly cup can pass the secure search, fortunately, I passed it then until the train left Liuqing said that he was lost and could not get the train at about 9:30 am, then I left alone, when I arrived the rail way station, it was just the time that the bus of 6's was going to leave and I just catch it, then I went to the hotel. 
+The same room was ordered just for 507 and it seemed really famillier to me. Then I order the take away food of HUaxiaoxiao glass noodles. Then after I ate the noodles I went to Linlou village and then worked the Dalian Report all the day, then we went back to the hotel at about 20:00pm and I bought the instant noodles and other things for dinner. 
+
+# 21:47 Tue, Apr 25, 2023
+
+## Cost: ￥72.56 In: None
+>taxi from hotel to the rail way building ￥.00
+>Lunch at the canteen of the building ￥15.00
+>Dinner at the canteen of the Chuzhou rail way coorperate canteen ￥9.00
 
 ## Daily
