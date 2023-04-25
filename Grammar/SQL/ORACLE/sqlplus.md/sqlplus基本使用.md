@@ -107,7 +107,7 @@ select * from dba_role_privs where grantee='TOM';
              2 在提示符 SQL> 之后键入
             SQL> @/home/oracle/test.sql;
 
-windows下和linux中执行形式是相同的；
+windows下和linux中执行形式是相同的； 
 
 
 
