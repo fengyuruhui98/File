@@ -251,7 +251,11 @@ At night, I washed my clothes and then watched the game. Nothing more, and did n
 >keysborad ￥419.00
  
 ## Daily
+Morning, after we ate at the canteen, we went to Linlou village by taxi, then we worked all the day and then at night we went back to hotel by the car at about 17:30pm, then we planned to went outside to have dinner, we went to Liuji chicken with the pie touched at the bowl.
+Liuguangpu, Zhengyuying, Shuisheng and I we ate about 200yuan, and drunk some beers. Then I went back and called CHN, said that she was busy.
+B**ch only saw the money.
 
+PS:Chenjingpeng would come tomorrow.
 
 # 21:47 Tue, Apr 18, 2023
 
@@ -266,13 +270,71 @@ At night Shuisheng went to eat something and I went to the mutton noodles and wh
 
 # 21:47 Wen, Apr 19, 2023
 
-## Cost: ￥56.47 In: None
->Lucki coffee vip ￥9.90
->Lucki coffee ￥55.50
->beers and peanute ￥25.00
- 
+## Cost: ￥146.21 In: None
+>Luckincoffee vip ￥9.90
+>Luckincoffee ￥55.50
+>beef noodles ￥49.00
+>Xuanhemen ￥20.00
+>taxi back to hotel ￥11.81
+
+## Daily
+Morning, I ate at the hotel and met CHenjingpeng and SHuisheng then we took taxi to Linlou village and then chenjingpeng copyed the storage of his own computer then he told me that the Harebin ACC little things was really powerful. And I planned to do the research. Then at Morning I ordered some coffee only Liuguangpu and I drunk and I ordered four bottles.
+Then noon we went to ate lunch they went to ate Luyuanwai and Liuguangpu and I and Zhengyuying and I went to ate the noodles and we drunk a bottle of Dayao and I paid for the bill, then at night we went back to the hotel with wangyu.
+We went to the resturant and wangyu asked Zhengyuying and I ordered the foods, we ordered six kinds of foods, the egg pie, the Shredded Cabbage, Dry Cooked tofu hot Pot, shrimp, clam, and beef.
+
+# 21:47 Thu, Apr 20, 2023
+
+## Cost: ￥1826.93 In: None
+>HUabei ￥1642.93
+>Luckincoffee ￥32.00
+>Huangmen surou ￥22.00
+>mutton head & mutton legs ￥110.00
+>old snow beers ￥20.00
+
+## Daily
+Morning after we ate at the canteen we went to the Village and then we worked all the day and then 
+
+# 21:47 Fri, Apr 21, 2023
+
+## Cost: ￥52.47 In: None
+>Taxi to Linlou village ￥11.47
+>luyuanwai ￥18.00
+>rail way from shanghai Hongqiao high speed rail way station to home ￥6.00
+>in stant noodles & water & icecream at Jinkui xincheng market ￥17.00
+
 ## Daily
 
+# 21:47 Sat, Apr 22, 2023
 
+## Cost: ￥432.30 In: None
+>elme coupon ￥14.00
+>Xiyuguan Suancai fish ￥30.30
+>water and icecreame ￥11.00
+>rail way from Sis back to home ￥7.00
+>Xuanhemen ￥21.00
+>Shunfeng check in ￥100.00
+>Linjaiwei ￥246.00 + ￥3.00
 
-                   
+## Daily
+
+# 21:47 Sun, Apr 23, 2023
+
+## Cost: ￥83.00 In: None
+>Luckincoffee ￥10.00
+>Suyan ￥23.00
+>Shunfeng ￥50.00
+
+## Daily
+
+# 21:47 Mon, Apr 24, 2023
+
+## Cost: ￥72.56 In: None
+>rail way to Hongqiao high speed rail way station ￥6.00
+>Bus from Chuzhou station to Ziwei primary school ￥1.00
+>Bus from Ziwei primary school to hotel ￥1.00
+>Huaxiaoxiao at hotel ￥22.49
+>taxi went to Linlou village ￥9.57
+>taxi went back to hotel ￥15.00
+>instand noodles and sausage and chicken legs ￥17.50
+
+## Daily
