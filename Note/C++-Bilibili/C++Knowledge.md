@@ -28,7 +28,7 @@ int main(){
 #endif
 ```
 
-# 7. 链接会找到每个符号与函数的位置，并将它们连接起来，编译会对，每个源文件进行编译。(此处的源文件及 翻译单元指的是C源程序并不是H头文件)
+# 7. 链接会找到每个符号与函数的位置，并将它们连接起来，编译会对，每个源文件进行编译。(此处的源文件及 翻译单元指的是C源程序并不是H头文件)**头文件不参与编译**
 # 8. 在visual studio中ctrl + F7只编译不进行链接，build或者运行则会。
 # 9. 错误以C开头，发生在编译阶段，编译错，以LNK开头，发生在链接阶段，链接错。
 
@@ -138,3 +138,70 @@ void Logr(const char * message){
 ```
 
 当如上述情况时，不会报出编译错误，会报出链接错误。
+
+# 11. include文件在不同文件中被引用会在预处理时被多次替换，因此会造成重复定义
+**解决方法**
+1. #ifdef
+2. 将重复定义的函数/常量声明为static 这样在不同文件中有对其他文件不可见的函数/常量。本obj对其他obj不可见
+3. 使用inline，获取实际函数体，并将函数调用替换我函数体
+
+```c
+/*
+**Log.h
+*/
+#pragma once
+
+inline void Log(const char * message){
+    std::cout << message << std::endl;
+}
+
+/*
+**Log.cpp
+*/
+#include <iostream>
+#include "Log.h"
+
+void InitLog(){
+    Log("Init");
+}
+
+/*
+**Main.c
+*/
+
+#include <iostream>
+#include "Log.h"
+
+static int Multiply(int a, int b){
+    Log("Multiply");
+    return a * b;
+}
+
+int main(){
+    std::cout << Multiply(5, 8) << std::endl;
+    std:cin.get();
+}
+
+```
+
+# 12. 原始数据类型之间唯一的区别是占用内存的大小 
+
+# 13. int类型为32位，一位做符号位，范围在-2 ^ 31 - 2 ^ 31 之间，unsigned翻倍
+
+# 14. char与int short 等的区别就在于对其处理上，如char 和short 都存储65 cout会将char类型输出为A，short会输出65
+
+# 15. 原则：函数只能够被定义一次，声明可以多次。声明是告诉编译器函数在其他地方有定义，该函数确实存在。
+如果没有头文件（即使已经有了头文件）在进行编译前，还是要把函数声明拷贝到到处都是。（头文件引用即将声明考的到处都是）
+
+# 16. 所有以\#开头的命令都是预处理命令
+```c
+#pragma once
+//本文件只会被包含一次，常用在头文件中
+//只要针对常量变量被重复包含
+#ifndef _DL
+#define _DL
+
+#endif
+```
+
+# 17. 尖括号只用于编译器包含路径，引号可以做一切，但通常只用在相对路径。
