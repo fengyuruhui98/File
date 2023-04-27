@@ -348,9 +348,34 @@ The same room was ordered just for 507 and it seemed really famillier to me. The
 # 21:47 Tue, Apr 25, 2023
 
 ## Cost: ￥72.56 In: None
->taxi from hotel to the rail way building ￥.00
+>taxi from hotel to the rail way building ￥10.65
 >Lunch at the canteen of the building ￥15.00
 >Dinner at the canteen of the Chuzhou rail way coorperate canteen ￥9.00
+>Durex water ￥31.59
 
 ## Daily
 Morning, after we 
+
+
+
+# 21:47 Wen, Apr 26, 2023
+
+## Cost: ￥72.56 In: ￥900.00
+>night for the chicken of kerao ￥35.40
+>lunch at the canteen of the building ￥15.00
+>dinner at the canteen of the building ￥13.50
+>taxi from hotel to Linlou village ￥11.09
+>taxi from Linlou village back to hotel ￥9.68
+>back of rent house ￥900.00
+>night beers and peanute ￥25.00
+
+## Daily
+
+# 21:47 Thu, Apr 27, 2023
+
+## Cost: ￥72.56 In: None
+>China people healthy insurence ￥2.00
+>China mobile ￥60.00
+>lunch at the canteen of the building ￥15.00
+
+## Daily
