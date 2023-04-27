@@ -353,3 +353,4 @@ The same room was ordered just for 507 and it seemed really famillier to me. The
 >Dinner at the canteen of the Chuzhou rail way coorperate canteen ￥9.00
 
 ## Daily
+Morning, after we 
