@@ -304,7 +304,11 @@ Shuisheng said that he would not come to me and I called Chenjingpeng that if he
 >in stant noodles & water & icecream at Jinkui xincheng market ￥17.00
 
 ## Daily
-Morning, after we ate at the canteen at hotel we went to the Linlou village 
+Morning, after we ate at the canteen at hotel we went to the Linlou village, then today would be the last day we saw Chenjingpeng, at the morning, while we were working, WUmin send me a message that how much I would want to get my salary raise, I said that I would be thankful if it could be 15%, then I asked Chenjingpeng and he said that would be too low and I change my mind and send Wumin my new request, and Wumin said that he would help with it, and I thought that would be really good if it can come true, and I would return shanghai to check out from the house I rent.
+Then at about noon, after I left my disk to Jinguangyu for trans his data from his computer to Chenjingpeng's, at about 14:30 we went ahead for the train station and got there and wait.
+I was so sleepy that I read the book and slept all the trip, and then when I arrived Shanghai I planned to wait them but nobody except Shuisheng, and Shuisheng went to the store to buy some milk for the Weiquan.
+Then I went to home and bowl the mutton I took from Chuzhou with the Haidilao hotpot.
+Night, I packaged some thing and throw something.
 
 # 21:47 Sat, Apr 22, 2023
 
@@ -318,6 +322,9 @@ Morning, after we ate at the canteen at hotel we went to the Linlou village
 >Linjaiwei ￥246.00 + ￥3.00
 
 ## Daily
+Morning, after I drunk some milk I started to clean the house. I throw my pot of the electric. So pity, and the carton was useful that I zip my clothes into it and the induction cooker, two boxes. 
+I send them back to home and costs me 96+, then I packed up the air cleaner and then planned to send them tomorrow, and then called Sis, she asked if I need help, I said no, then at noon, I said yes, then they came and picked me we went to Sis with the milks, the meats the clothes and other things.
+Then at about 16:20pm, we went to Linjiawei and we ateat the normal desk and we ordered the Grilled shrimp with okra, the Julodia, the Stewed pork with taro, the Qiandaohu fish head, then we packed up the fish left and then left, I went back to the house, they went back home.
 
 # 21:47 Sun, Apr 23, 2023
 
@@ -328,7 +335,9 @@ Morning, after we ate at the canteen at hotel we went to the Linlou village
 
 ## Daily
 Morning, when I was sleep at home Guoxiaodong called me to ask that if I can help solve the reader probolem, I said that I would view the problem together.
-Then I went to the company, 
+Then I went to the company, and do the test with Chushiliang all the morning, and at noon I signed up my travel subsistence allowance, and then ate at the canteen with the fish glass noodles, then at noon, after I ate the lunch, I went back to the house and then send the package of the air cleaners, then at afternoon, I do the work.
+At night I called the renter of the house, and I do made a progress and the skill made the renter retured back to me with 900.00 and he said would pay me later.
+Then I went asleep.
 
 # 21:47 Mon, Apr 24, 2023
 
@@ -347,20 +356,20 @@ The same room was ordered just for 507 and it seemed really famillier to me. The
 
 # 21:47 Tue, Apr 25, 2023
 
-## Cost: ￥72.56 In: None
+## Cost: ￥66.24 In: None
 >taxi from hotel to the rail way building ￥10.65
 >Lunch at the canteen of the building ￥15.00
 >Dinner at the canteen of the Chuzhou rail way coorperate canteen ￥9.00
 >Durex water ￥31.59
 
 ## Daily
-Morning, after we 
-
-
+Morning, after we ate at the canteen of the hotel, we went to the building, I do the work of the Dalian MLC all the day, changing the report.
+Noon mom said that grandpa went to hospital for the heart things, and he argued that he didn't want to stay at the hospital and want back home and I called mom a telephone video at about 18:30PM, and talked with grandpa. Then we went back late and on the way back to hotel WUmin said that we can sign up the overtime work request. 
+I signed it up late at night. 
 
 # 21:47 Wen, Apr 26, 2023
 
-## Cost: ￥72.56 In: ￥900.00
+## Cost: ￥109.67 In: ￥900.00
 >night for the chicken of kerao ￥35.40
 >lunch at the canteen of the building ￥15.00
 >dinner at the canteen of the building ￥13.50
@@ -370,12 +379,79 @@ Morning, after we
 >night beers and peanute ￥25.00
 
 ## Daily
+Morning, after we ate breakfast at the canteen of the hotel, we went to the building taking the taxi, and my request for overtime work was accept. So this month I would reveive about  9000. 
+At noon, Liuguangpu and Zhengyuying went to the station and came back until 17:30 while we were eating the dinner, he said that at afternoon, Guoxiaodong came, the CEO of the Chuzhou rail way station got really angery that throw the hands with the glass on the glass, so much blood and went to hospital. 
+Liuguangpu said that we intend to ate early. Son of b**ch, however we still went to the Laochu the third store.
+Then at night after we already ate, I bought two bottles of beers and then drunk one. 
+
 
 # 21:47 Thu, Apr 27, 2023
 
-## Cost: ￥72.56 In: None
+## Cost: ￥1002.48 In: None
 >China people healthy insurence ￥2.00
 >China mobile ￥60.00
 >lunch at the canteen of the building ￥15.00
+>dinner at the canteen of the building ￥14.00
+>taxi from Linlou Village to hotel ￥11.48
+>Transfer to MOm ￥900.00
 
 ## Daily
+Morning, I found that my phone was stoped for no money, and I use Zhengyuying's internet and check in some money and then we went to 
+Then at night, after we ate at the canteen and walked under the building, I called mom, she said that she want bought a new phone for Grandpa in law, and then I transfer the 900 to mom for the phone and other costs.
+Now I was release for the house rent in SHanghai.
+Sis said that they would return home at May 1. I may not back.
+
+PS: CHN send me message that she passed the exam of the Putonghua. and got second standard in the first level.
+
+# 21:47 Fri, Apr 28, 2023
+
+## Cost: ￥34.00 In: None
+>lunch at the canteen of the building ￥17.00
+>dinner at the canteen of the building ￥17.00
+
+## Daily
+Morning, we ate at the building and then worked the day, I ate the chicken legs at noon and night, Sis came back home today, and Mom and Dad would went to get her at about 17:00 at late noon. I was clear that I would not back for the salary raise that may came while worked with Wumin. 
+At evening, the sky burned up, it was so beautiful. I called Mom, that they would not went to the hospital.
+Mom went to Zhumadian and would buy some medicine, they would wait at the park at the rail way station.
+Then at night Wumin said that we would back early today and we took the taxi back hotel at about 17:00pm.
+And at night CHN send me some message, we made some conversition. No more to say.
+
+# 21:47 Sat, Apr 29, 2023
+
+## Cost: ￥95.91 In: None
+>taxi from hotel to Linlou village ￥10.01
+>lunch at the canteen of the building ￥15.00
+>dinner at the canteen of the building ￥18.00
+>Kugou music VIP ￥15.00
+>Xuanhemen & Gewass ￥28.90
+>icecream and lighter and spicy ￥9.00
+
+## Daily
+Morning, we ate at the canteen of Green tree and then I went down stairs at about 8:30am, then Shuisheng and Hanzhengzhou said that the hotel was over the limite of our company. Then I had to went back to my room and took all the things with me and we checked out and didn't found the place to live.
+Then all the day I was reading the book named "ChuanShuoGuanLiJu", then ate at the canteen.
+Night, we went back without Wumin who had already ordered the hotel at Green tree, and son of b**ch SHuisheng didn't want to live at the Zhongzhou.
+We got zhongzhou, and the building was big, one thing that made me not feel good was that the room was some small.
+Sis and Mom went to Baopeng glassland. They took photoes with the helicopter.
+Then at night I went to the Zhongzhou market at the first floor(actually the second floor). I bought some Gewass and other things, then went back and read the book. then went bed.
+
+# 21:47 Sun, Apr 30, 2023
+
+## Cost: ￥120.30 In: None
+>lunch at the canteen of the building ￥10.00
+>dinner at the canteen of the building ￥15.00
+>bus from zhongzhou hotel to the building ￥1.00
+>Luckicoffee ￥42.90(wrong place)
+>Luckicoffee ￥42.40
+>Aiqiyi sport VIP ￥9.00 
+
+## Daily
+
+Morning, we ate at the Zhongzhou hotel and Shuisheng said that the food was bad and far away from the Green tree, while I thought different that I thought the food here was not bad, I ate the glass noodles with beef meats and the Pig sow, and other foods.
+Then we still decided to live here, then we went to took the 8th bus went to Dongsheng gaden north door, then we arrived the building, I worked all the morning for the Ticket management system, and then we went to ate lunch at the building, then, after we ate lunch, we went outside and walked all around. Then went back and do the work.
+Before we went to ate the lunch, I ordered the coffee for Zhengyuying but finally found that the address was wrong and then the order can not be canceled, but the store gave me two coupon values ￥46.00. And I ordered again.
+Afternoon, Mom and Sis send me message and pictures that they went to Bamboo shoot and got a lot at the Baiyun mountain. 
+Then at night, we ate at the building and then son of b**ch Wangyu game and we had to work until 9:00pm, then Hanzhenzhou said that it was too late to walk back. He ordered the taxi, we went back by the taxi.
+
+
+# MONTH-COUNT
+## Cost: ￥5715.94 In: ￥8388.42 Sub: ￥2672.48
