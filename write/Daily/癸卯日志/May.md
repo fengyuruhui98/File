@@ -30,7 +30,6 @@ Then at night, I watched the Germany football history. Then went to sleep at abb
 >pepsi cola ￥5.50
 @20:36
 
-
 ## Daily
 Morning, when I got awake, I found that the time had come to 9:15am, and Shuisheng send me message said that he had left and went to the building, then I went for Hanzhenzhou without ate anything, then I order the taxi went to the building, on the way to the building I hated Shuisheng that he didn't wait me and I didn't talk with him all the morning, and I even want to change my hotel, not to orange, but to Hanting but finally didn't do anything, and when we went to lunch, SHuisheng said that he send me message without any response, and he went to the building alone...
 sometimes it was not the hate between us but the unknown, I feel shamed that I never think at Shuisheng's position. Then we went to Chuzhou Zhengwu center station to do the test at the station, I stand for all the afternoon, and in the time, I went to the toilet, located at the leave level and I asked the secury for the key.
@@ -39,3 +38,20 @@ Then then went back and I went to the stadium besides the hotel and walked aroun
 Sis would left tomorrow, and they were packing things.
 I send message to CHN, she rejected my request to made a phone call.
 I went back the hotel of orange and took a shower, wash my clothes, then write the daily.
+
+# 22:11 Wen, May 3, 2023
+
+## Cost: ￥54.00 In: None
+>eleme VIP ￥10.00
+@08:07
+>Lunch at Bainianmiandao with the double mixed spicy noodles ￥24.00
+@12:46
+>xuanhemen ￥20.00
+@22:02
+
+## Daily
+Morning, I wake up early at about 7:30am, then I went down to ate my breakfast, then I met Shuisheng on the elevetor, we ate the food together then I went back to the room and boiled some water and got the coffee, then we went ahead to the station, the day was raining all the time, and the air was wet and hot, but the under ground at the station was so cold that I felt really uncomfortable.
+Fortunatly that they took some chairs, then at noon, we went to ate lunch at about 12:30am, we walked across the hotel of the Chuzhou Kady Wendemu hotel. The five star hotel.
+We ate at the noodles store, the village here was so beautiful, that standing in the rain, and the house was not much high and the windows was clean, the head floor was brillint, with half under the sky, and half was surrounded by glasses.
+Then we worked all the afternoon, I had to find where the report was wrong that it couldn't show the report.
+Then at night we went to the Liuji again and we ate the dinner. Then we went back to the hotel. 
