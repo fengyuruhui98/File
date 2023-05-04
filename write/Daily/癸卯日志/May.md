@@ -55,3 +55,19 @@ Fortunatly that they took some chairs, then at noon, we went to ate lunch at abo
 We ate at the noodles store, the village here was so beautiful, that standing in the rain, and the house was not much high and the windows was clean, the head floor was brillint, with half under the sky, and half was surrounded by glasses.
 Then we worked all the afternoon, I had to find where the report was wrong that it couldn't show the report.
 Then at night we went to the Liuji again and we ate the dinner. Then we went back to the hotel. 
+
+# 23:36 Thu, May 4, 2023
+
+## Cost: ￥23.00 In: None
+>Laoxiang chicken ￥23.00
+@12:59
+
+## Daily
+Morning, I wake up at about 7:30 and dreamed a lot, for dad and the bad dream. Then I went down stairs and met SHuisheng at the elevator. 
+Then we ate the breakfast and went to the Chuzhou ZHengwu center.
+The air was so wet and warm that I felt really hot.
+Then the station was full of water and really wet. we worked all the morning and then we didn't want to went outside, so we ordered the lunch and the delivery send the food slow and the station door was closed and opened the other side. 
+The chicken entrails tastes not good. But was good together with the rice. Then we worked all the afternoon. 
+There I had learned something that never let your level went down to those people and they will use theirs' strong experience to beats you. Never ever let youself went down to their level...
+Then night we went to the Liuji Sifangcai the third time.
+The Chuzhou guihuaguan was really the dreamed place to work at. Black glasses, the green ground...
