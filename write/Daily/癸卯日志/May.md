@@ -71,3 +71,40 @@ The chicken entrails tastes not good. But was good together with the rice. Then 
 There I had learned something that never let your level went down to those people and they will use theirs' strong experience to beats you. Never ever let youself went down to their level...
 Then night we went to the Liuji Sifangcai the third time.
 The Chuzhou guihuaguan was really the dreamed place to work at. Black glasses, the green ground...
+
+# 23:36 Fri, May 5, 2023
+
+## Cost: ￥39.00 In: None
+>Dinner at the Chuzhou rail company building ￥24.00
+@18:05
+>luckicoffee ￥15.00
+@19:41
+
+## Daily
+Last night, I was told that I would went to Dawangying with Liuguangpu and we have to get up at 7:30 and got Dawangying at about 8:00am, and I wake up at about 7:30am, then I went down stairs and found that nobody came and I ate alone, son of b**ch Wumin came and we not ate together, but went to the station together.
+Morning, we do the high press test, and at noon, we ate the took away food ordered by Wangyu, and the foods was good. Then at noon, I delete the DL_MLC wrongly by accident. Shit...
+Then I download some recovery tools and got some. At afternoon after we tests for about 6000 times. Then we went to the building and then ate dinner at there, I ate much.
+Then after the dinner, we went back to the hotel and I ordered a cup of coffee with Jasmine latte. Tastes good. And worked till night at 4:00am. 
+
+# 23:36 Sat, May 6, 2023
+
+## Cost: ￥98.40 In: None
+>xuanhemen ￥20.00
+@09:25
+>Laoxiang chicken VIP ￥8.00
+@12:59
+>Laoxiang chicken bamboo shoot steam with the chicken ￥18.40
+@13:00
+>luckicoffee ￥6.00
+@13:12
+>store package ￥46.00
+@16:33
+
+## Daily
+Morning, after ate at the canteen at Juzi hotel, we went to the Chuzhou city center station. Then we work the day, there was some person here testing the all things, In them, were some beauty, and I showed them the Ticket management system.
+Noon, we went to the Laoxiang chicken, and the bamboo was tasty. Then I ordered the coffee same as last night, and forgot to order the hot one.
+Then Wumin went back home at about 18:30 pm, and then we went back early. We may wouldn't work tomorrow.
+I planned to buy some instant noodles for diner but the market didn't have any. So I went back to the hotel and thought that might ordered the take away foods. But soon Liuguangpu sended me message that we went to LIuji shaoji gong and ate the chicken.
+
+PS.Zhengyuying and I may went to the coffee tomorrow.
+PS.CHN passed the Fujian province TV. And send me message.
