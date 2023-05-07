@@ -108,3 +108,20 @@ I planned to buy some instant noodles for diner but the market didn't have any. 
 
 PS.Zhengyuying and I may went to the coffee tomorrow.
 PS.CHN passed the Fujian province TV. And send me message.
+
+# 23:59 Sun, May 7, 2023
+
+## Cost: ￥94.60 In: None
+>Jiubadao books ￥45.00
+@10:33
+>Zilin chicken ￥20.80
+@16:42
+>duck foods ￥28.80
+@16:38
+
+## Daily
+Morning, I was so tired that I didn't get up until 9:30am, and then I wnet downstairs to get my breakfast, and I met Shuisheng there, he told me that he was waiting for Liuguangpu. And he complained that the work he did was too much, I felt really uncomfortable, I felt something inner me raised and I want to put my plants on his face, so that he can stop his mouse.
+Then I went back to the room, and waited until 11:34am, that he called me the package arrived. I went asleep until about 13:40pm, then I wake up and drunk a lot of coffee, the depressed came for me, I felt so bored that I just want to sleep and do nothing, f\*\*k the work, f\*\*k the world.
+Then at night I ordered twice and ate them while watching the TV shows about Direnjie...
+Then at night the bored came to me again...
+F**ck...
