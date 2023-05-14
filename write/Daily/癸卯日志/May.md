@@ -74,7 +74,11 @@ The Chuzhou guihuaguan was really the dreamed place to work at. Black glasses, t
 
 # 23:36 Fri, May 5, 2023
 
-## Cost: ￥39.00 In: None
+## Cost: ￥10039.00 In: ￥9022.04
+>Salary ￥9022.04
+@02:38
+>Transactions to Dad ￥10000.00
+@07:53
 >Dinner at the Chuzhou rail company building ￥24.00
 @18:05
 >luckicoffee ￥15.00
@@ -125,3 +129,120 @@ Then I went back to the room, and waited until 11:34am, that he called me the pa
 Then at night I ordered twice and ate them while watching the TV shows about Direnjie...
 Then at night the bored came to me again...
 F**ck...
+
+# 22:12 Mon, May 8, 2023
+
+## Cost: ￥87.03 In: None
+>Midebao of chicken legs & Bian eggs ￥32.00
+@12:58
+>Luckincoffee ￥9.00
+@13:14
+>little haw foods & ice cream & cola & chocolate ￥46.03
+@22:03
+
+## Daily
+Morning, we went to the Chuzhou Zhengwu center station after we ate at the canteen of the hotel, and Wumin would back today, I did the work morning, and then Wumin and the new employee came here, one stupid gay. 
+Wumin gave me one problem that the status of the ISM at Xian was wrong, I fixed it for all the afternoon. Then we went to the hotel at about 19:30pm, then we went to the Liuji Sifangcai the fifth time.
+On the way back to the hotel, Wumin slow me down and asked me that if I was satisfy if my salary went to 9000, I said yes. 
+Then after we ate the dinner we went outside and walked Jinguangyu to the rail way station and then we went back. I listened to the music all the way, and when we arrived the hotel, I passed the store and bought the foods.
+Then at night I download the DBeaver and send it to the station SC and get all things right.
+
+# 22:12 Tue, May 9, 2023
+
+## Cost: ￥1577.28 In: None
+>purefast vpn ￥13.50
+@03:04
+>Old village chicken ￥17.60
+@13:05
+>Zuiwongting cigarette ￥35.00
+@13:36
+>Luckincoffee ￥12.18
+@13:22
+>Bose Qc45 ￥1499.00
+@21:20
+
+## Daily
+Morning, after we ate at the canteen of the hotel, we went to the station, I felt really tired and bored but had to work. Then I did the Dalian work and then did the cardprint work. Then at noon, we went to the old village chicken and found that on Thuesday it may deliver chicken legs for free.
+Then I also bought a cup of coffee at Wechat.
+All the afternoon I find the informations of Bose and sony headwares and I already decided not buy anything. But changed my mind that I made an order and then watched the Yongzheng denisty. Brilliant.
+Night, I couldn't hold the tempt, and bought the Bose QC45.
+
+# 22:12 Wen, May 10, 2023
+
+## Cost: ￥486.40 In: None
+>Old village chicken ￥25.52
+@13:04
+>Train tickets for dad ￥404.50
+@17:58
+>Duck foods ￥19.48
+@19:09
+>frized pig meats & mushrooms ￥36.90
+@19:12
+
+## Daily
+Morning, I went to the canteen and ate the breakfast, then we went to work, all the day I looked forward for the Bose and the time pass so slow.
+At afternoon, Dad sended me message that I might order the ticket to Yangzhou, I told dad that if he had release I might went to find him. But he said that there might had no time. Then we went back to the hotel at about 17:30pm, Then I got hotel and got the package, the equipment was brilliant. 
+
+PS:no talk with CHN
+
+# 22:12 Thu, May 11, 2023
+
+## Cost: ￥71.00 In: None
+>Old village Chicken ￥15.50
+@13:26
+>Zuiwongting cigarette ￥35.00
+@13:47
+>black tofu ￥15.00
+@18:34
+>Cola ￥5.50
+@19:28
+
+## Daily
+Noon, we went to the old village chicken and at Tuesday, they sended me a chicken leg.
+Then at afternoon, we went back early at about 17:30, and we went to the old village chicken, then ate the rice noodles, and drunk the Jinro and Zhengyuying bougt the Jinro of different tastes. Then we went back to the hotel.
+Then I send CHN some message and she seemed really don't want to talk with me.
+So, what is love. Love was Qianxiaoman, Xiaoman would came at 5.21. 
+
+# 22:12 Fri, May 12, 2023
+
+## Cost: ￥22.24 In: ￥1917.30
+>Chinese people insurence ￥2.00
+@10:38
+>Old village chicken ￥20.24
+@13:10
+>Dalian the second travel ￥1917.30
+
+## Daily
+Morning, after ate at the canteen I went to the station with Wumin and Zhengyuying, Zheng would return home today, and Dad would went to Yangzhou.
+Morning, the operators came to see the ticket management system, the girl was beautiful and we talked until Jinguanyu came and then he took the task and went to taught the operators, f**k.
+Then the afternoon, I update the System and then Wangyu said that Guoxiaodong would came and we had to stay for him. Wumin said that I can stay at hotel and coding. Then at night, we went to the Yuxiangji closed to the hotel, and we ate the dinner and the landlady was beautiful. Pretty. 
+Then we went back to the hotel and I send CHN message, asked if I may called her, she rejected me, and she said she went to Zhengzhou and had already rent a house to live. It reminds me the boy with her.
+Son of b**ch.
+
+# 22:12 Sat, May 13, 2023
+
+## Cost: ￥131.66 In: None
+>China mobile ￥50.00
+@10:40
+>China mobile ￥10.00
+@11:46
+>Ziyan chicken ￥35.40
+@12:47
+>little foods ￥36.26
+@20:36
+
+## Daily
+Morning, I went downstairs and went for breakfast at about 9:30am, and found that Wumin had already got there, then I didn't talk to them and then ate the breakfast and then went back to the room. Then did the work all the day, then at noon, I ate the Zilin chicken while coding, The problem was not easy to solve and I did it all the day, then at night after I talked with Mom and Dad and Sis I went to get some little foods and ate the instant noodles. Then watched the football games between Byern and Sharek 04 and Byern had brillint game with 6:0.
+
+PS:No talking with CHN.
+
+# 22:12 Sun, May 14, 2023
+
+## Cost: ￥ In: None
+>Ticket for Dad from Yangzhou east to Zhumadian west ￥426.50
+@10:48
+>red elevent to mom ￥99.00
+@8:11
+
+## Daily
+
