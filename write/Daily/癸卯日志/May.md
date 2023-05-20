@@ -249,6 +249,7 @@ PS:No talking with CHN.
 ## Daily
 Morning, before I wake up, SIs sended me message that we should send red elevent to mom, then I post my elevent. Then I went to ate the breakfast at about 9:30am. Then released for all the day, last night the game was brillint. At afternoon, we made the call phone with dad, and mom went to grandpa. At such hot day, grandpa went to moutain and made money...
 night ate the spicy mix.
+Night I did the work all the night until late for the ticket management system.
 
 PS:no talking with CHN.
 
@@ -265,7 +266,11 @@ PS:no talking with CHN.
 @19:53
 
 ## Daily
-Morning, there was no people, and I got the message from Guoao that asked if we went to the station, then we went to the station  
+Morning, there was no people, and I got the message from Guoao that asked if we went to the station, then we went to the station but found that we don't have the key, then we went back to the hotel, and I found that Wangyu was at the canteen of the hotel, then I talked with him and then went back room until at about 12:00, I went to Liulou village, on the way I just wanted to ate at the canteen of the rail way company. I just met Hanzhenzhou there. Then we went to Linlou together, then at about 19:00 we went back hotel, and made congress that we would went nanjing tomorrow.
+At night I did the work all the night that the ticket management system was complex and I did it late at night.
+
+PS:Guoao, son of b\*\*ch, f\*\*k him. Never stop asking me what to do, if we went back, if we had to stay...
+PS:Sis got the COV-2019...
 
 # 22:12 Tue, May 16, 2023
 
@@ -282,6 +287,8 @@ Morning, there was no people, and I got the message from Guoao that asked if we 
 @21:54
 
 ## Daily
+Morning, we get up at about 8:00am, and then went to ate breakfast, then I waited them and we took the car went to Nanjing, which cost about one hour and I fall asleep all the way, when we got there we found that we all the first time went to Maqun, and we didn't have the keys, so we had to wait until Liuguangpu, son of b**ch came. I called him but he refused. We waited him that missed the time for the canteen closed, and then we went outside and took the bicycle, we went to a store named Dawanmain of zhangjiayuan tasted good the Xuecai meats of noodles.
+Then we went back to the building, I did the work all the day. And then we went back to Chuzhou at about 17:30pm, and then I went to the station, made the data, and then went back to hotel.
 
 # 22:12 Wen, May 17, 2023
 
@@ -294,6 +301,12 @@ Morning, there was no people, and I got the message from Guoao that asked if we 
 @18:12
 
 ## Daily
+Morning, after I went to the canteen andate the breakfast I met Guoao at the canteen, he told me that he would left and passed me keys to Liuguangpu. And today, I wear mask for that some body at the Village house was infected.
+Then do the work all day, do the Database of SC deploy.
+At afternoon, I went back at about 17:30pm and went to buy some little foods.
+Dad wasn't fell good and I told him to find the Yuetang hospital at Yangzhou. He told me that he got some Mulberry at the roadside.
+And they went to the Yangzhou Dayunhe museum.
+Night I did the distance control with Wumin.
 
 # 22:12 Thu, May 18, 2023
 
@@ -306,6 +319,12 @@ Morning, there was no people, and I got the message from Guoao that asked if we 
 @19:32
 
 ## Daily
+Morning, after I ate the breakfast I went to Linlou village and today, the data card printer maker would came, and I waited them until 11:00am. Then we worked on the printer until 13:30, then they left and I went to ate the lunch.
+Then afternoon, I print some photoes on the card and plan to take them back to Sis.
+Then I send Wumin the pictures. He said that I would did the work this week F**k!.
+Night I watched the game between T1 and JDG. JDG made 3:2.
+
+PS. no talking with CHN.
 
 # 22:12 Fri, May 19, 2023
 
@@ -320,6 +339,8 @@ Morning, there was no people, and I got the message from Guoao that asked if we 
 @13:14
 
 ## Daily
+Morning, I ate at the breakfast and met Yangjiaming who would left today, we walked to the station together and he put his package to me and I took this to the village, I got the express then I worked the morning wearing my headphone until Wangbo went back to the village, I pretend to went to the station and went back to hotel at about 12:30.
+Then worked all the afternoon, and watched the game between BLG and GEN.G of MSI. BLG made 3:0. Good game.  
 
 # 23:15 Sat, May 20, 2023
 
@@ -330,3 +351,8 @@ Morning, there was no people, and I got the message from Guoao that asked if we 
 @17:51
 
 ## Daily
+Morning, I went to ate and then worked all the day, Sis called me morning, and we made visual telephone together with Mom, Dad, and Sis, Yange was also infected.
+Then I watched the game between BLG and T1, BLG made 3:1, good game.
+Then noon, I ate some little foods, without ate lunch. Lose weight.
+Then I ordered the foods of Zilin baiwei chicken and drunk a lot of coffee. Recently I read the book of "The courage to be disliked", the desicion theory. Interesting.
+Then watched the "Motherland: Fort Salem". Then I ordered the ticket to Nanjing tomorrow, and then watched the game between FC Byern and RedBall Leipzig.
