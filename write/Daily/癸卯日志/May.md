@@ -238,11 +238,95 @@ PS:No talking with CHN.
 
 # 22:12 Sun, May 14, 2023
 
-## Cost: ￥ In: None
+## Cost: ￥563.86 In: None
 >Ticket for Dad from Yangzhou east to Zhumadian west ￥426.50
 @10:48
 >red elevent to mom ￥99.00
 @8:11
+>dinner for Zhangliang spicy mixed ￥38.36
+@18:12
+
+## Daily
+Morning, before I wake up, SIs sended me message that we should send red elevent to mom, then I post my elevent. Then I went to ate the breakfast at about 9:30am. Then released for all the day, last night the game was brillint. At afternoon, we made the call phone with dad, and mom went to grandpa. At such hot day, grandpa went to moutain and made money...
+night ate the spicy mix.
+
+PS:no talking with CHN.
+
+# 22:12 Mon, May 15, 2023
+
+## Cost: ￥77.39 In: None
+>Xuanhemen ￥19.99
+@9:11
+>lunch @ the building ￥15.00
+@12:32
+>drunk of cha pie ￥4.80
+@12:32
+>dinner for duck foods ￥37.60
+@19:53
+
+## Daily
+Morning, there was no people, and I got the message from Guoao that asked if we went to the station, then we went to the station  
+
+# 22:12 Tue, May 16, 2023
+
+## Cost: ￥104.60 In: None
+>Halou bicycle from Maqun to the resturant ￥1.50
+@12:50
+>Zhangfuyuan noodles & frized meats￥27.00
+@12:57
+>drunk at Zhangfuyuan ￥4.00
+@13:14
+>little foods at Haoxianglai ￥37.10
+@19:12
+>Zuiwengting & instant noodles ￥35.00
+@21:54
 
 ## Daily
 
+# 22:12 Wen, May 17, 2023
+
+## Cost: ￥60.50 In: None
+>Huangmen frized meats ￥22.00
+@12:51
+>coupon at elme ￥8.00
+@18:34
+>dinner for Ziyan baiwei chicken ￥30.50
+@18:12
+
+## Daily
+
+# 22:12 Thu, May 18, 2023
+
+## Cost: ￥72.97 In: None
+>Huangmen frized meats ￥16.00
+@13:58
+>little foods at Haoxianglai ￥31.47
+@19:28
+>Xuanhemen & instant noodles ￥25.50
+@19:32
+
+## Daily
+
+# 22:12 Fri, May 19, 2023
+
+## Cost: ￥40.90 In: None
+>Luckincoffee VIP ￥9.90
+@10:00
+>cola at Linlou village ￥3.00
+@10:09
+>Huangmen chicken ￥20.00
+@12:47
+>drunk of Char Pie ￥8.00
+@13:14
+
+## Daily
+
+# 23:15 Sat, May 20, 2023
+
+## Cost: ￥1560.29 In: None
+>Huabei ￥1507.89
+@13:35
+>Dinner for Zilin baiwei chicken ￥52.40
+@17:51
+
+## Daily
