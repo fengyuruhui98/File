@@ -401,6 +401,8 @@ Then I took the train G160 leave at 18:58pm and got Chuzhou at 19:17pm.
 
 PS.tired day, I walked about 38000 steps.
 
+PS:today was 5.21 also known as Xiaoman, long time no heard or write those two words, I made a decision that I may went out every year at Xiaoman and took a photo every year...
+
 # 23:15 Sun, May 21, 2023
 
 ## Cost: ￥ In: None
