@@ -356,3 +356,57 @@ Then I watched the game between BLG and T1, BLG made 3:1, good game.
 Then noon, I ate some little foods, without ate lunch. Lose weight.
 Then I ordered the foods of Zilin baiwei chicken and drunk a lot of coffee. Recently I read the book of "The courage to be disliked", the desicion theory. Interesting.
 Then watched the "Motherland: Fort Salem". Then I ordered the ticket to Nanjing tomorrow, and then watched the game between FC Byern and RedBall Leipzig.
+
+# 23:15 Sun, May 21, 2023
+
+## Cost: ￥196.12 In: None
+>Nanjing rail way from Nanjing south station to Kazimen station ￥2.00
+@10:01
+>Nanjing Bus from Yanghonghui village station to Zongtongfu station ￥2.00
+@11:34
+>Zongtongfu ticket ￥35.00
+@12:05
+>lunch of Duck blood glass noodles ￥20.00
+@13:03
+>Nanjing Liuchao museum ￥30.00
+@13:26
+>Bus from Daxinggong east station to Zhongshanling park station ￥2.00
+@14:35
+>photo at Zhongshanling ￥20.00
+@15:47
+>Nongfu shanquan water ￥4.00
+@16:07
+>rail way from Xiamafang to Fuzimiao ￥3.00
+@17:03
+>dinner Duck blood glass noodles ￥28.00
+@17:32
+>Xuanhemen and lighter ￥22.00
+@17:48
+>Rail way from Wudingmen station to Nanjingnan station ￥3.00
+@18:18 
+>cola and other little foods at Chuzhou haoxianglai ￥25.12
+@19:53
+
+## Daily
+Morning, I got up at about 8:00am, last night, the game was terrible, FCByern lost the game and the champion. Then after I went to eat the breakfast I went to the Chuzhou Zhengwuzhongxin station and took the rail way went to the Chuzhou high speed rail way station and left by the train G7605 leave at 09:27am and got Nanjingnan at 09:45am.
+Then when I got Nanjing, there was so many beauties, and I felt like heaven, so many beauties. 
+Then I went ahead the Yuhuatai at first, and saw the tower of the Yuhuatai lieshi, there was words "we and our offspring will come here often", then I made scilence there and left.
+Then I took the bus ahead the Zongtongfu, there was so historical. And always made me feel much, from the windows Sunzhongshan may stand, the garden Sun may walked. Always makes feel hot of my blood and the beating of my hearts.
+Then I went to the Liuchao museum, costs 30.00... But worth it.
+At noon, I went to ate at the resturant besides the Zongtongfu, the glass noodles of the duck blood. Tasty.
+Then went to the Zhongshanling, but not went to the Xiaoling of Zhuyuanzhang...
+Then went to the Fuzimiao.
+There was some wind chimes at the 1912 street nearby the Zongtongfu.
+Then I took the train G160 leave at 18:58pm and got Chuzhou at 19:17pm.
+
+PS.tired day, I walked about 38000 steps.
+
+# 23:15 Sun, May 21, 2023
+
+## Cost: ￥ In: None
+>Hunagmensurou ￥20.00
+@13:08
+>cola ￥3.00
+@13:37
+
+## Daily
