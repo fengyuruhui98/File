@@ -403,12 +403,194 @@ PS.tired day, I walked about 38000 steps.
 
 PS:today was 5.21 also known as Xiaoman, long time no heard or write those two words, I made a decision that I may went out every year at Xiaoman and took a photo every year...
 
-# 23:15 Sun, May 21, 2023
+# 23:15 Mon, May 22, 2023
 
-## Cost: ￥ In: None
+## Cost: ￥61.00 In: None
 >Hunagmensurou ￥20.00
 @13:08
 >cola ￥3.00
 @13:37
+>Jiaoma chicken ￥38.00
+@19:28
+
+## Daily 
+Morning, after I ate the break fast at the canteen of the hotel, I went to Linlou village, last night Wumin asked if my work print the card done I told him that I almost done the work and he told me to made the work done today, and then I worked all the morning and then before lunch I made the work done with the printer, then I went to ate the lunch at Huangmen chicken, then I called mom, and then told Wumin that I already done, Wumin said that I would come to Nanjing tomorrow, and then I rest the afternoon and then at night at 22:36, CHN send me message that she went home, and I didn't answer her, f\*\*k,  I am not something that when she needs I came and when she doesn't need I was knicked away.
+Then night I slept late...
+
+# 23:15 Tue, May 23, 2023
+
+## Cost: ￥60.60 In: None
+>Morning from Nanjing south station to Daminggong station ￥4.00
+@10:51
+>noon Duck blood glass noodles soup ￥22.00
+@11:19
+>rail way from Daminggong station to Maqun station ￥3.00
+@13:56
+>Halou bycicle ￥1.50
+@14:30
+>Tea pai ￥7.00
+@14:34
+>Halou bycicle ￥1.50
+@18:08
+>rail way from Maqun to Xinjiekou ￥4.00
+@18:39
+>Guaishou charge ￥8.00
+@20:25
+>huawei vip ￥9.60
+@21:33
 
 ## Daily
+Morning, after I ate at the canteen, then left the hotel with driver Li who send me to the high speed rail way station, and I was suposed to take the SAM card, for Liuguangpu. Then I took the train went ahead Nanjing, when I arrived there, it was early, and then I got there at about 10:20am, then I went ahead Daminggong station and ordered the Quanji at Daminggong until next Wensday, then, I got there, the Daming gong garden was long string, and I got there, the hotel was surrounded by the normal live buildings, and the room seemed long time, I waited at the hall until they said that the sofa was cleaned but when I got in the room, I found not, then I called them to exchange the outside, then I ordered the take away foods, and ate at the Quanji 2506.
+Then at afternoon, I went ahead the Maqun, but the amap gave me some place wrong, and I wasted much time finding the right way, and then I went back to the station and wnet downstairs then got it.
+We worked all the afternoon and then at about 18:00pm, we went to Xinjiekou and went to the Liujia resturant, and we ate the potato, and others like Jellyfish with Mustard something tastes good while others not that good.
+Then we walked through the city and went back to the hotel on foot.
+Then night, I washed my clothes at the hotel.
+
+PS: replied CHN and told her that I went to Nanjing and she said she just came back from Wuxi...  
+PS: we walked from the Zongtongfu and I took the photoes of the Zongtongfu at dark night 
+
+# 23:15 Wen, May 24, 2023
+
+## Cost: ￥60.14 In: None
+>Rail way from Daminggong to Maqun ￥3.00
+@09:47
+>lunch at Maqun canteen ￥11.90
+@12:17
+>dinner at Maqun canteen ￥10.50
+@17:39
+>Halou bycicle ￥1.50
+@20:48
+>Halou 7 days free ￥8.24
+@20:50
+>rail way from maqun to Daminggong ￥3.00
+@21:12
+>Suyan bought at Daminggong station ￥22.00
+@21:13
+
+## Daily
+Morning, I ate at the canteen of Quanji and then we went ahead the Maqun station we ride the bycicle around the station ahead the MAqun.
+We worked all the day and ate the lunch and dinner at the canteen of the MAqun, then we went back hotel late at about 21:00.
+On the way back to Maqun station, I opened the VIP of the bycicle. For seven days free to ride...
+Wumin told us that tomorrow we should get up early and I went bed early, today was tired, and the work made grate progress, wumin draw me some image that I should let the form looks like a system, and I dit it, tomorrow, Wumin said that the reader would be test to read the card ID...
+
+# 23:15 Thu, May 25, 2023
+
+## Cost: ￥63.90 In: None
+>lunch at Maqun canteen ￥25.90
+@12:23
+>Halou bycicle ￥0.00
+@19:20
+>rail way from maqun to Daminggong ￥3.00
+@19:38
+>dinner at ming denisty foods of duck blood glass noodles ￥35.00
+@19:50
+
+## Daily
+Morning, we get up early but Hanzhenzhou didn't got us until 8:00am, and Liugaungpu called a taxi and we took the taxi to Maqun, but found that the people came to test didn't come, and we got there early, then we worked all day.
+Shuisheng son of b\*\*ch, never help others, that I need the reader inference that he didn't help me anyway, he doesn't have the duty...
+Then I tests the card with the help of Liuguangpu and I did it.
+Then at about 18:00 we decided to get something to eat at the canteen, but found that there was no food left, then we went back to the hotel, when we arrived at the Daminggong station we went to eat dinner. we walked around and ate the duck glass blood noodles.
+Wumin bought some suck meats...
+I asked id I need to come back, Wumin said to see the situations...
+
+PS:I bought the ticket of T train and got the sleep seats costs 65.00 while high speed train costs 25.00 and normal seats costs 11.00.
+
+# 23:15 Fri, May 26, 2023
+
+## Cost: ￥158.76 In: None
+>taxi from hotel to Maqun ￥20.25
+@09:18
+>lunch at Maqun canteen ￥21.70
+@12:17
+>rail way from maqun to nanjing station ￥5.00
+@17:30
+>bus from chuzhou station to Gonganju ￥1.00
+@18:51
+>cola and Yangleduo and banana and watermelon and others downstairs of the hotel ￥65.81
+@19:50
+>LOL ￥45.00
+@20:41
+
+## Daily
+Morning, I packaged my package and went to the canteen to ate the duck blood glass noodles, then we left the hotel, I ordered a taxi for much packages, then we worked all the day, and then at afternoon, Wumin left at about 16:30pm, and I left at about 17:00, the rain threw down airs like fluff and touch me slw and slow, then I got the station.
+The train was old and the people worked on it
+
+# 23:15 Sat, May 27, 2023
+
+## Cost: ￥107.50 In: None
+>China people health insurence ￥2.00
+@10:36
+>Xuanhemen ￥20.00
+@12:41
+>Huangmenji ￥20.00
+@12:47
+>cola of two ￥13.80
+@15:43
+>hair cut ￥25.00
+@19:20
+>Dinner of duck foods at eleme ￥26.70
+@19:45 
+
+## Daily
+
+# 23:15 Sun, May 28, 2023
+
+## Cost: ￥394.70 In: None
+>jingdong Baitiao ￥372.21
+@09:34
+>Dinner of spicy glass noodles and other ￥22.49
+@16:43
+
+## Daily
+
+# 23:15 Mon, May 29, 2023
+
+## Cost: ￥98.30 In: None
+>luyuanwai beef noodles and Soybean Milk ￥19.00
+@12:21
+>Xuanhemen ￥20.00
+@18:29
+>Eleme vip ￥0.10
+@19:49
+>duck foods ￥48.50
+@19:49
+>besti cola ￥10.70
+@22:31
+
+## Daily
+
+# 23:15 Tue, May 30, 2023
+
+## Cost: ￥125.30 In: None
+>kugou music vip ￥15.00
+@10:02
+>lunch at Luyuanwai ￥19.00
+@12:56
+>cola of two ￥12.00
+@17:15
+>eleme vip coupon ￥25.00
+@17:32
+>duck foods ￥54.30
+@17:33
+
+## Daily
+Morning, I ate at the canteen and then went to Linlou village and today I didn't want to 
+
+# 22:41 Wen, May 31, 2023
+
+## Cost: ￥76.30 In: None
+>lunch at rail way company canteen ￥15.00
+@11:31
+>Xuanhemen ￥20.00
+@16:05
+>Ziyan chicken ￥41.30
+@18:35
+
+## Daily
+Morning, I ate at the canteen and went to Linlou village alone, and I found that I could not catch the train at 9:25am, then I slowed down and wait for the next train later for 15 minutes, then I took the train and got Linlou village, at the station, I felt very said for wasted my time for nothing but release. 
+Then I decided that I should  not live like that any more and then I went to Linlou village and then I made the print for the five people and then went to the station and read the cards, when I made it over I went back to Linlou village and on the way back I walked into the company and ate there, I saw lots of beauties there and then I went back to village wearing the cool arm sleeves. 
+Then I readed the card at the station and then I wondered if they can help me bring the card back to Linlou village but found that I had went back, then I waited until Yangjiaming went back from the meeting.
+Then we went back early and I ordered the take away foods of Zilin chicken. 
+
+# MONTH-COUNT
+## Cost: ￥16654.58 In: ￥9022.04 Sub: ￥-7632.54
