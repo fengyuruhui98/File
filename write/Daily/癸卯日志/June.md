@@ -68,7 +68,12 @@ PS:no talk with CHN.
 @18:07
 
 ## Daily
-Morning, I went to eat the breakfast 
+Morning, I went to eat the breakfast then watched the TV and planned to sleep, then SIs and Mom made phone call together for about two hours then I went to slpet and told the cleaner not to disturb me at afternoon. Then I slept until 17:00, then always refresh the status. 
+Then at night, I watched the "Guimiezhiren". Then I went sleep until 1:00...
+Today I got the glass cover of the switch, the switch would come tomorrow...
+Night Wumin said I would went to control center.
+
+PS: no talk with CHN...
 
 # 22:41 Mon, Jun 5, 2023
 
