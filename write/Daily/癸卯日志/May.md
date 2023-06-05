@@ -513,7 +513,9 @@ PS:I bought the ticket of T train and got the sleep seats costs 65.00 while high
 
 ## Daily
 Morning, I packaged my package and went to the canteen to ate the duck blood glass noodles, then we left the hotel, I ordered a taxi for much packages, then we worked all the day, and then at afternoon, Wumin left at about 16:30pm, and I left at about 17:00, the rain threw down airs like fluff and touch me slw and slow, then I got the station.
-The train was old and the people worked on it
+The train was old and the people worked on it said Henanhua, it aimed to Henan, my home. Even I can not get there, the train released me a lot...
+Then I made grate decision that took the bus instead of taxi back to hotel. There was a beautiful driver of the bus and she pointed me the right bus I should take.
+Then I got hotel, I ordered the 711 of the Gold flows on moon rooms. And went to bought some friutes, I ate some, then rest. 
 
 # 23:15 Sat, May 27, 2023
 
@@ -532,6 +534,8 @@ The train was old and the people worked on it
 @19:45 
 
 ## Daily
+The room was not at good as the room I lived before at 820...
+I ate the breakfast and then went to the village, the card at the village was covered with some sticky adhesive taps, it took me three hours to clean them, then I print the card and found the back was full of yellow colors, then I went to the station and read the card, at the station I called Liuguangpu that if the card read need SIM cards, he said no, then I found that I didn't switch the antenna, then I read the card, night I send the result to WUmin and he said that I should ask if they were agree with such cards. I send message to Wangyu, but wangyu said that just gave them to Wumin...
 
 # 23:15 Sun, May 28, 2023
 
@@ -542,6 +546,11 @@ The train was old and the people worked on it
 @16:43
 
 ## Daily
+Morning, I ate at the canteen, then weak up at about 9:30am, and went to ate breakfast, and then I went back to hotel.
+Then made phone call with Sis and Mom, then I just made the release, and sleep until afternoon, which means no lunch...
+THen dinner bought much but ate just the glass noodles.
+
+PS: long time no talk with CHN.
 
 # 23:15 Mon, May 29, 2023
 
@@ -558,6 +567,11 @@ The train was old and the people worked on it
 @22:31
 
 ## Daily
+Morning, I ate at the canteen and felt really tired that I can hardly get my strength, then I went to Linlou village very late.
+Then Maqiang send the cards to the building and then they said that it was much yellow there.
+Then at night I ate the duck foods just, and spicy...
+
+PS: no talk with CHN.
 
 # 23:15 Tue, May 30, 2023
 
@@ -574,7 +588,12 @@ The train was old and the people worked on it
 @17:33
 
 ## Daily
-Morning, I ate at the canteen and then went to Linlou village and today I didn't want to 
+Morning, I ate at the canteen and then went to Linlou village and today I didn't want to work at all. Then work on the card that they said they would change the front of the card.
+And just pass the day, then at night when I went back with YAngjiaming, I bought two bottles of cola for me and Yangjiaming. 
+Then night I ate the duck foods also, though I felt not good about my tummy...
+
+PS: no talk with CHN.
+
 
 # 22:41 Wen, May 31, 2023
 
