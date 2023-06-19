@@ -177,7 +177,8 @@ Today also the anxious day, things seemed not going better.. Still hate the feel
 @22:02
 
 ## Daily
-Morning, when I got 
+Morning, when I got up at about 8:30, and then went to ate the breakfast and then went to the control center, nothing more to do at the morning, then at afternoon, there was something wrong and we found that the net was error with that LCC couldn't connect to SC and Liuqing went back home, I run here and there and found that we can not fix it, and I told Wangyu if we had to call Liuqing and then Liuqing want to remote control, and he asked me to made the remote control, and I said that I had my own work if he could wait for about 30 minutes, that son of b**tch said that "we don't know which was emergency", f\*\*k..\
+Then at late night at about 21:30pm, I and Zhengyuying we went back to the hotel after we went to Dawangying and met Liuguangpu there, on the way back Zhengyuying recommand me the foods, and I just ate some dumplings for Duanwu, then I ate at late night... 
 
 # 22:41 Sat, Jun 10, 2023
 
@@ -211,6 +212,13 @@ But I went to get the package and I costed half an hour to find the right place 
 @18:05
 
 ## Daily
+Morning, I get up at about 10:00am, then I got SIs call and asked me when I may back, I already planned to back at tomorrow, but whatever, anyway, I ordered the ticket, and packaged my bag, then planned to leave, when I got the rail way station, I found that I may can't catch the train if I wait for the rail way, so I call for a taxi...
+Then I got the first ticket and there was foods on it..
+WHen I got Nanjingnan I felt low back pain a lot, then slept all the way. The next transfer train was at nine line, and I got upstairs and then just next the ten where I arrived...
+Then I got shanghai, I send Sis message that if we went out for dinner, Sis said that her mate came to shanghai from beijing to join some meets and she would came we would ate together...
+Then I send Sis message that I may got caught by the COV-19...
+I tested the Kangyuan, then found that I was effected, then I went to the Rujia at the corner of Huinan railway station, then The pain rich its highest. I send Wangyu the Shunfeng of the card, then call for the Xiaoyangshengjian and ate...
+The night was painful too, I drunk the medicine and felt better at night at 2:00am, then I wake up every ten minutes... 
 
 # 22:41 Mon, Jun 12, 2023
 
@@ -229,6 +237,7 @@ But I went to get the package and I costed half an hour to find the right place 
 @18:51
 
 ## Daily
+Morning, I ate nothing but the medicine, then I slept until 10:35, then I got the company.
 
 # 22:41 Tue, Jun 13, 2023
 
@@ -325,3 +334,14 @@ Then I went to ate the breakfast, there was some Lychee
 @18:04
 
 ## Daily
+
+# 23:48 Mon, Jun 19, 2023
+
+## Cost: ￥161.89 In: None
+>Lunch at the canteen ￥20.00
+@12:14
+>dinner at the canteen ¥24.00
+@17:29
+
+## Daily
+Morning, I weak up lat eat about 9:17am, then I went downstairs and ate the breakfast, then there was the big rain pulled down sky, and I walked to the station, on the way, the water wet my pants and then I found that the train may leave at 10, 25, 40, 55 in an hour, then I met guoyong at Dawangying, then I got there, I do the rest work of the ticket management system, then the printer got, and I do the print, and other things, then at about 17:30, I went o ate the dinner and then went back to the hotel, we made phone call for more than an hour, and then said that Mom and Dad may came to nanjing at 7.7, then we release at nanjing and chuzhou...
