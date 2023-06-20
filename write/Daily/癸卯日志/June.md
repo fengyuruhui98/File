@@ -237,7 +237,9 @@ The night was painful too, I drunk the medicine and felt better at night at 2:00
 @18:51
 
 ## Daily
-Morning, I ate nothing but the medicine, then I slept until 10:35, then I got the company.
+Morning, I ate nothing but the medicine, then I slept until 10:35, then I got the company. Then I do the sign for the salary for the work out, then at noon, I didn't went to ate lunch, then we wentto the CMMI meeting, the Japanese looked really like my grandfather in law, and called miyazaki. 
+I told Liuguiangpu that I didn't felt good and we did the tests at the office and found that I was effected by the COV-19, then I told Wunmin and then left the company, then I went to the hotel, and ordered the take away foods of fish and then rest for the afternoon, night I read the test...
+The breakfast of tomorrow had to order at the respection desk...
 
 # 22:41 Tue, Jun 13, 2023
 
@@ -345,3 +347,25 @@ Then I went to ate the breakfast, there was some Lychee
 
 ## Daily
 Morning, I weak up lat eat about 9:17am, then I went downstairs and ate the breakfast, then there was the big rain pulled down sky, and I walked to the station, on the way, the water wet my pants and then I found that the train may leave at 10, 25, 40, 55 in an hour, then I met guoyong at Dawangying, then I got there, I do the rest work of the ticket management system, then the printer got, and I do the print, and other things, then at about 17:30, I went o ate the dinner and then went back to the hotel, we made phone call for more than an hour, and then said that Mom and Dad may came to nanjing at 7.7, then we release at nanjing and chuzhou...
+
+# 23:32 Tue, Jun 20, 2023
+
+## Cost: ￥161.89 In: None
+>lunch at the canteen ￥18.00
+@12:06
+>Huabei ￥2048.55
+@13:04
+>dinner at the canteen ￥18.00
+@17:38
+>drink and spicy foods ￥26.50
+@18:47
+>Shuiyueyu Lan ￥298.00
+@12:31
+>purefast VPN ￥13.50
+@19:06
+## Daily
+Morning, I wake up at 8"30am, then went to slept again until 9:13am, then I went to the canteen and met Liuqing there Liuqing said that he would stay at hotel today and then I went ahead for the control center and got there at 10:30am, then do the rest and work, afternoon, I felt anxious for no reason and just anxious, Liuye send me message that something went wrong with the MLC and I felt f**ked and so bored...
+Afternoon, the dinner was really good, some pig meats, chickens and others but I just ate something...
+Then Sis send me message that if I can find some books for her...
+Night still seated there just seated there, do nothing f**king things...
+Tomorrow do something, no wasting your time...
