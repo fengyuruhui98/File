@@ -256,6 +256,10 @@ The breakfast of tomorrow had to order at the respection desk...
 @21:59
 
 ## Daily
+Morning, I went downstairs and got my breakfast at the respection desk, then went back and ate the foods, then I laid until 13:30 at the haiyou hotel, then Liuqing sended me message said that we would got company together and we would test each other and then I got company at about 14:00pm. There Wumin and Liuguangou wasn't there. Jinguangyu, Liuqing, Yangjiaming and I did the recite for about three hours, then Liuqing and I went up stairs and when we began at about 16:30pm, I found that I forgot my ID card and then I rushed down stairs and got the card then went back.
+There was much questions of the CMMI, the translater girl was pretty, the japanese looks really like Grandpa...
+Then there was servel questions asked by miyazaki...
+Then the translater helped us with the translation... Then we went ahead for the Shanghai hongqiao station, and I got translate at the Nanjing south station, then I got the Chuzhou station and took a taxi back to hotel, and ate the noodles again...
 
 # 22:41 Wen, Jun 14, 2023
 
@@ -274,6 +278,7 @@ The breakfast of tomorrow had to order at the respection desk...
 @19:22
 
 ## Daily
+Morning, I went to the canteen and ate the breakfast, then I went to the control center, then ate at the canteen and do the work all the day, I felt not too bad but just couldn't smell any thing, and didn't smoke all the day, every thing smell to me like the charcoal and I didn't went back to the hotel until 19:22, time just passed by without remind, I ate dinner at the canteen and walked around and went back found that today, there was no train anymore. Then I took taxi back to the hotel.
 
 # 22:41 Thu, Jun 15, 2023
 
@@ -287,8 +292,10 @@ The breakfast of tomorrow had to order at the respection desk...
 >Porridge at eleme named Meiling ¥28.60
 @18:58
 
-
 ## Daily
+Morning, I received Zahngkaidi called me that I would went to the station and make the training for the station members, and then Wumin called me also, and then I got the Dawangying and I felt bad, then Zhangkaidi was there and we went to the station center of the Dawangying and then we do the training.
+The girls there was young and beautiful, there was a girl asked me if I was effected I said no and then we do the training, and she sitted besides me and the smell flows into my nose, and she touched me, and we do the training for a long time, then at noon, I went to the building for lunch and I just found that the salary was delivered to my account, and then I transfered to dad for 10000yuan.
+Then at afternoon, I went to the station center at about 13:30, then trained until 15:00pm, then I went back to the hotel by the train and bought something to ate for dinner. 
 
 # 22:58 Fri, Jun 16, 2023
 
@@ -303,7 +310,8 @@ The breakfast of tomorrow had to order at the respection desk...
 @19:52
 
 ## Daily
-Morning, I ate the break fast at the canteen then went back to the room and then I was told that 3
+Morning, I ate the breakfast at the canteen then went back to the room and then I was told that there won't have any train today, so I took taxi went to the control center, and then do the print after lunch, and then Liuiqng was there we went back together by the bus. We went to the Zhongzhou hotel around first for him bought the pie to eat, I waited him, for a long long time. Then we went to the bus station waited for 8th bus and transfer, then we made a mistake that we got the wrong direction...
+Then f**ker Liuqing finally called for a taxi and we took the taxi back to the hotel.
 
 # 22:58 Sat, Jun 17, 2023
 
@@ -317,7 +325,10 @@ Morning, I ate the break fast at the canteen then went back to the room and then
 
 ## Daily
 Morning, I got up late at about 9:13, then do the releax at the bed, I didn't felt better about my nose.
-Then I went to ate the breakfast, there was some Lychee
+Then I went to ate the breakfast, there was some Lychees and they tasted good, but I didn't ate more.
+There was no train today and I had to call for a taxi.
+Then I do the print all the day, and we did about 300 tickets, then we went back and waited for the next days print. Then I went to the Haoxianglai and bought the foods and drinks there then I went back.
+Today I felt better except my nose still can't smell for anything.
 
 # 22:58 Sun, Jun 18, 2023
 
@@ -336,10 +347,13 @@ Then I went to ate the breakfast, there was some Lychee
 @18:04
 
 ## Daily
+Morning, I got up at about 9:13am, then went to the control center late at 10:00am, then I did the work until noon at about 13:00pm, there was no foods any more and I bought the coupon and ordered the take away foods of Huaxiaoxiao glass spicy noodles. Then I do the work afternoon.
+Finally, I did them all before 14:00an the afternoon. Then I went back and bought something to ate and the duck foods for dinner.
+So f**king sunday...
 
 # 23:48 Mon, Jun 19, 2023
 
-## Cost: ￥161.89 In: None
+## Cost: ￥44.00 In: None
 >Lunch at the canteen ￥20.00
 @12:14
 >dinner at the canteen ¥24.00
@@ -350,7 +364,7 @@ Morning, I weak up lat eat about 9:17am, then I went downstairs and ate the brea
 
 # 23:32 Tue, Jun 20, 2023
 
-## Cost: ￥161.89 In: None
+## Cost: ￥2422.55 In: None
 >lunch at the canteen ￥18.00
 @12:06
 >Huabei ￥2048.55
@@ -363,9 +377,180 @@ Morning, I weak up lat eat about 9:17am, then I went downstairs and ate the brea
 @12:31
 >purefast VPN ￥13.50
 @19:06
+
 ## Daily
 Morning, I wake up at 8"30am, then went to slept again until 9:13am, then I went to the canteen and met Liuqing there Liuqing said that he would stay at hotel today and then I went ahead for the control center and got there at 10:30am, then do the rest and work, afternoon, I felt anxious for no reason and just anxious, Liuye send me message that something went wrong with the MLC and I felt f**ked and so bored...
 Afternoon, the dinner was really good, some pig meats, chickens and others but I just ate something...
 Then Sis send me message that if I can find some books for her...
 Night still seated there just seated there, do nothing f**king things...
 Tomorrow do something, no wasting your time...
+
+# 23:32 Wen, Jun 21, 2023
+
+## Cost: ￥86.15 In: None
+>lunch at the canteen ￥16.00
+@12:28
+>dinner at the canteen ￥7.50
+@18:00
+>Taxi from control center back to hotel ￥20.15
+@21:25
+>eleme duck foods ￥42.50
+@21:47
+
+## Daily
+Morning, I got up late at 9:13am, then I went to the control center and then planned to rest today, however, at about 10:00am, they came, Wumin and Liuguangpu and Zhengyuying. They came here and I did the work all the day later. Then I asked Wumin if we would work at the festival, he said yes then I signed up my applacation of working at the rest day.
+At night we worked back at late night then I ordered the duck foods and then ate at the hotel.
+
+PS:we do the work until late night at about 21:30pm, every time, every time Wumin came, we never get our work over till 21:00pm.
+
+# 23:32 Tue, Jun 22, 2023
+
+## Cost: ￥16.60 In: None
+>lunch at the canteen ￥7.00
+@12:14
+>Hua wei ￥9.6
+@20:54
+
+## Daily
+Morning, I got up at about 8:30am, then we ate at the canteen and then we went to the control center and then worked there.
+Morning at about 10:14am, CHN sended me message and ask me if I work or not, then I told her that I work... Then we talked for about ten words, then over..
+Then at noon we went to eat the lunch and then worked until Wumin left at about 17:30pm, he went to nanjing for his wife a f\*\*k, then we talked a lot, Zhangkaidi hurried me for that I had to work. F\*\*k off...
+Then at night we walked to the Laochu, and we eat there, I drunk so much alcohol...
+Then we took taxi back to the hotel and the I slept on the sofa all night.
+
+# 23:27 Fri, Jun 23, 2023
+
+## Cost: ￥262.40 In: None
+>lunch at the canteen ￥19.00
+@12:17
+>dinner at the canteen ￥9.50
+@17:48
+>NS switch  ￥233.90
+@17:44
+
+## Daily
+Morning, I slept on the sofa, and then I got up and took a shower and then went down stairs and then ate at the canteen and met Wangyu there, then I went to the control center with wangyu and then at about 10:30am, Wumin came here and then I told him that the operator had been made into the system. Then we do the work.
+At noon, we went to the canteen with Liuguangpu and then we walk around the building, and talked about the dinner we ate last night at the dragon boat festival.
+Then at night I bought the Baokmen of switch, then we went back to the hotel at 8:00pm... 
+
+# 23:03 Sat, Jun 24, 2023
+
+## Cost: ￥742.00 In: None
+>China mobile fee ￥50.00
+@10:10
+>lunch at the canteen of the building ￥21.00
+@12:17
+>Xuanhemen ￥21.00
+@20:43
+>train tickets ￥650.00
+@20:54
+
+## Daily
+Morning, I got up late at about 9:00am, then I went to the canteen, f**cker Wumin would left tomorrow with Jinguangyu. They would went to xi'an for a new line. There was rain all the day. 
+Liuguangpu came here at noon, then we went left at about 17:00pm, then we went to the Chuzhou government station for the work, Wumin asked me to made some tables and then he left and ahead to Nanjing. We do the rest work until 20:00pm, then we went back.
+Shuisheng and Hanzhenzhou still there do the work, and then Liuguangpu and I and Zhengyuying and Wangyu went to the Liuji resturant and we ate there, the fish, the eggs, the others. Then I went back to the hotel, and bought mom and dad for two tickets aim to shanghai.
+But, before they left, we still need to work until very late. We didn't went back until late night. 
+
+# 23:53 Sun, Jun 25, 2023
+
+## Cost: ￥56.60 In: None
+>lunch at the canteen ￥20.00
+@12:39
+>dinner at the canteen ￥15.00
+@18:06
+>Haoxianglai foods ￥21.60
+@19:41
+
+## Daily
+Morning, I went to the control center at about 9:30am, then do the authority send of the worker, then Shuisheng asked me for some account that if they had the right to sign in. Then I do the work of the report of the QR payment. And I write the python to transfer the card ID.
+Then we made the delivery of the authority. 
+We ate the dinner at the canteen, I ate little rice and plan to eat little for the next days.
+
+# 23:53 Mon, Jun 26, 2023
+
+## Cost: ￥78.80 In: None
+>Taxi from hotel to the control center ￥19.58
+@10:13
+>lunch at the canteen ￥24.00
+@12:07
+>dinner at the canteen ￥15.00
+@18:01
+>taxi from control center back to the hotel ￥20.22
+@21:16
+
+## Daily
+Morning, after I ate at the canteen of hotel, I went to the control center, on the way road I received the email from Fushenying weixin, said that my photo was passed and they would send the photo on their new passage. The topic was about hometown.
+Some few proud came to me, and I told Sis about it.
+Then I worked all the day, and the train wouldn't open for today and tomorrow, for that it would open at 28, when the line would open for the city people.
+Mom told me that there was grate rain at home, and the floor flowed by the yard. I did the work all day, about the doule of the station on the LCC views. The other things. Then I went back from the control center back to hotel late after 21:00pm.
+
+# 23:53 Tue, Jun 27, 2023
+
+## Cost: ￥59.76 In: None
+>China people health insurence ￥2.00
+@10:33
+>lunch at the canteen ￥15.00
+@12:22
+>Taxi from control center back to hotel ￥21.76
+@19:01
+>xuanhemen bought at the hotel ￥21.00
+@22:25
+
+## Daily
+Morning, I went to the control center by the train, and the train would out of run at afternoon. Today, Guoxiaodong and Jiangqifeng came here, they came to the control center, and son of b**ch Jiangqifeng always looks down on others. We smoke under the building, then we went back to the building, I do the work until 16:50, then we went to the Yuxiangji under the hotel, there was many people, and I didn't drink any alcohol, eighteen more people were there, I pulled the water for Guoxiaodong and we went back much early for that tomorrow the train and the line will operator as usual.
+
+# 23:53 Wen, Jun 28, 2023
+
+## Cost: ￥824.36 In: None
+>Jingdong baitiao ￥809.36
+@09:40
+>lunch at the canteen ￥15.00
+@12:10
+
+## Daily
+Morning, Guoxiaodong and others went to take part in the meeting of the first day of the line, then I went to the control center with Liuqing while Liuguangpu and others went to the station and do the ensurence work.
+Morning at about 10::am, Guoxiaodong sended me message that I would send him the flow of the passenger then I send the wrong message and I regret a lot, shamed, Then I did it again at afternoon.
+Zhaokang was there still we smoke the cigaretee of the Guihua smell.
+Then at night we went to Yuxiangji again and then we went back to the hotel with Zhaokang, and then we went ahead to YUxiangji, I drunk little, then we ate the dinner, the beef with the meats was wonderful.
+After we ate the the Yuxiangji, we went to the station after the station manager send Liuguangpu message and call him. The girl at the governemnt station was beauty, like her. Then we walk back to the hotel. 
+
+# 23:53 Thu, Jun 29, 2023
+
+## Cost: ￥324.80 In: None
+>lunch at the canteen ￥24.00
+@12:10
+>dinner at the canteen ￥23.00
+@18:27
+>hotel order for Sis and Mom ￥221.00
+@20:46
+>duck foods ￥30.80
+@22:25
+>Huangshan heima cigarette ￥26.00
+@22:33
+
+## Daily
+Morning, after we ate at the canteen under the hotel, I went to the control center and then do the work all day, today, the work was not such busy, but I had to check the money and the ticket number, then I ate at the canteen, at night, I send Mom and Sis message that I booked the hotel and I used about 20000 score for about 221.00 for booked the moon light at the Orange hotel, then I bought the duck foods and watched the "Person of interest". Then I tried the Huangshan Heima of the orange taste.
+
+# 23:53 Fri, Jun 30, 2023
+
+## Cost: ￥136.30 In: None
+>Kugou Music VIP ￥15.00
+@10:01
+>lunch at the canteen ￥15.00
+@11:59
+>dinner at the canteen ￥9.00
+@17:51
+>Duck foods ￥40.50
+@20:06
+>duck foods ￥30.80
+@22:25
+>Huangshan heima cigarette ￥26.00
+@22:33
+
+## Daily
+Today was friday, and tomorrow I stil had to do the work, Zhaokang left today, and I do the work all the day, lunch and dinner was used at the canteen, and night, still the duck foods and the "Person of interest", then nothing was unsual and nothing was not repeat.
+PS:still no talk with CHN.
+
+
+# MONTH-COUNT
+## Cost: ￥21034.44 In: ￥15922.04 Sub: ￥-5112.40
