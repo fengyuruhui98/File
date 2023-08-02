@@ -296,5 +296,145 @@ Morning, I got up late at about 6:40am, when Sis and Yunyan hadn't leave, we ate
 @09:13
 >HUabei ￥3135.95
 @09:02
+>Pig ears and others ￥34.00
+@17:55
+>Steamed bread ￥1.00
+@17:56
+>cola and ice creame ￥12.00
+@18:50
+
+## Daily
+
+# 23:53 Fri, Jul 21, 2023
+
+## Cost: ￥118.50 In: None
+>Luyuanwai fritters ￥9.00
+@09:23
+>Duck foods ￥55.30
+@17:32
+>Xuanhemen and drink ￥24.00
+@21:01
+
+## Daily
+
+# 23:53 Sat, Jul 22, 2023
+
+## Cost: ￥118.50 In: None
+>Luckincoffee ￥27.90
+@09:32
+>LOL ￥25.00
+@13:29
+>LOL ￥20.00
+@13:29
+>Fried Wonton and noodles at Shaxian little foods ￥23.60
+@13:37
+>Beef noodles chao lamian ￥15.00
+@21:31
+>cola and ice creame ￥26.00
+@21:53
+
+## Daily
+
+# 23:53 Sun, Jul 23, 2023
+
+## Cost: ￥118.50 In: None
+>Luckincoffee ￥27.55
+@10:09
+>ShiguoBanfan ￥24.88
+@14:23
+>ShiguoBanfan ￥21.88
+@19:47
+>Nanjing Daguanyuan ￥31.00
+@22:13
+
+## Daily
+
+# 23:53 Mon, Jul 24, 2023
+
+## Cost: ￥118.50 In: None
+>ShiguoBanfan ￥25.88
+@12:40
+>rice glass noodles ￥14.65
+@20:05
+
+## Daily
+
+# 23:53 Tue, Jul 25, 2023
+
+## Cost: ￥118.50 In: None
+>rice glass noodles and chicken soup ￥25.45
+@12:09
+>Huangshan ￥16.00
+@13:42
+>eleme coupons ￥30.00
+@17:27
+>drink  ￥4.50
+@17:30
+>rice glass noodles  ￥16.10
+@17:31
+>paper and Wenxiang ￥16.00
+@22:21
+
+## Daily
+
+# 23:53 Wen, Jul 26, 2023
+
+## Cost: ￥118.50 In: None
+>Luckincoffee ￥35.34
+@08:56
+>Zhangliang spicy ￥24.22
+@17:10
+
+## Daily
+
+# 23:53 Thu, Jul 27, 2023
+
+## Cost: ￥118.50 In: None
+>China people's insurence ￥2.00
+@10:34
+>Zhangliang spicy ￥47.62
+@17:53
+
+## Daily
+
+# 23:53 Fri, Jul 28, 2023
+
+## Cost: ￥118.50 In: None
+>Luckincoffee ￥27.90
+@09:44
+>rice glass noodles ￥16.10
+@12:27
+
+## Daily
+
+# 23:53 Sat, Jul 29, 2023
+
+## Cost: ￥118.50 In: None
+>ShiguoBanfan ￥21.88
+@12:12
+>rice glass noodles and duck leg ￥27.10
+@19:44
+
+## Daily
+
+# 23:53 Sun, Jul 30, 2023
+
+## Cost: ￥118.50 In: None
+>ShiguoBanfan ￥24.38
+@12:36
+>Old village chicken ￥31.70
+@20:08
+
+## Daily
+
+# 23:53 Mon, Jul 31, 2023
+
+## Cost: ￥118.50 In: None
+>Old village chicken ￥21.50
+@13:09
+>Old village chicken ￥34.50
+@19:06
+>rail way from shanghai to zhumadian for Dad and Mom ￥920.00
+@20:24
 
 ## Daily
