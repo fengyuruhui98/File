@@ -197,12 +197,13 @@ Sis sended me photoes that the airplane was cheap
 
 # 23:53 Fri, Jul 14, 2023
 
-## Cost: ￥21.70 In: None
+## Cost: ￥128.70 In: None
 >taxi from hotel to Chuzhou station ￥12.70
 @07:37
 >rail way from shanghai hongqiao station to Sis ￥9.00
 @12:33
-
+>wallet ￥107.00
+@13:11
 
 ## Daily
 
@@ -270,7 +271,7 @@ Sis sended me photoes that the airplane was cheap
 
 # 23:53 Wen, Jul 19, 2023
 
-## Cost: ￥499.51 In: None
+## Cost: ￥569.41 In: None
 >Drogon tiger colling oil ￥12.30
 @08:45
 >HotMax for the soap ￥62.20
@@ -285,13 +286,15 @@ Sis sended me photoes that the airplane was cheap
 @16:50
 >instant noodles and drinks and Xuanhemen ￥32.00
 @20:13
+>home textile ￥69.90
+@20:20
 
 ## Daily
 Morning, I got up late at about 6:40am, when Sis and Yunyan hadn't leave, we ate the breakfast together, then we took the rest and then 
 
 # 23:53 Thu, Jul 20, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥3187.95 In: None
 >Luyuanwai ￥5.00
 @09:13
 >HUabei ￥3135.95
@@ -307,7 +310,7 @@ Morning, I got up late at about 6:40am, when Sis and Yunyan hadn't leave, we ate
 
 # 23:53 Fri, Jul 21, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥88.30 In: None
 >Luyuanwai fritters ￥9.00
 @09:23
 >Duck foods ￥55.30
@@ -319,7 +322,7 @@ Morning, I got up late at about 6:40am, when Sis and Yunyan hadn't leave, we ate
 
 # 23:53 Sat, Jul 22, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥137.50 In: None
 >Luckincoffee ￥27.90
 @09:32
 >LOL ￥25.00
@@ -337,13 +340,15 @@ Morning, I got up late at about 6:40am, when Sis and Yunyan hadn't leave, we ate
 
 # 23:53 Sun, Jul 23, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥114.91 In: None
 >Luckincoffee ￥27.55
 @10:09
 >ShiguoBanfan ￥24.88
 @14:23
 >ShiguoBanfan ￥21.88
 @19:47
+>Huawei Vip ￥9.60 
+@16:46
 >Nanjing Daguanyuan ￥31.00
 @22:13
 
@@ -351,7 +356,7 @@ Morning, I got up late at about 6:40am, when Sis and Yunyan hadn't leave, we ate
 
 # 23:53 Mon, Jul 24, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥40.53 In: None
 >ShiguoBanfan ￥25.88
 @12:40
 >rice glass noodles ￥14.65
@@ -361,7 +366,7 @@ Morning, I got up late at about 6:40am, when Sis and Yunyan hadn't leave, we ate
 
 # 23:53 Tue, Jul 25, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥108.05 In: None
 >rice glass noodles and chicken soup ￥25.45
 @12:09
 >Huangshan ￥16.00
@@ -379,19 +384,25 @@ Morning, I got up late at about 6:40am, when Sis and Yunyan hadn't leave, we ate
 
 # 23:53 Wen, Jul 26, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥75.56 In: None
 >Luckincoffee ￥35.34
 @08:56
 >Zhangliang spicy ￥24.22
 @17:10
+>haungshan ￥16.00
+@18:54
 
 ## Daily
 
 # 23:53 Thu, Jul 27, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥67.62 In: None
+>instant noodles od xiaohuanxiong ￥3.00
+@09:44
 >China people's insurence ￥2.00
 @10:34
+>lunch at the canteen of the building ￥15.00
+@11:43
 >Zhangliang spicy ￥47.62
 @17:53
 
@@ -399,42 +410,62 @@ Morning, I got up late at about 6:40am, when Sis and Yunyan hadn't leave, we ate
 
 # 23:53 Fri, Jul 28, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥1153.83 In: None
+>Jingdong baitiao ￥505.83
+@09:38
 >Luckincoffee ￥27.90
 @09:44
 >rice glass noodles ￥16.10
 @12:27
+>xuanhemen and cola ￥24.00
+@17:20
+>Laochu ￥580.00
+@19:25
 
 ## Daily
 
 # 23:53 Sat, Jul 29, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥52.98 In: None
 >ShiguoBanfan ￥21.88
 @12:12
 >rice glass noodles and duck leg ￥27.10
 @19:44
+>drunk ￥4.00
+@20:39
 
 ## Daily
 
 # 23:53 Sun, Jul 30, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥106.58 In: None
 >ShiguoBanfan ￥24.38
 @12:36
+>Xuanhemen ￥20.00
+@12:57
 >Old village chicken ￥31.70
 @20:08
+>bread and milk and ohthers ￥30.50
+@22:51
 
 ## Daily
 
 # 23:53 Mon, Jul 31, 2023
 
-## Cost: ￥118.50 In: None
+## Cost: ￥1210.00 In: None
+>Kugou Vip ￥15.00
+@10:27
+
 >Old village chicken ￥21.50
 @13:09
 >Old village chicken ￥34.50
 @19:06
 >rail way from shanghai to zhumadian for Dad and Mom ￥920.00
 @20:24
+>octopath traveler ￥219.00
+@22:08
 
 ## Daily
+
+# MONTH-COUNT
+## Cost: ￥ In: ￥ Sub: ￥-
