@@ -98,7 +98,8 @@ Once I filled my hand with mist, Then I open it and lo, the mist was a worm, and
 @18:49
 
 ## Daily
-Morning, I weak up early and ate the breakfast at the canteen, it was cloudy and I heared the rain fall down heavily last night, and when I got close to the subway station the rain falled down, then I took the train to the Chahe, which took about one hour, then I paied 3.00 for the bus from Chahe to Linchang, then I took the rail way from Linchang to Nanjingnan, I got there until about 12:00am, then I got Nanjingnan station, and then I met Dad and Mom and Sis at the station then we took the car and went to Chuzhou, there was no rain at Nanjing, when we drive on the way to 
+Morning, I weak up early and ate the breakfast at the canteen, it was cloudy and I heared the rain fall down heavily last night, and when I got close to the subway station the rain falled down, then I took the train to the Chahe, which took about one hour, then I paied 3.00 for the bus from Chahe to Linchang, then I took the rail way from Linchang to Nanjingnan, I got there until about 12:00am, then I got Nanjingnan station, and then I met Dad and Mom and Sis at the station then we took the car and went to Chuzhou, there was no rain at Nanjing, when we drive on the way back to chuzhou, there pulled heavy water from the sky, we drive fast and got the Orange hotel at about 13:30pm, then we went up stairs for the package and then we went to Liuji sifangcai for lunch, there was nearly closed of the resturant but we made a round desk for the meal, and then we ate a lot, the soup, fish of Angci, the scallop, the chicken and so on...
+When we ate later, the rain falled down, we wait at the hotel until the rain slow down, then we went to the Langya mountain, we walked together, and they went to the Zuiwongting, I left outside, then we climber the mountain till the tample, then we went back, the sunshine through the 
 
 # 23:53 Sat, Jul 8, 2023
 
