@@ -164,3 +164,54 @@ Morning, I wake up then read the books for releax, then I asked Liu of the peopl
 At noon I received message that Jinguangyu may got raise, the jealous came to me, I didn't think I was lower that Jin but... Any way, I searched the job on 51job.net, then I favorite some, and then I played games all the afternoon without ate any thing for lunch. 
 Then I called Hechangxia and Wumin for what I got, then made video call with Sis and Mom, then I went to get my hair cut.
 Hope tomorrow would be less upset.
+
+# 22:07 Thu, Aug 10, 2023
+
+## Cost: ￥131.10 In: None
+>Luckin coffee at eleme ￥28.60
+@09:34
+>instant noodles ￥14.50
+@12:33
+>pig ears and others ￥45.00
+@19:21
+
+## Daily
+Morning, I wake up at about 8:30am, then I ordered the Luckin coffee and the cookie, then I do the Dalian code, and when it came the hour to eat lunch, Lichongbin and I went down stairs and we got the instant noodles, and other things.
+Then I at afternoon, we went outside and I bought the pig ears and others, I cooked them back to the house, and Lichongbin said it was salty... f**k I felt good...
+
+# 22:53 Fri, Aug 11, 2023
+
+## Cost: ￥340.20 In: None
+>OCTOPATH TRAVELER II ￥265.00
+@02:40 
+>Luckin coffee at eleme ￥28.60
+@09:34
+>Meituan lunch ￥12.60
+@13:00
+>Huangshan and instant noodles ￥34.00
+@18:37
+
+## Daily
+Morning, I went th bed and went to bed until 3:30am, then I bought the game, which was pretty.
+Then as for breakfast I ordered the luckin coffee and others, and played the LOL for the morning, and then for afternoon, I read the book for a little time, and then there was nothing new, but I renewed my application of outside work.
+Then for dinner I ate the instant noodles still.
+
+# 22:53 Sat, Aug 12, 2023
+
+## Cost: ￥131.10 In: None
+>People's health insurence ￥2.00
+@10:38 
+>eleme coupons ￥33.00
+@12:14
+>eleme chicken ￥19.62
+@12:15
+>eleme old village chicken ￥30.50
+@19:17
+>Fried chicken ￥24.36
+@22:22
+
+## Daily
+Morning, I slept until 10:30am, and then I played the game of OctoPath traveler, then I watched the wild build of the west people, then at afternoon, I went to bed and read the book and slept for a little, then night, I watched the game between FC Byren and Red Bull L...
+There was a big sign "F**ck RB" besides the playground.
+Before the game, Lichongbin and I ate the fried chicken and we drunk some beer, then I stay at the desktop and read the book still.
+So lazy...  
