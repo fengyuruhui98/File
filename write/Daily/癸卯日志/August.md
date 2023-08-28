@@ -215,3 +215,141 @@ Morning, I slept until 10:30am, and then I played the game of OctoPath traveler,
 There was a big sign "F**ck RB" besides the playground.
 Before the game, Lichongbin and I ate the fried chicken and we drunk some beer, then I stay at the desktop and read the book still.
 So lazy...  
+
+# 22:53 Sun, Aug 13, 2023
+
+## Cost: ￥131.10 In: None
+>eleme ############ ￥29.61
+@12:36 
+>drink ￥8.00
+@14:00
+>eleme ########### ￥33.50
+@18:47
+>Huangshan ￥16.00
+@18:52
+
+## Daily
+
+# 22:53 Mon, Aug 14, 2023
+
+## Cost: ￥131.10 In: None
+>eleme ################ ￥20.40
+@09:40 
+>eleme ################ ￥24.36
+@13:26
+>eleme ################## ￥31.70
+@19:17
+>ice creame & cola ￥12.00
+@20:57
+
+## Daily
+
+# 22:53 Tue, Aug 15, 2023
+
+## Cost: ￥131.10 In: None
+>drink and Huangshan ￥28.00
+@13:50
+>Luckin coffee ￥28.00
+@21:22 
+>cakes ￥21.94
+@21:30
+
+## Daily
+
+# 22:53 Wed, Aug 16, 2023
+
+## Cost: ￥131.10 In: None
+>eleme ############### ￥26.38
+@13:10 
+>eleme ############### ￥30.50
+@18:50
+
+## Daily
+
+# 22:53 Thu, Aug 17, 2023
+
+## Cost: ￥131.10 In: None
+>eleme ########## ￥26.00
+@12:11 
+>vegetable ￥45.50
+@11:36
+>tofu of chouganzi ￥3.00
+@11:38
+
+
+## Daily
+
+# 22:53 Fri, Aug 18, 2023
+
+## Cost: ￥131.10 In: None
+>eleme ############## ￥34.50
+@18:25 
+
+## Daily
+
+# 22:53 Sat, Aug 19, 2023
+
+## Cost: ￥131.10 In: None
+>eleme ############# ￥23.00
+@12:32 
+>eleme ############ ￥41.46
+@22:02
+
+## Daily
+
+# 22:53 Sun, Aug 20, 2023
+
+## Cost: ￥131.10 In: None
+
+## Daily
+
+# 22:53 Mon, Aug 21, 2023
+
+## Cost: ￥131.10 In: None
+>eleme ############### ￥26.00
+@11:48 
+>eleme ############### ￥34.50
+@18:21
+
+## Daily
+
+# 22:53 Tue, Aug 22, 2023
+
+## Cost: ￥131.10 In: None
+>eleme Daogulaomian ￥26.00
+@12:02
+
+## Daily
+
+# 22:53 Wed, Aug 23, 2023
+
+## Cost: ￥131.10 In: None
+>eleme Daogulaomian ￥26.00
+@12:02
+
+## Daily
+
+# 22:53 Thu, Aug 24, 2023
+
+## Cost: ￥131.10 In: None
+>eleme Daogulaomian ￥26.00
+@12:02
+
+## Daily
+
+# 22:53 Fri, Aug 25, 2023
+
+## Cost: ￥131.10 In: None
+>eleme Daogulaomian ￥26.00
+@12:02
+
+## Daily
+
+# 22:53 Sat, Aug 26, 2023
+
+## Cost: ￥131.10 In: None
+>eleme Daogulaomian ￥26.00
+@12:02
+
+## Daily
+
