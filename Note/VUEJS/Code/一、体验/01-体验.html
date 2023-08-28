@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div id = "app">
+    <h1>{{name}}</h1>
+    <h2>{{sword}}</h2>
+</div>
+<div>{{message}}</div>
+
+<script src = "./vue.js"></script>
+<script>
+    //声明式编程范式。****数据与界面分离****,Vue响应式工作。
+    const app = new Vue({
+        el: '#app', //用于挂载要管理的元素
+        data: {//定义数据，也可以网络请求，从服务器上获取。
+            name: '李莲花',
+            sword: '少师，刎颈'
+        }
+    })
+
+</script>
+
+</body>
+</html>

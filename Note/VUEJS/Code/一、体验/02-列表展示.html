@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+
+        <div id = 'app'>
+            <h1>{{name}}</h1>
+            <ul>
+                <li v-for = "item in sword">{{item}}</li>
+            </ul>
+        </div>
+
+        <script src = "./vue.js"></script>
+        <script>
+             const app = new Vue({
+                el: '#app',
+                data: {
+                    name : '李莲花',
+                    sword : ['少师','刎颈']
+                }
+            })
+        </script>
+
+    </body>
+
+</html>
