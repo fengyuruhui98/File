@@ -353,3 +353,45 @@ So lazy...
 
 ## Daily
 
+# 22:53 Sun, Aug 27, 2023
+
+## Cost: ￥131.10 In: None
+>eleme Daogulaomian ￥26.00
+@12:02
+
+## Daily
+
+# 22:53 Mon, Aug 28, 2023
+
+## Cost: ￥131.10 In: None
+>eleme Daogulaomian ￥26.00
+@12:02
+
+## Daily
+Morning, I wake up at about 09:20am, and then went to the WC, and didn't eat anything, then I watched the video all the day.
+It's cold today, Huawei called me again before I got message that there wouldn't be the out work at Chuzhou, said and found that I had to make a desicion that the futher of the study or work. 
+Then I planned to learn the night but got interupted doing the other things.
+Night I went outside and eat the last ice creame of this year may be...
+
+# 22:53 Tue, Aug 29, 2023
+
+## Cost: ￥131.10 In: None
+>eleme Daogulaomian ￥26.00
+@12:02
+
+## Daily
+Morning, I ate the cookies bought yesterday, then work the morning, Tianjin metro called me, we talked about the SPT of B/S changes. Then I do the envirment of the SPT and spend about two hours, then made it done, tomorrow I might do the coding and at afternoon, Wumin called me said that I may not approve any out work applications any more, and I can stay at Chuzhou and then when I was needed I can took the train on the line cross Chuzhou. Besides he asked me to do the Coding of the Chuzhou BOM from Hanzhenzhou, f**k, then Jinguangyu and I went outside of the dinner and then we played the LOLm together.
+
+PS: CHN send Wechat friend circle for the cloud and the sky... 
+
+# 22:53 Wed, Aug 30, 2023
+
+## Cost: ￥131.10 In: None
+>eleme Daogulaomian ￥26.00
+@12:02
+
+## Daily
+Morning, I got up at about 9:40am, then Jinguangyu went to xi'an and I started my work, I did the Tianjin SPT all the day, for the morning, I did the package job, and do the build, then for the afternoon, I connected to the Tianjin SPT by Xiangrikui and tests the SQL. At afternoon, Zhangkaidi called me for that the connection between Chuzhou and Nanjing ACC was disconnected, I called Liuqing and tested the 172.59.230.26,29,30 and found that 29 was disconnected, then it recovered at night...
+Then I tested the SQL until late night...
+
+PS: less smoke, make good decision, the "white whale" was excellent! 
