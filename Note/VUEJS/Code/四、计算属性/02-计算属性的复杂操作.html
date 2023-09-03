@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang = 'en'>
+  <head>
+    <meta charset = 'UTF-8'>
+      <title></title>
+   </head>
+   <body>
+    <div id = 'app'>出招速度：{{fullSpeed}}</div>
+    <script src = './vue.js'></script>
+    <script>
+      //methods 调用几次，就运行几次，是具有幂等性的。 computed只会运行一次，
+      const app = new Vue({
+        el : '#app',
+        data : {
+          people : [
+            {name : '李相夷', sword : '少师', power : '相夷太剑', speed : 20},
+            {name : '李莲花', sword : '刎颈', power : '扬州慢', speed : 30}
+          ]
+        },
+        computed : {
+          fullSpeed : function(){
+            let ans = 0;
+            for(let i = 0; i < this.people.length; ++i){
+              ans += this.people[i].speed;
+            }
+            // for(i in this.people){
+            //people[i];
+            // }
+            // for(person of people){
+            //person == people[i];
+            // }
+            return ans;
+          }
+        }
+      })
+    </script>
+  </body>
+</html>

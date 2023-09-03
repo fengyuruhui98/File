@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang = 'en'>
+  <head>
+    <meta charset = 'UTF-8'>
+      <title>Title</title>
+   </head>
+   <body>
+    <script>
+     //1. 变量作用域：变量的可使用范围
+     //2. 没有块级作用域引起的问题，if块级与for块级都没有作用域，必须借助福nation来解决作用于问题。
+     //3. ES6中可借助let来解决问题。
+      var btns = document.getElementsByTagName('button');
+      for(var i = 0; i < btns.length; i++){
+        // btns[i].addEventListener('click',function(){
+        //   console.log('第' + i + '个按钮被点击');
+        // })
+        //ES5解决--闭包
+        //闭包可以解决--函数是一个作用域
+        (function(i){
+          btns[i].addEventListener('click',function(){
+           console.log('第' + i + '个按钮被点击');
+          })
+        })(i)
+      }
+    </script>
+  </body>
+</html>

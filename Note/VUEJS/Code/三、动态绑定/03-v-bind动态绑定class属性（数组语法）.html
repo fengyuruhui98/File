@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang = 'en'>
+  <head>
+    <meta charset = 'UTF-8'>
+      <title>Title</title>
+      <style>
+        .active {
+          color : red;
+        }
+      </style>
+   </head>
+   <body>
+
+    <div id = 'app'>
+      <!-- 静态固定的，无法改变类的使用与否 -->
+      <h2 :class="['active','line','title',isLine]">{{message}}</h2>
+      
+      <button @click="btnClick">变色</button>
+    </div>
+
+    <script src = './vue.js'></script>
+    <script>
+      const app = new Vue({
+        el : '#app',
+        data : {
+          message : '李莲花就是李相夷',
+          act : "active",
+          isActive : true,
+          isLine : false
+        },
+        methods:{
+          btnClick:function(){
+            this.isActive = !this.isActive
+          },
+          getClasses:function(){
+            return {active : this.isActive, line : this.isLine}
+          }
+        }
+      })
+    </script>
+  </body>
+</html>

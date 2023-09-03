@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang = 'en'>
+  <head>
+    <meta charset = 'UTF-8'>
+      <title>Title</title>
+   </head>
+   <body>
+    <div id = 'app'>
+      //1. 直接拼接-语法过于繁琐
+      <h2>{{message}} 就是 {{name}}</h2>
+      //2. 使用methods
+      <h2>{{getfullName()}}</h2>
+      <h2>{{getfullName()}}</h2>
+      <h2>{{getfullName()}}</h2>
+      <h2>{{getfullName()}}</h2>
+      //3. 使用计算属性
+      <h2>{{fullName}}</h2>
+      <h2>{{fullName}}</h2>
+      <h2>{{fullName}}</h2>
+      <h2>{{fullName}}</h2>
+    </div>
+    <script src = './vue.js'></script>
+    <script>
+      const app = new Vue({
+        el : '#app',
+        data : {
+          message : '李莲花',
+          name : '李相夷'
+        },
+        methods : {
+          getfullName : function(){
+            console.log('调用方法');
+            return this.message + '就是' + this.name;
+          }
+        },
+        computed : {
+          fullName : function(){
+            console.log('使用计算属性');
+            return this.message + '就是' + this.name;
+          }
+        }
+      })
+    </script>
+  </body>
+</html>

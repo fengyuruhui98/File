@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang = 'en'>
+  <head>
+    <meta charset = 'UTF-8'>
+      <title>Title</title>
+   </head>
+   <body>
+    <div id = 'app'>
+      <img v-bind:src="imgurl" alt="">
+      <!-- 语法糖写法，省去v-bind -->
+      <a :href="url">百度一下</a>
+    </div>
+    <script src = './vue.js'></script>
+    <script>
+      const app = new Vue({
+        el : '#app',
+        data : {
+          message : '李莲花就是李相夷',
+          imgurl : "https://ts1.cn.mm.bing.net/th/id/R-C.3c87f3beccb7885c5baa4ef99a1671e1?rik=eML80UUCutG7ig&riu=http%3a%2f%2fpuui.qpic.cn%2fvpic_cover%2fy33615ynwmx%2fy33615ynwmx_hz.jpg%2f1280&ehk=xLD2l4YAJlER5mgbGiPfGyKMSN%2bLJawJFVNm7xVe1e8%3d&risl=&pid=ImgRaw&r=0",
+          url : "https://www.baidu.com"
+        }
+      })
+    </script>
+  </body>
+</html>

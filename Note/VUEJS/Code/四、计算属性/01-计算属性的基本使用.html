@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang = 'en'>
+  <head>
+    <meta charset = 'UTF-8'>
+      <title>Title</title>
+   </head>
+   <body>
+    <div id = 'app'>{{message}} + '就是' + {{name}}</div>
+    <div id = 'app'>{{getfullname()}}</div>
+    <div id = 'app'>{{fullname}}</div>
+    <script src = './vue.js'></script>
+    <script>
+      const app = new Vue({
+        el : '#app',
+        data : {
+          message : '李莲花',
+          name : '李相夷'
+        },
+        //计算属性,本质就是属性，上面可直接写不用带括号。
+        computed : {
+          fullName : function(){
+            return this.message + '就是' + this.name;
+          }
+        },
+        methods:{
+          getfullName : function(){
+            return this.message + '就是' + this.name;
+          }
+        }
+      })
+    </script>
+  </body>
+</html>

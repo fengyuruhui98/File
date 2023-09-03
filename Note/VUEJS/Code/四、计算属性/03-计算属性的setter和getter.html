@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang = 'en'>
+  <head>
+    <meta charset = 'UTF-8'>
+      <title>Title</title>
+   </head>
+   <body>
+    <div id = 'app'>
+      {{fullName}}
+    </div>
+    <script src = './vue.js'></script>
+    <script>
+      const app = new Vue({
+        el : '#app',
+        data : {
+          message : '李莲花',
+          name : '李相夷'
+        },
+        computed :{
+          // fullName : function(){
+          //   return this.message + '就是' + this.name;
+          // }
+          // fullName : {
+          //   // set : function(newValue){
+          //   //   //一般不需要设置因此删掉，只读属性
+          //   // },
+          //   get : function(){
+          //     return this.message + '就是' + name;
+          //   }
+          // }
+          //简写为：
+          fullName : function(){
+            return this.message + '就是' + name;
+          }
+        }
+      })
+    </script>
+  </body>
+</html>
