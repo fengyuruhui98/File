@@ -219,11 +219,11 @@ So lazy...
 # 22:53 Sun, Aug 13, 2023
 
 ## Cost: ￥131.10 In: None
->eleme ############ ￥29.61
+>eleme Zhangliang spicy mix ￥29.61
 @12:36 
 >drink ￥8.00
 @14:00
->eleme ########### ￥33.50
+>eleme old village chicken ￥33.50
 @18:47
 >Huangshan ￥16.00
 @18:52
@@ -233,11 +233,11 @@ So lazy...
 # 22:53 Mon, Aug 14, 2023
 
 ## Cost: ￥131.10 In: None
->eleme ################ ￥20.40
+>eleme Luckincoffee ￥20.40
 @09:40 
->eleme ################ ￥24.36
+>eleme Fried chicken ￥24.36
 @13:26
->eleme ################## ￥31.70
+>eleme old village chicken ￥31.70
 @19:17
 >ice creame & cola ￥12.00
 @20:57
@@ -253,15 +253,18 @@ So lazy...
 @21:22 
 >cakes ￥21.94
 @21:30
+>Luckincoffee ￥28.00
+@21:22
 
 ## Daily
+barbecue
 
 # 22:53 Wed, Aug 16, 2023
 
 ## Cost: ￥131.10 In: None
->eleme ############### ￥26.38
+>eleme Hanshibanfan ￥26.38
 @13:10 
->eleme ############### ￥30.50
+>eleme old village chicken ￥30.50
 @18:50
 
 ## Daily
@@ -269,30 +272,45 @@ So lazy...
 # 22:53 Thu, Aug 17, 2023
 
 ## Cost: ￥131.10 In: None
->eleme ########## ￥26.00
-@12:11 
 >vegetable ￥45.50
 @11:36
 >tofu of chouganzi ￥3.00
 @11:38
-
+>meats ￥45.00
+@11:47
+>chilli ￥5.00
+@11:48 
+>jinlingshierchai ￥22.00
+@11:49
+>eleme Daogulaomian ￥26.00
+@12:11 
+>Shandongjianbing ￥45.80
+@17:34
+>cola ￥10.00
+@21:46
 
 ## Daily
 
 # 22:53 Fri, Aug 18, 2023
 
 ## Cost: ￥131.10 In: None
->eleme ############## ￥34.50
-@18:25 
+>eleme old village chicken ￥34.50
+@18:25
+>jinlingshierchai ￥22.00
+@19:51
+>two cola and one other for Lichongbin ￥20.00
+@20:36
+>Guoquanshihui ￥92.00
+@20:11 
 
 ## Daily
 
 # 22:53 Sat, Aug 19, 2023
 
 ## Cost: ￥131.10 In: None
->eleme ############# ￥23.00
+>eleme Daogulaomian ￥23.00
 @12:32 
->eleme ############ ￥41.46
+>eleme Hongmao barbecue ￥41.46
 @22:02
 
 ## Daily
@@ -300,15 +318,23 @@ So lazy...
 # 22:53 Sun, Aug 20, 2023
 
 ## Cost: ￥131.10 In: None
+>hot pot seasoning and chilli ￥20.00
+@10:37
+>beers ￥15.00
+@12:32
+>huangshan and drink ￥24.00
+@21:44
+>huabei ￥4113.02
+@13:23
 
 ## Daily
 
 # 22:53 Mon, Aug 21, 2023
 
 ## Cost: ￥131.10 In: None
->eleme ############### ￥26.00
+>eleme Daogulaomian ￥26.00
 @11:48 
->eleme ############### ￥34.50
+>eleme old village chicken ￥34.50
 @18:21
 
 ## Daily
@@ -318,54 +344,93 @@ So lazy...
 ## Cost: ￥131.10 In: None
 >eleme Daogulaomian ￥26.00
 @12:02
+>eleme old village chicken ￥34.50
+@17:43
+>eleme Mixuebingcheng ￥17.50
+@23:56
 
 ## Daily
 
 # 22:53 Wed, Aug 23, 2023
 
 ## Cost: ￥131.10 In: None
+>eleme VIP coupons ￥26.50
+@11:59
 >eleme Daogulaomian ￥26.00
-@12:02
+@12:00
+>huawei Vip ￥9.60
+@16:59
+>eleme Huaxiaoxiao xinjiang glass noodles ￥19.38
+@17:41 
+>down stair shop ￥32.00
+@20:47
 
 ## Daily
 
 # 22:53 Thu, Aug 24, 2023
 
 ## Cost: ￥131.10 In: None
->eleme Daogulaomian ￥26.00
-@12:02
+>eleme Daogulaomian ￥23.00
+@12:20
+>instant noodles and huangshan ￥35.00
+@18:24
+>Melon seeds ￥11.00
+@20:03
 
 ## Daily
+Quedaomen
 
 # 22:53 Fri, Aug 25, 2023
 
 ## Cost: ￥131.10 In: None
->eleme Daogulaomian ￥26.00
-@12:02
+>eleme Old village chicken ￥27.50
+@17:55
 
 ## Daily
 
 # 22:53 Sat, Aug 26, 2023
 
 ## Cost: ￥131.10 In: None
->eleme Daogulaomian ￥26.00
-@12:02
+>eleme Daogulaomian ￥29.78
+@11:52
+>eleme old village chicken ￥37.70
+@17:23
+>cola ￥8.00
+@21:03
+>Melon seeds ￥11.00
+@20:58
 
 ## Daily
 
 # 22:53 Sun, Aug 27, 2023
 
 ## Cost: ￥131.10 In: None
->eleme Daogulaomian ￥26.00
-@12:02
+>china people's health insurence ￥2.00
+@10:35
+>eleme Daogulaomian ￥28.98
+@12:07
+>eleme old village chicken ￥37.50
+@17:53
+>xuanhemen ￥20.00
+@19:31
+>China mobile ￥60.00
+@19:33
 
 ## Daily
 
 # 22:53 Mon, Aug 28, 2023
 
 ## Cost: ￥131.10 In: None
->eleme Daogulaomian ￥26.00
-@12:02
+>JIngdong baitiao ￥507.77
+@09:31
+>Hua laishi hamburgers ￥20.80
+@00:28 
+>eleme Shiguobanfan ￥22.88
+@12:01
+>eleme Daogulaomian ￥18.00
+@18:19
+>Melon seeds and ice creame ￥19.00
+@23:08
 
 ## Daily
 Morning, I wake up at about 09:20am, and then went to the WC, and didn't eat anything, then I watched the video all the day.
@@ -376,8 +441,10 @@ Night I went outside and eat the last ice creame of this year may be...
 # 22:53 Tue, Aug 29, 2023
 
 ## Cost: ￥131.10 In: None
->eleme Daogulaomian ￥26.00
-@12:02
+>eleme Daogulaomian ￥18.00
+@12:42
+>huangmenji ￥16.00
+@18:14
 
 ## Daily
 Morning, I ate the cookies bought yesterday, then work the morning, Tianjin metro called me, we talked about the SPT of B/S changes. Then I do the envirment of the SPT and spend about two hours, then made it done, tomorrow I might do the coding and at afternoon, Wumin called me said that I may not approve any out work applications any more, and I can stay at Chuzhou and then when I was needed I can took the train on the line cross Chuzhou. Besides he asked me to do the Coding of the Chuzhou BOM from Hanzhenzhou, f**k, then Jinguangyu and I went outside of the dinner and then we played the LOLm together.
@@ -387,11 +454,36 @@ PS: CHN send Wechat friend circle for the cloud and the sky...
 # 22:53 Wed, Aug 30, 2023
 
 ## Cost: ￥131.10 In: None
->eleme Daogulaomian ￥26.00
-@12:02
+>Luckincoffee ￥22.80
+@09:57
+>eleme Old village chicken ￥30.50
+@12:05
+>eleme Tianlala friute teas ￥16.50
+@12:55
+>Zhuerduo and Zhutourou ￥55.00
+@18:19
+>beers ￥15.00
+@18:24
 
 ## Daily
 Morning, I got up at about 9:40am, then Jinguangyu went to xi'an and I started my work, I did the Tianjin SPT all the day, for the morning, I did the package job, and do the build, then for the afternoon, I connected to the Tianjin SPT by Xiangrikui and tests the SQL. At afternoon, Zhangkaidi called me for that the connection between Chuzhou and Nanjing ACC was disconnected, I called Liuqing and tested the 172.59.230.26,29,30 and found that 29 was disconnected, then it recovered at night...
 Then I tested the SQL until late night...
 
 PS: less smoke, make good decision, the "white whale" was excellent! 
+
+# 22:53 Thu, Aug 31, 2023
+
+## Cost: ￥131.10 In: None
+>Kugou music vip ￥15.00
+@10:22
+>vegetables ￥36.00
+@11:54
+>Jinlingshierchai ￥26.00
+@12:02
+>instant noodles and drinks ￥27.00
+@17:36
+
+## Daily
+
+# MONTH-COUNT
+## Cost: ￥ In: ￥ Sub: ￥-
