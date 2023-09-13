@@ -13,7 +13,7 @@
 @22:47
 
 ## Daily
-Morning, I wake up at about 9:30am, 
+Morning, I wake up at about 9:30am, then do the work all the morning, then at noon, I felt really bad about Lichongbin, then I bought the ticket of "Oppenheimer" started at about 19:10 and ends at 22:08pm, 
 
 # 23:15 Sat, Sep 2, 2023
 
@@ -73,3 +73,133 @@ Then afternoon, I got the BOM resource code and do the work, night, I went to th
 Then I walked back to the house.
 When you walk along in darkness, sing loud, watch care the snacks under your foot, let the sound blew in the sky...
 Lichongbin, f**ker, piece of shit...
+
+# 23:15 Tue, Sep 5, 2023
+
+## Cost: ￥173.50 In: ￥7245.94
+>Luckincoffee Maotai natie ￥25.00
+@13:51
+>Daoxiangmi Youyu rice ￥33.00
+@19:54
+>Duck foods ￥20.00
+@20:19
+>Salary ￥7245.94
+@02:41
+
+# 23:15 Wed, Sep 6, 2023
+
+## Cost: ￥173.50 In: None
+>eleme Mixiebingcheng ￥14.70
+@10:27
+>Huangmenji ￥20.00
+@13:46
+>luckimcoffee ￥42.00
+@14:16
+>Laundry Detergent shampoo ￥20.00
+@22:13
+>duck foods ￥20.00
+@22:24
+>Guming ￥13.00
+@22:28
+
+# 23:15 Thu, Sep 7, 2023
+
+## Cost: ￥173.50 In: None
+>eleme Guming ￥5.00
+@09:58
+>huangmenji ￥20.00
+@13:05
+>huangmenji drinks ￥5.00
+@13:06
+>eleme Guoquanshihui ￥19.60
+@19:18
+>cakes of moon ￥21.50
+@21:18
+>RIO wine drink ￥13.00
+@21:31 
+
+# 23:15 Fri, Sep 8, 2023
+
+## Cost: ￥173.50 In: None
+>eleme Guming ￥5.00
+@09:48
+>eleme old village chicken ￥17.40
+@12:03
+>eleme Guoquanshihui ￥112.70
+@16:10
+>vegetables and hot pot seasoning ￥21.00
+@17:00
+>cola ￥16.00
+@21:07
+
+# 23:15 Sat, Sep 9, 2023
+
+## Cost: ￥173.50 In: None
+>instant noodles and cola ￥28.00
+@12:32
+>paper ￥21.00
+@21:49
+
+# 23:15 Sun, Sep 10, 2023
+
+## Cost: ￥173.50 In: None
+>eleme Daogulaomian ￥18.00
+@12:35
+>eleme shaxian snack of dumplyings ￥29.57
+@19:10
+>eleme medicine ￥46.28
+@20:21
+>eleme Guming ￥10.00
+@22:16
+
+# 23:15 Mon, Sep 11, 2023
+
+## Cost: ￥173.50 In: None
+>Xian dog head jujube ￥128.00
+@11:32
+>eleme old village chicken ￥24.50
+@11:44
+>eleme Shaxian snack of rice noodles ￥22.16
+@18:17
+>eleme medicine ￥34.19
+@19:40
+>eleme Guming for Lichongbin and me ￥22.00
+@19:51
+
+# 23:15 Tue, Sep 12, 2023
+
+## Cost: ￥173.50 In: None
+>china people's health insurence ￥2.00
+@10:37
+>eleme Shikong cat rice ￥29.95
+@11:52
+>eleme VIP coupons ￥26.50
+@17:59
+>eleme duck blood soup ￥22.50
+@18:00
+>LOL ￥6.00
+@19:27
+
+# 23:15 Wed, Sep 13, 2023
+
+## Cost: ￥173.50 In: None
+>eleme Guming ￥6.50
+@10:20
+>eleme abalone cooked with chicken ￥32.90
+@12:56
+>eleme shaxian snack ￥21.16
+@17:37
+>shoes and tea ￥39.00
+@22:32
+>eleme Guming ￥8.50
+@22:34
+
+Morning, I got up late, then work all the morning, the stomachace made me fell bad, then the package arrived at about 14:00pm, then Tianlan called me for the SPT and I was told to update the SPT this Friday.
+There was rain all the day, and I played the game, then decided to do something, even if its meanless, even if it may no hope there, we still should walk on, then I took a shower, and went outside and bought the shoes.
+The Total soccer may give me something. I may get something from it.
+Carry on , carry on, u'll never walk alone.
+And please believe where there is a will there is a way.
+
+PS:CHN send photoes at the wechat friend circle.
+PS:tickets would be ordered at tomorrow morning.
+
