@@ -86,6 +86,8 @@ Lichongbin, f**ker, piece of shit...
 >Salary ￥7245.94
 @02:41
 
+## Daily
+
 # 23:15 Wed, Sep 6, 2023
 
 ## Cost: ￥173.50 In: None
@@ -101,6 +103,8 @@ Lichongbin, f**ker, piece of shit...
 @22:24
 >Guming ￥13.00
 @22:28
+
+## Daily
 
 # 23:15 Thu, Sep 7, 2023
 
@@ -118,6 +122,8 @@ Lichongbin, f**ker, piece of shit...
 >RIO wine drink ￥13.00
 @21:31 
 
+## Daily
+
 # 23:15 Fri, Sep 8, 2023
 
 ## Cost: ￥173.50 In: None
@@ -132,6 +138,8 @@ Lichongbin, f**ker, piece of shit...
 >cola ￥16.00
 @21:07
 
+## Daily
+
 # 23:15 Sat, Sep 9, 2023
 
 ## Cost: ￥173.50 In: None
@@ -139,6 +147,8 @@ Lichongbin, f**ker, piece of shit...
 @12:32
 >paper ￥21.00
 @21:49
+
+## Daily
 
 # 23:15 Sun, Sep 10, 2023
 
@@ -151,6 +161,8 @@ Lichongbin, f**ker, piece of shit...
 @20:21
 >eleme Guming ￥10.00
 @22:16
+
+## Daily
 
 # 23:15 Mon, Sep 11, 2023
 
@@ -166,6 +178,8 @@ Lichongbin, f**ker, piece of shit...
 >eleme Guming for Lichongbin and me ￥22.00
 @19:51
 
+## Daily
+
 # 23:15 Tue, Sep 12, 2023
 
 ## Cost: ￥173.50 In: None
@@ -179,6 +193,8 @@ Lichongbin, f**ker, piece of shit...
 @18:00
 >LOL ￥6.00
 @19:27
+
+## Daily
 
 # 23:15 Wed, Sep 13, 2023
 
@@ -194,6 +210,8 @@ Lichongbin, f**ker, piece of shit...
 >eleme Guming ￥8.50
 @22:34
 
+## Daily
+
 Morning, I got up late, then work all the morning, the stomachace made me fell bad, then the package arrived at about 14:00pm, then Tianlan called me for the SPT and I was told to update the SPT this Friday.
 There was rain all the day, and I played the game, then decided to do something, even if its meanless, even if it may no hope there, we still should walk on, then I took a shower, and went outside and bought the shoes.
 The Total soccer may give me something. I may get something from it.
@@ -202,4 +220,82 @@ And please believe where there is a will there is a way.
 
 PS:CHN send photoes at the wechat friend circle.
 PS:tickets would be ordered at tomorrow morning.
+
+# 23:15 Tue, Sep 14, 2023
+
+## Cost: ￥173.50 In: None
+>eleme zhangliang spicy mix ￥22.54
+@11:40
+>eleme Yuanqi doufan ￥33.33
+@17:04
+>Melon seeds ￥15.00
+@22:03
+>eleme Guming ￥8.50
+@22:10
+
+## Daily
+
+# 23:15 Fri, Sep 15, 2023
+
+## Cost: ￥173.50 In: None
+>train back to home ￥392.50
+@08:42
+>instant noodles and Ham sausage ￥11.00
+@13:14
+>eleme old village chicken ￥31.50
+@19:58
+>eleme milk tea Tianlala ￥20.90
+@20:00
+
+## Daily
+
+# 23:15 Sat, Sep 16, 2023
+
+## Cost: ￥173.50 In: None
+>refund of train at Zhixing ￥325.00
+@08:00
+>eleme old village chicken￥24.80
+@12:59
+>eleme fried chicken ￥34.69
+@18:48
+>eleme VIP coupons ￥20.00
+@19:21
+>eleme milk tea Tianlala ￥19.90
+@19:22
+>drink ￥10.00
+@22:51
+
+## Daily
+
+# 23:15 Sun, Sep 17, 2023
+
+## Cost: ￥173.50 In: None
+>eleme Yuanqi doufan ￥19.55
+@12:35
+>eleme Yanzi jiaomaji ￥33.78
+@19:41
+>aliyun VIP ￥8.00
+@21:40
+
+## Daily
+
+# 23:15 Mon, Sep 18, 2023
+
+## Cost: ￥173.50 In: None
+>eleme Qingshi jainshen rice ￥24.30
+@12:32
+>eleme Guming ￥6.50
+@15:20
+>eleme Italia noodles and soup ￥25.90
+@18:12
+>xuanhemen ￥20.00
+@18:40
+
+## Daily
+Morning, I got the friend circle from WT, her birthday, Lixin commened.
+It made me feel really sad, that I was falling down and deep down, then I made a decision that to try another time for the Huadong shifan university. May it was late but I would give it a shoot.
+I planned to read the book of the "the happiness hypothesis", then I watched the java 
+class over and planned to went bed early...
+
+PS: no more regret!!
 
