@@ -13,7 +13,8 @@
 @22:47
 
 ## Daily
-Morning, I wake up at about 9:30am, then do the work all the morning, then at noon, I felt really bad about Lichongbin, then I bought the ticket of "Oppenheimer" started at about 19:10 and ends at 22:08pm, 
+Morning, I wake up at about 9:30am, then do the work all the morning, then at noon, I felt really bad about Lichongbin, then I bought the ticket of "Oppenheimer" started at about 19:10 and ends at 22:08pm, and when to Jinpeng 99 by the train. I ate the Daoxiangcun PaocaiWuhuarou there, yummy...
+Last time I got there was with Mom and Dad, time flows left me still here alone. The cinema was wonderful, and I was shocked for a long long time. Then I found that there was no train after the movie. Then I took a taxi and back to the village. 
 
 # 23:15 Sat, Sep 2, 2023
 
@@ -167,7 +168,7 @@ Lichongbin, f**ker, piece of shit...
 # 23:15 Mon, Sep 11, 2023
 
 ## Cost: ￥173.50 In: None
->Xian dog head jujube ￥128.00
+>Xi'an dog head chinese jujube ￥128.00
 @11:32
 >eleme old village chicken ￥24.50
 @11:44
@@ -299,3 +300,17 @@ class over and planned to went bed early...
 
 PS: no more regret!!
 
+# 22:58 Tue, Sep 19, 2023
+
+## Cost: ￥57.58 In: None
+>eleme aGuiguotie ￥16.80
+@08:29
+>eleme Jiaomaji ￥40.78
+@12:47
+
+## Daily
+Morning, I wake up at about 8:20am, then I ate the foods and then read the computer network notes, the IP report, the A.B.C of the IP and the mask, and so on, then I do the video of java Thread in the morning, and then ate the chicken.
+Lichongbin would leave tomorrow, and I planned to go at 27, then Tianjin sended me message that the Internet was connected. But, whatever, wait tomorrow.
+Then at night I ate the Baodufen with the chicken with Lichongbin. Then I do the math and took some notes.
+Nice day, from today, I should rethink all the things I learned of the day, the main theroy of the thought is to use it, to recall it to stronge it.  
+Suddenly I realized that there was little time for me, and I dreamed last night for the failure.

@@ -99,7 +99,11 @@ Once I filled my hand with mist, Then I open it and lo, the mist was a worm, and
 
 ## Daily
 Morning, I weak up early and ate the breakfast at the canteen, it was cloudy and I heared the rain fall down heavily last night, and when I got close to the subway station the rain falled down, then I took the train to the Chahe, which took about one hour, then I paied 3.00 for the bus from Chahe to Linchang, then I took the rail way from Linchang to Nanjingnan, I got there until about 12:00am, then I got Nanjingnan station, and then I met Dad and Mom and Sis at the station then we took the car and went to Chuzhou, there was no rain at Nanjing, when we drive on the way back to chuzhou, there pulled heavy water from the sky, we drive fast and got the Orange hotel at about 13:30pm, then we went up stairs for the package and then we went to Liuji sifangcai for lunch, there was nearly closed of the resturant but we made a round desk for the meal, and then we ate a lot, the soup, fish of Angci, the scallop, the chicken and so on...
-When we ate later, the rain falled down, we wait at the hotel until the rain slow down, then we went to the Langya mountain, we walked together, and they went to the Zuiwongting, I left outside, then we climber the mountain till the tample, then we went back, the sunshine through the 
+When we ate later, the rain falled down, we wait at the hotel until the rain slow down, then we went to the Langya mountain, we walked together, and they went to the Zuiwongting, I left outside, then we climber the mountain till the tample, then we went back, the sunshine through the leaves was gentle, I walked with dad, we talked.
+Then when we got the tample, it was closed and we had to came back, we took a break at the lake, and took some photoes. 
+We drived to the Jinpeng 99 and we ate the Haidilao there, Dad and Mom ate less foods than the free friutes.
+I thought that when I got no restrict, I would take them to visit a lot. Then we went back to the hotel.
+I stayed at Dad and Mom's room until 10:00pm. Then we went bed.
 
 # 23:53 Sat, Jul 8, 2023
 
@@ -122,6 +126,7 @@ When we ate later, the rain falled down, we wait at the hotel until the rain slo
 @20:00
 
 ## Daily
+Morning, we met at the canteen of the hotel. Then we ate together.
 
 # 23:53 Sun, Jul 9, 2023
 
@@ -148,7 +153,7 @@ When we ate later, the rain falled down, we wait at the hotel until the rain slo
 
 ## Daily
 Morning, I got up at about 3:50am, then I planned to watch the TV but just play the phone until the morning at about 8:45am, then I went to ate the breakfast and took the train ahead the control center, then I do the work all the day, and the pokemen was on transation.
-Sis sended me photoes that the airplane was cheap 
+Sis sended me photoes that the airplane was cheap I thought that may be one day, we could went outside together...
 
 # 23:53 Tue, Jul 11, 2023
 

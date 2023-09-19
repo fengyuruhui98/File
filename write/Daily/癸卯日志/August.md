@@ -257,7 +257,8 @@ So lazy...
 @21:22
 
 ## Daily
-barbecue
+Today, Lichongbin got his Salary, we made a decision that to ate outside for the barbecue, we ate at the Dongbei barbecue together. Yummy...
+Then we went to the marcket I bought some cakes and the coffee.
 
 # 22:53 Wed, Aug 16, 2023
 

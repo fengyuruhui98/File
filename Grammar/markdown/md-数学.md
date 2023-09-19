@@ -204,7 +204,7 @@ Name|Display|Name|Display|Name|Display|Name|Display
 \vee|$\vee$|\wedge|$\wedge$|\lhd|$\lhd$|\rhd|$\rhd$	
 \bigvee|$\bigvee$|\bigwedge|$\bigwedge$|\unlhd|$\unlhd$|\unrhd|$\unrhd$	
 \sqcap|$\sqcap$|\sqcup|$\sqcup$|\prec|$\prec$|\succ|$\succ$	
-\subset|$\subset$|\supset|$\supset$||$\sim$|\approx|$\approx$	
+\subset|$\subset$|\supset|$\supset$|\sim|$\sim$|\approx|$\approx$	
 \subseteq|$\subseteq$|\supseteq|$\supseteq$|\cong|$\cong$|\doteq|$\doteq$	
 \setminus|$\setminus$|\mid|$\mid$|\ll|$\ll$|\gg|$\gg$	
 \parallel|$\parallel$|\Join|$\Join$|\in|$\in$|\notin|$\notin$	
