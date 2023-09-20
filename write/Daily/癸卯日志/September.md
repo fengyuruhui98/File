@@ -314,3 +314,22 @@ Lichongbin would leave tomorrow, and I planned to go at 27, then Tianjin sended 
 Then at night I ate the Baodufen with the chicken with Lichongbin. Then I do the math and took some notes.
 Nice day, from today, I should rethink all the things I learned of the day, the main theroy of the thought is to use it, to recall it to stronge it.  
 Suddenly I realized that there was little time for me, and I dreamed last night for the failure.
+
+# 22:54 Wed, Sep 20, 2023
+
+## Cost: ￥57.58 In: None
+>Huabei ￥1719.94
+@08:56
+>eleme aGuiguotie ￥17.80
+@09:09
+>China mobile fee ￥60.00
+@11:33
+>eleme Shayeqingshi ￥22.00
+@13:13
+>eleme frized chicken ￥33.00
+@16:53
+
+## Daily
+Morning, didn't get up early, then ate something, for the morning, read the data struct, so many details. The afternoon, seems like do nothing. Lichongbin left at about 13:10pm. The rain was smaller than last night, there was heavy rain last night, with thunder.
+Then night, the trivial made me tired and bored, low efficiency...
+Hurry, hurry!
