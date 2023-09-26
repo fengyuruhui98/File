@@ -3,7 +3,7 @@ import time
 
 #os.walk方法获取当前路径下的root（所有路径）、dirs（所有子文件夹）、files（所有文件）
 
-path = r"C:\Users\HanYw\Desktop\vpr"
+path = r"I:\藏乐\MuStore\增量更新"
 
 def file_name():
     F = []

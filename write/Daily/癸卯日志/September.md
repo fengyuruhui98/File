@@ -333,3 +333,83 @@ Suddenly I realized that there was little time for me, and I dreamed last night 
 Morning, didn't get up early, then ate something, for the morning, read the data struct, so many details. The afternoon, seems like do nothing. Lichongbin left at about 13:10pm. The rain was smaller than last night, there was heavy rain last night, with thunder.
 Then night, the trivial made me tired and bored, low efficiency...
 Hurry, hurry!
+
+# 22:54 Tue, Sep 21, 2023
+
+## Cost: ￥57.58 In: None
+>Huabei ￥1719.94
+@08:56
+>eleme aGuiguotie ￥17.80
+@09:09
+>China mobile fee ￥60.00
+@11:33
+>eleme Shayeqingshi ￥22.00
+@13:13
+>eleme frized chicken ￥33.00
+@16:53
+
+## Daily
+
+# 22:54 Fri, Sep 22, 2023
+
+## Cost: ￥57.58 In: None
+>Huabei ￥1719.94
+@08:56
+>eleme aGuiguotie ￥17.80
+@09:09
+>China mobile fee ￥60.00
+@11:33
+>eleme Shayeqingshi ￥22.00
+@13:13
+>eleme frized chicken ￥33.00
+@16:53
+
+## Daily
+
+# 22:54 Sat, Sep 23, 2023
+
+## Cost: ￥57.58 In: None
+>Huabei ￥1719.94
+@08:56
+>eleme aGuiguotie ￥17.80
+@09:09
+>China mobile fee ￥60.00
+@11:33
+>eleme Shayeqingshi ￥22.00
+@13:13
+>eleme frized chicken ￥33.00
+@16:53
+
+## Daily
+
+# 22:54 Sun, Sep 24, 2023
+
+## Cost: ￥57.58 In: None
+>Huabei ￥1719.94
+@08:56
+>eleme aGuiguotie ￥17.80
+@09:09
+>China mobile fee ￥60.00
+@11:33
+>eleme Shayeqingshi ￥22.00
+@13:13
+>eleme frized chicken ￥33.00
+@16:53
+
+## Daily
+
+# 23:28 Mon, Sep 25, 2023
+
+## Cost: ￥57.58 In: None
+>Huabei ￥1719.94
+@08:56
+>eleme aGuiguotie ￥17.80
+@09:09
+>China mobile fee ￥60.00
+@11:33
+>eleme Shayeqingshi ￥22.00
+@13:13
+>eleme frized chicken ￥33.00
+@16:53
+
+## Daily
