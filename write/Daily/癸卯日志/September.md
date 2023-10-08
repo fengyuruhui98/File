@@ -88,6 +88,7 @@ Lichongbin, f**ker, piece of shit...
 @02:41
 
 ## Daily
+Morning, I want to order the coffee with Maotai but found that there 
 
 # 23:15 Wed, Sep 6, 2023
 
@@ -337,79 +338,146 @@ Hurry, hurry!
 # 22:54 Tue, Sep 21, 2023
 
 ## Cost: ￥57.58 In: None
->Huabei ￥1719.94
-@08:56
->eleme aGuiguotie ￥17.80
-@09:09
->China mobile fee ￥60.00
-@11:33
->eleme Shayeqingshi ￥22.00
-@13:13
->eleme frized chicken ￥33.00
-@16:53
+>eleme egg pancake and others for breakkfast ￥24.97
+@08:36
+>eleme Huaxiaoxiao glass noodles ￥20.39
+@18:57
 
 ## Daily
 
 # 22:54 Fri, Sep 22, 2023
 
 ## Cost: ￥57.58 In: None
->Huabei ￥1719.94
-@08:56
->eleme aGuiguotie ￥17.80
-@09:09
->China mobile fee ￥60.00
-@11:33
->eleme Shayeqingshi ￥22.00
-@13:13
->eleme frized chicken ￥33.00
-@16:53
+>eleme A gui guotie ￥16.80
+@09:33
+>xuanhemen ￥20.00
+@11:27
+>eleme VIP coupons ￥13.50
+@15:38
+>eleme Qiaotou paigu ￥31.30
+@15:41
+>eleme Guming big milk tea ￥11.60
+@20:37
+>eleme Daogulaomian ￥18.00
+@20:38
+
 
 ## Daily
 
 # 22:54 Sat, Sep 23, 2023
 
 ## Cost: ￥57.58 In: None
->Huabei ￥1719.94
-@08:56
->eleme aGuiguotie ￥17.80
-@09:09
->China mobile fee ￥60.00
-@11:33
->eleme Shayeqingshi ￥22.00
-@13:13
->eleme frized chicken ￥33.00
-@16:53
+>eleme A gui guotie ￥17.10
+@06:02
+>Huawei music VIP ￥9.60
+@17:40
+>eleme Shikongmao Yuanqi doufan ￥29.91
+@18:00
+>eleme Guming big milk tea for Lichongbin and I ￥28.20
+@18:51
+>ticket from zhumadian to Wuhan then to Shanghai for Mom and I ￥731.00
+@19:52
+>Migu video VIP of sport for FC Byren NO.1 ￥20.00
+@21:53 
 
 ## Daily
 
 # 22:54 Sun, Sep 24, 2023
 
 ## Cost: ￥57.58 In: None
->Huabei ￥1719.94
-@08:56
->eleme aGuiguotie ￥17.80
-@09:09
->China mobile fee ￥60.00
-@11:33
->eleme Shayeqingshi ￥22.00
-@13:13
->eleme frized chicken ￥33.00
-@16:53
+>eleme Chuanxiangpopo ￥31.60
+@12:08
+>tickets from Zhumadian to shanghai for Mom and I ￥966.00
+@12:26
+>refund of yesterday tickets ￥731.00
+@15:34
+>pancake of four ￥8.00
+@17:52
+>instant noodles and Melon seeds ￥19.50
+@17:55
 
 ## Daily
 
 # 23:28 Mon, Sep 25, 2023
 
 ## Cost: ￥57.58 In: None
->Huabei ￥1719.94
-@08:56
->eleme aGuiguotie ￥17.80
-@09:09
->China mobile fee ￥60.00
-@11:33
->eleme Shayeqingshi ￥22.00
-@13:13
->eleme frized chicken ￥33.00
-@16:53
+>eleme Huaxiaoxiao glass noodles ￥32.49
+@17:28
+>Baidu netdisk VIP ￥198.00
+@11:17
+>xuanhemen ￥20.00
+@12:40
 
 ## Daily
+
+# 23:28 Tue, Sep 26, 2023
+
+## Cost: ￥57.58 In: None
+>eleme abalone chicken ￥27.80
+@12:16
+>refund of ticket from Nanjing to Zhumadian ￥325.00
+@18:11
+>eleme Shikongmao Yuanqi doufan ￥31.91
+@18:14
+>eleme Tianlala big milk tea ￥19.50
+@18:21
+>Dazhaxie bought at HengzhongXiewang ￥255.00
+@22:01
+
+## Daily
+
+# 23:28 Wed, Sep 27, 2023
+
+## Cost: ￥57.58 In: None
+>China insurence of people's healthy ￥2.00
+@10:35
+>Xuzhou Dong station Ruyi caifan ￥30.90
+@13:09
+>Xuzhou rail way from Xuzhoudong to Jinlong lake ￥2.00
+@13:44
+>Xuzhou rail way from Jinlong lake to Xuzhoudong ￥2.00
+@15:41
+>drink of Tea Pai and cookies and tofu gan ￥29.00
+@15:51
+>beef glass noodles ￥28.00
+@16:27
+
+## Schedule 
+Back home, Xuzhou, Metro
+
+## Daily
+Morning, I didn't got up until about nine o'clock, and Lichongbin called me to wake up and asked me if I want to get the 
+
+# 23:28 Thu, Sep 28, 2023
+
+## Cost: None In: None
+>Jingdong baitiao ￥247.63
+@09:36
+
+## Schedule 
+Hairy crab, Liuyifan
+
+## Daily
+Morning, I got up not late, then stay at home after breakfast, and dad went for the lunch, and I waited for the 
+
+# 23:28 Fri, Sep 29, 2023
+
+## Cost: None In: None
+
+## Schedule 
+Back to grandpa, dead
+
+## Daily
+Morning, we get up early and then we planned to went back to grandma. 
+It's cloudy today, and we 
+
+# 23:28 Sat, Sep 30, 2023
+
+## Cost: None In: None
+
+## Schedule 
+Liuyifan, Self make lunch, Football
+
+## Daily
+Morning, I got up at about 7:30am, then we ate the breakfast and then we went to Aunt's. I was told that the foods was ready in the 
+
