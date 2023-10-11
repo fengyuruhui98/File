@@ -126,3 +126,74 @@ Then we got the Hongqiao station, Yange and Sis had already got there, and we ba
 Night we went outside and I would went to the company tomorrow. 
 
 PS:when we arrived at Wuhan, I send message to CHN, and we made an appointment.
+
+# 23:28 Mon, Oct 9, 2023
+
+## Cost: ￥97.40 In: None
+>Rail way from Sis to company ￥7.00
+@12:12
+>Shunfeng transfer of the keyboard from company to Chuzhou ￥13.60
+@18:59
+>Rail way from Company back to Sis ￥7.00
+@16:48
+>ticket from Shanghai to Chuzhou ￥51.50
+@17:22
+
+## Schedule 
+Company
+
+## Daily
+Morning, after we got up at about 7:00am, and ate at Sis, we went ahead the Centry Lianhua supermarket and bought some foods for Mom making Steamed stuffed bun. Then at about 10:30am, I went ahead for the company, there was a new man site behind me, where Jiangzhongyi used to site. Then I packed the foods and the electronic goods.
+Then I went to ate the glass fish noodles and buy some cola.
+Then I went upstairs and signed my contract and got the birthday card, then I went back to Sis by the train.
+We got home together at about 17:00pm.
+Then I bought the ticket tomorrow.
+
+# 20:09 Tue, Oct 10, 2023
+
+## Cost: ￥97.40 In: None
+>xunlei VIP ￥69.00
+@09:29
+>Mobile fee ￥60.00
+@12:13
+>rail way from Sis to Shanghai station ￥7.00
+@13:31
+>taxi from Chuzhoubei to Linlou village ￥18.10
+@19:00
+>instant noodles and Xuanhemen ￥26.00
+@19:41
+
+## Schedule 
+ahead Chuzhou
+
+## Daily
+Morning, we got up at about 7:20am, then after we ate at home, Yange went to company for work, we stayed at home, Sis and Mom and I went outside to the riverside for a walk. We walked around the river.
+Then we ate the trotters, I left at about 11:50. No catch the Dazhanche...
+Then there I got the station. There was a boy painting at the hall.
+The train was ahead for Dalian, there was many old man and old ladies. Then I read the "The return of the nation" written by Tomas Hardy.
+There was a girl got on the train at Nanjing, beauty but with boyfriends. 
+Then I got Chuzhou. Cleaned up the table, and do other things...
+
+PS: I plan to pay a visit to CHN some day.
+
+# 23:33 Wed, Oct 11, 2023
+
+## Cost: ￥97.40 In: None
+>eleme aguiguotie ￥16.80
+@07:29
+>eleme old village chicken ￥11.80
+@11:36
+>eleme old village chicken ￥33.50
+@17:23
+>Zhijiajian waershao ￥5.00
+@22:58
+>cookies and milk ￥7.50
+@23:02
+
+## Schedule 
+Frist day for Medicine, First day for the last year
+
+## Daily
+Morning, I wake up at about 6:30am, and got up at about 7:00am, then I ordered the foods and took the medicine.
+Today would be the first day I ate the medicine. I collected the code of 408 and learn the C pointer for the morning, and then talked about the work at afternoon...
+Drinked a lot of water, then night made the relax. Took a shower... 
