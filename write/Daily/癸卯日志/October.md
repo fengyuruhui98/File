@@ -49,7 +49,7 @@ Time passed without notion, then there would be the day we would leave.
 @17:12
 
 ## Schedule 
-Aunt came, Stay home
+Aunt came, Stay home, Honey Sweet-scented Osmanthus
 
 ## Daily
 Morning, after we ate the Jiucaihezi, then Mom and I went to pick the sweet osmanthus, while dad went to the moutain to get some mushrooms, then we ate the mushrooms and Huicai for lunch and then I felt very tired and then went to sleep, and Anut came with Liuyifan taking the black chicken, then we ate the crab, and I went to the street for the tofu and medicine.
@@ -174,7 +174,7 @@ The train was ahead for Dalian, there was many old man and old ladies. Then I re
 There was a girl got on the train at Nanjing, beauty but with boyfriends. 
 Then I got Chuzhou. Cleaned up the table, and do other things...
 
-PS: I plan to pay a visit to CHN some day.
+PS: I plan to pay a visit to CHN some day. 
 
 # 23:33 Wed, Oct 11, 2023
 
@@ -197,3 +197,97 @@ Frist day for Medicine, First day for the last year
 Morning, I wake up at about 6:30am, and got up at about 7:00am, then I ordered the foods and took the medicine.
 Today would be the first day I ate the medicine. I collected the code of 408 and learn the C pointer for the morning, and then talked about the work at afternoon...
 Drinked a lot of water, then night made the relax. Took a shower... 
+
+# 23:33 Thu, Oct 12, 2023
+
+## Cost: ￥267.10 In: None
+>eleme Guming ￥8.90
+@09:07
+>Transfer to Lichongbin ￥200.00
+@09:14
+>China people's health insurence ￥2.00
+@10:37
+>eleme vip coupon ￥6.50
+@11:54
+>eleme Huaxiaoxiao ￥19.70
+@11:57
+>ticket for tests ￥4.00
+@14:51
+>eleme Daogulaomian ￥26.00
+@17:56
+
+## Schedule 
+Frist day for Down, Play the switch, Second day for Medicine, Birthday
+
+## Daily
+Morning, I received red elevent from Mom that 
+
+# 23:33 Fri, Oct 13, 2023
+
+## Cost: ￥97.40 In: None
+>eleme fried chicken ￥22.70
+@00:06
+>eleme Aguiguotie ￥14.50
+@09:03
+>Hunaochufang switch ￥170.00
+@09:47
+>Lichongbin return back ￥200.00
+@09:59
+>eleme Huaxiaoxiao ￥18.70
+@12:28
+>eleme old village chicken ￥30.50
+@17:43
+>Huangshan ￥16.00
+@18:03
+>duck foods ￥20.00
+@23:39
+>breads and milk ￥53.78
+@23:47
+
+## Schedule 
+Second day for Down, Play the switch, Third day for Medicine
+
+## Daily
+
+# 23:33 Sat, Oct 14, 2023
+
+## Cost: ￥97.40 In: None
+
+
+## Schedule 
+Third day for Down, Play the switch, Fourth day for Medicine
+
+## Daily
+
+# 23:33 Sun, Oct 15, 2023
+
+## Cost: ￥97.40 In: None
+>eleme Old village chicken ￥30.80
+@11:27
+>eleme glass noodles ￥7.99
+@19:01
+>eleme Luckin coffee ￥25.90
+@20:51
+>Train tickets from Chuzhou back to Shanghai ￥51.50
+@21:16
+
+## Schedule 
+Fourth day for Down, Play the switch, Fifth day for Medicine
+
+## Daily
+
+# 23:33 Sun, Oct 15, 2023
+
+## Cost: ￥97.40 In: None
+>Huabei ￥2746.29
+@00:52
+>weixin shouxufei ￥0.11
+@00:54
+>Jingdongbaitiao ￥174.57
+@00:55
+>Hunaochufang switch ￥170.00
+@01:03
+
+## Schedule 
+
+## Daily
