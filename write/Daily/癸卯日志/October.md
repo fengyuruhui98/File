@@ -291,3 +291,51 @@ Fourth day for Down, Play the switch, Fifth day for Medicine
 ## Schedule 
 
 ## Daily
+
+# 23:33 Mon, Oct 16, 2023
+
+## Cost: ￥97.40 In: None
+>Aguiguotie ￥14.50
+@07:57
+>taxi from Linlou village to Chuzhoubei station ￥19.50
+@09:35
+>rail way back to Sis ￥7.00
+@16:26
+
+## Schedule 
+Back to Sis, Update the Chuzhou LCC
+
+## Daily
+Morning, I wake uo at about 8:00am, then I got the foods and then I heard that the boy wouldn't come any more and Lichongbin would stay alone here this week.
+Then at about 9:00am, I called for a taxi and go ahead for the Chuzhoubei station. 
+It costed me four hour from Chuzhou back to shanghai and one and half an hour from the station back to Sis. Sis and Mom went to Longyang road and ate the fish for lunch.
+Then we eat early.
+Night, I update the program of Chuzhou LCC, I worked until 10:12pm. 
+
+# 23:33 Tue, Oct 17, 2023
+
+## Cost: ￥97.40 In: None
+>Ali netdisk VIP ￥8.00
+@01:45
+>Neteasymusic VIP ￥39.00
+@09:08
+>cake ￥70.00
+@09:19
+>rail way from Sis to Hongqiao ￥9.00
+@15:01
+>rail way from Ningbo station to hotel ￥2.00
+@18:19
+>Xuanhemen ￥24.00
+@18:34
+>eleme Gangyagou ￥27.50
+@18:40
+>rail way from hotel to Gulou ￥2.00
+@20:05
+>Qianlongyusu ￥28.10
+@20:20
+>rail way from Chenghunagmiao back to hotel ￥2.00
+@21:35
+
+## Schedule 
+
+## Daily
