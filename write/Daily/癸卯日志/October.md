@@ -129,7 +129,7 @@ PS:when we arrived at Wuhan, I send message to CHN, and we made an appointment.
 
 # 23:28 Mon, Oct 9, 2023
 
-## Cost: ￥97.40 In: None
+## Cost: ￥79.10 In: None
 >Rail way from Sis to company ￥7.00
 @12:12
 >Shunfeng transfer of the keyboard from company to Chuzhou ￥13.60
@@ -151,7 +151,7 @@ Then I bought the ticket tomorrow.
 
 # 20:09 Tue, Oct 10, 2023
 
-## Cost: ￥97.40 In: None
+## Cost: ￥180.10 In: None
 >xunlei VIP ￥69.00
 @09:29
 >Mobile fee ￥60.00
@@ -178,7 +178,7 @@ PS: I plan to pay a visit to CHN some day.
 
 # 23:33 Wed, Oct 11, 2023
 
-## Cost: ￥97.40 In: None
+## Cost: ￥74.60 In: None
 >eleme aguiguotie ￥16.80
 @07:29
 >eleme old village chicken ￥11.80
@@ -220,11 +220,14 @@ Drinked a lot of water, then night made the relax. Took a shower...
 Frist day for Down, Play the switch, Second day for Medicine, Birthday
 
 ## Daily
-Morning, I received red elevent from Mom that 
+Morning, I received red elevent from Mom that today was my birthday, Dad also sended me message, then it's over. No one else. Night, I ordered the take away foods of noodles for the dinner. 
+Then we played the Mario of Odessy with Jinguangyu and Lichongbin. 
+
+PS:I didn't receive the red elevent from 
 
 # 23:33 Fri, Oct 13, 2023
 
-## Cost: ￥97.40 In: None
+## Cost: ￥346.78 In: ￥200.00
 >eleme fried chicken ￥22.70
 @00:06
 >eleme Aguiguotie ￥14.50
@@ -251,17 +254,16 @@ Second day for Down, Play the switch, Third day for Medicine
 
 # 23:33 Sat, Oct 14, 2023
 
-## Cost: ￥97.40 In: None
-
+## Cost: None In: None
 
 ## Schedule 
-Third day for Down, Play the switch, Fourth day for Medicine
+Third day for Down, Play the switch, Fourth day for Medicine, Nianshaoyouwei
 
 ## Daily
 
 # 23:33 Sun, Oct 15, 2023
 
-## Cost: ￥97.40 In: None
+## Cost: ￥116.19 In: None
 >eleme Old village chicken ￥30.80
 @11:27
 >eleme glass noodles ￥7.99
@@ -276,25 +278,9 @@ Fourth day for Down, Play the switch, Fifth day for Medicine
 
 ## Daily
 
-# 23:33 Sun, Oct 15, 2023
-
-## Cost: ￥97.40 In: None
->Huabei ￥2746.29
-@00:52
->weixin shouxufei ￥0.11
-@00:54
->Jingdongbaitiao ￥174.57
-@00:55
->Hunaochufang switch ￥170.00
-@01:03
-
-## Schedule 
-
-## Daily
-
 # 23:33 Mon, Oct 16, 2023
 
-## Cost: ￥97.40 In: None
+## Cost: ￥41.00 In: None
 >Aguiguotie ￥14.50
 @07:57
 >taxi from Linlou village to Chuzhoubei station ￥19.50
@@ -314,7 +300,7 @@ Night, I update the program of Chuzhou LCC, I worked until 10:12pm.
 
 # 23:33 Tue, Oct 17, 2023
 
-## Cost: ￥97.40 In: None
+## Cost: ￥211.60 In: None
 >Ali netdisk VIP ￥8.00
 @01:45
 >Neteasymusic VIP ￥39.00
@@ -336,6 +322,57 @@ Night, I update the program of Chuzhou LCC, I worked until 10:12pm.
 >rail way from Chenghunagmiao back to hotel ￥2.00
 @21:35
 
+## Schedule 
+Ningbo Ningbo
+
+## Daily
+Morning, we wake up at about 7:00am, and then we walked to the square, me Sis and Mom, we got the foods bought on Hema, then we went back home and ate lunch.
+After the lunch, I went ahead for the Shanghai Hongqiao station.
+The train was fast and Big station. Then I got the Hongqiao station.
+I slept all the way to Ningbo, then night, I got Ningbo, I walked at Tianyi square and then I saw a lot of beauties, and then I got Gangyagou, and return back to the hotel.
+I ate the Steamed stuffed bun with the sugar. And the sweet dumplings.
+Then I went outside the Gulou, I bought the foods there, the Moon lake, the Chenghuangmiao, and then the Tianyige.
+I sended CHN some photoes, and she was busy...
+Then I went back. The light on the island and the building was soft for the soft moon. I wish there could be someone with me. But alone is the main theme of life.
+
+PS:there was some sexy sounds at the besides room, there was a man and a girl...
+
+# 23:33 Wed, Oct 18, 2023
+
+## Cost: ￥146.90 In: None
+>rail way to meet Yangjiaming ￥2.00
+@08:03
+>rail way to the meeting ￥3.00
+@08:37
+>rail way to Ximenkou ￥3.00
+@10:39
+>Tianyige ticket for me and Yangjiaming ￥60.00
+@10:43
+>Tianyige copybook ￥30.00
+@11:04
+>CiwuAsheng Damian ￥26.00
+@12:15
+>Luckin coffee ￥9.90
+@12:42
+>rail way from Chenghuangmiao to Ningbo station ￥2.00
+@13:05
+>rail way from hongqiao back to Sis ￥9.00
+@17:57
+## Schedule 
+Tianyige, back to Shanghai
+
+## Daily
+Morning, I got up at about 7:00am, then I ate at the second floor and then I went to the Chenghaungmiao station, and found that Yangjiaming was there, and we went to the meeting.
+After the meeting at about 10:00am, we went outside and went ahead for the Tianyige and I bought two tickets and we walked around until 12:00am, then we found the noodles and ate at the store, where filled with many people. Then we wnet to the Ningbo station and then we went back to Shanghai.
+On the ride, I found that I was really poor at C...
+
+# 23:33 Thu, Oct 19, 2023
+
+## Cost: ￥187.10 In: None
+>friutes and fish and pig feets ￥135.60
+@09:15
+>train ticket for Chuzhou ￥51.50
+@18:16
 ## Schedule 
 
 ## Daily
