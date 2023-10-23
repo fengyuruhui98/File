@@ -376,3 +376,17 @@ On the ride, I found that I was really poor at C...
 ## Schedule 
 
 ## Daily
+
+
+# 23:33 Fri, Oct 20, 2023
+
+## Cost: ￥187.10 In: None
+
+## Schedule 
+
+## Daily
+On the train I met the girl like a flower, blooming on the blue water.
+Blue was the color of my mind, and of the shirt reflected into my eyes. She sited there, reading the book named like "廉仓の家", blue face of the book and blue shirt.
+There was two spirite in my body, the one told me that everything was meaningless, and the world was boring, passionless or amazing. While another was the success one, confidence, powerful, talent. When I put one on the thron, the other pulled down and down. I feel I may lost one of them on day...
+The sunshine on the train made me remind the winter at home, the same sunshine of the afternoon, and the winter wind flows over the ice covered on the dead woods. After the sleeping at noon, the wind made me cold and the sun made me warm.
+She got down at Changzhou...
