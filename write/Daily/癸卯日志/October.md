@@ -223,7 +223,7 @@ Frist day for Down, Play the switch, Second day for Medicine, Birthday
 Morning, I received red elevent from Mom that today was my birthday, Dad also sended me message, then it's over. No one else. Night, I ordered the take away foods of noodles for the dinner. 
 Then we played the Mario of Odessy with Jinguangyu and Lichongbin. 
 
-PS:I didn't receive the red elevent from 
+PS:I didn't receive the red elevent from anyone but Mom.
 
 # 23:33 Fri, Oct 13, 2023
 
@@ -251,6 +251,8 @@ PS:I didn't receive the red elevent from
 Second day for Down, Play the switch, Third day for Medicine
 
 ## Daily
+Morning, I ate the Aguiguotie and get up early at 9:00am, Then I bought the Hunaochufang, for three or more people to play. Then night, I finally got the fish head for lunch, then night while after we played the switch, Lichongbin drived his moto with me to buy some foods, I bought the duck foods and the Milaotou.
+Then today still down and down...
 
 # 23:33 Sat, Oct 14, 2023
 
@@ -374,15 +376,25 @@ On the ride, I found that I was really poor at C...
 >train ticket for Chuzhou ￥51.50
 @18:16
 ## Schedule 
+Market bought with MOm, plan back Chuzhou
 
 ## Daily
-
+Morning, we 
 
 # 23:33 Fri, Oct 20, 2023
 
-## Cost: ￥187.10 In: None
+## Cost: ￥71.24 In: None
+>rail way from Sis to Shanghai station ￥7.00
+@11:53
+>Lanzhou lamian ￥25.00
+@11:52
+>taxi from Chuzhoubei back to Linlou village ￥16.70
+@18:42
+>eleme Zhangliang spicy ￥22.54
+@18:44
 
 ## Schedule 
+Back Chuzhou, girl on the train, Plan to CHN
 
 ## Daily
 On the train I met the girl like a flower, blooming on the blue water.
@@ -390,3 +402,37 @@ Blue was the color of my mind, and of the shirt reflected into my eyes. She site
 There was two spirite in my body, the one told me that everything was meaningless, and the world was boring, passionless or amazing. While another was the success one, confidence, powerful, talent. When I put one on the thron, the other pulled down and down. I feel I may lost one of them on day...
 The sunshine on the train made me remind the winter at home, the same sunshine of the afternoon, and the winter wind flows over the ice covered on the dead woods. After the sleeping at noon, the wind made me cold and the sun made me warm.
 She got down at Changzhou...
+
+# 23:33 Sat, Oct 21, 2023
+
+## Cost: ￥148.25 In: None
+>eleme Aguiguotie ￥15.50 
+@08:34
+>eleme Yanzijiaomaji ￥28.28
+@12:02
+>eleme Huntun and duck leg from Shaxianxiaochi ￥17.69
+@18:28
+>luckin coffee ￥12.18
+@21:36
+>cup ￥6.00
+@21:39
+>instant noodles and peanut and porn ￥52.60
+@21:51
+>HUangshan ￥16.00
+@22:53
+
+## Schedule 
+watch the games of dota, Byren muchen
+
+## Daily
+Morning, I ordered the Aguiguotie and today, I got up early...
+After the 
+
+# 23:33 Sun, Oct 22, 2023
+
+## Cost: None In: None
+
+## Schedule 
+No cost, down and down
+
+## Daily
