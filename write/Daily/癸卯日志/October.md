@@ -436,3 +436,28 @@ After the
 No cost, down and down
 
 ## Daily
+
+# 23:33 Sun, Oct 23, 2023
+
+## Cost: None In: None
+
+## Schedule 
+
+## Daily
+
+# 23:33 Sun, Oct 24, 2023
+
+## Cost: None In: None
+
+## Schedule 
+
+## Daily
+
+# 23:33 Sun, Oct 25, 2023
+
+## Cost: None In: None
+
+## Schedule 
+
+## Daily
+The enemy is in our mind, it's weekness, our desire to trust people, to be loved, 
