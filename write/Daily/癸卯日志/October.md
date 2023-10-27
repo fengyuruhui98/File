@@ -262,6 +262,9 @@ Then today still down and down...
 Third day for Down, Play the switch, Fourth day for Medicine, Nianshaoyouwei
 
 ## Daily
+Morning, I played the WoWs all the day, and noon, I ate the Miduoqi for lunch, then afternoon, after Jinguangyu bought the glass noodles and then we went outside for the dinner.
+We went to the Nianshaoyouwei and ate the beef, Lichongbin said he would take the bill before we wet there, and after we got there, he asked us to make the order, then he ordered little, then like counting the money...
+We ate and then went back. And played the Odessy on...
 
 # 23:33 Sun, Oct 15, 2023
 
@@ -279,6 +282,12 @@ Third day for Down, Play the switch, Fourth day for Medicine, Nianshaoyouwei
 Fourth day for Down, Play the switch, Fifth day for Medicine
 
 ## Daily
+Morning, I played the wows, night, we played the game....
+
+"Down"-Yudafu
+The breeze blowing from the south, like the sobering jelly, carries a fragrance and blows up.
+
+In this peaceful early autumn world, in this clear and transparent ether, his body felt as soft as if intoxicated. It was as if he was sleeping in his mother's arms. He seemed to dream of the peach blossom source. He seemed to be on the coast of southern Europe, lying on his lover's lap, where he was greedily napping.
 
 # 23:33 Mon, Oct 16, 2023
 
@@ -379,7 +388,9 @@ On the ride, I found that I was really poor at C...
 Market bought with MOm, plan back Chuzhou
 
 ## Daily
-Morning, we 
+Morning, we ate at home, then Mom and I went to the supermarket walk, we bought the snick fish, and other things, then we walk back, by the river side.
+Noon, after lunch, Mom asked me strongly went to buy the pants, I fully rejected, she said that I yeal so loud to scare Sis. Then I said I would leave tomorrow...
+Afternoon, I fall asleep, then miss the fish cooked by MOm, then I went bed. 
 
 # 23:33 Fri, Oct 20, 2023
 
@@ -426,7 +437,14 @@ watch the games of dota, Byren muchen
 
 ## Daily
 Morning, I ordered the Aguiguotie and today, I got up early...
-After the 
+After the breakfast, I plan to study, but found that the game was playing, so I begin to watch the game...
+Night, I bought the instant noodles and the red cup, but it broke tonight, what a pity...
+"Down" -- Yudafu
+This is your refuge. The general philistines of the world are there to envy you, laugh at you, fool you; Only this nature, this ever-new sky, this late summer breeze, this early autumn air, or your friend, or your mother, or your lover, you don't have to go to the world to live with those light men and women, you are in the bosom of nature, this simple country is old.
+
+A strange book like this should not be read in one go, but should be carefully chewed. After reading it all at once, my ardent desire had to be extinguished, and then I had no good hopes, no dreams, how to make it?
+
+Looking around, the sun has slanted; On the other side of the Great Plain, on the western horizon, there is a high mountain, floating there, suffering from a day's remnants, and a hazy layer of lan air brews around the mountain, reflecting a purple and red color.
 
 # 23:33 Sun, Oct 22, 2023
 
@@ -436,28 +454,159 @@ After the
 No cost, down and down
 
 ## Daily
+Today, I hardly control myself not to spent money, I ate the instant noodles for lunch and dinner...
+Relax all the day...
+"Down" -- Yudafu
+When the weather was clear, he grabbed every literary book he loved to read, and ran to the inaccessible mountainside to covet the deep taste of loneliness. In the moment of silence, in the place where the sky and water reflected, he looked at the grass, wood, insects and fish, and looked at the white clouds, and he felt that he was a lonely and proud sage, a detached and independent hermit.
+During class, although he sat in the middle of the class, he always felt very lonely; In the crowd, the loneliness felt is more uncomfortable than the loneliness that a person feels in a deserted place. Looking at his classmates, they were all happily listening to his lectures there, and although he was the only one sitting in the lecture hall, his mind was like a flying cloud, and he was making boundless fantasies there.
+Why should I come to Japan, why should I ask for knowledge. Since he came to Japan, he naturally had to be insulted by them Japanese. China, China! Why don't you get rich and strong, I can't endure it anymore.
+"Isn't there a bright mountain and river in your hometown, and isn't your hometown a beautiful woman like a flower?" Why should I come to this island nation in the East China Sea!
+"It's just a matter of coming to Japan, why should I go to this damn high school again." Wouldn't those who they had stayed for five months and returned enjoy prosperity there? These five or six years have taught me how to get by. After suffering a lot and accumulating more than ten years of knowledge, when I return to China, will I be stronger than the international students they came to mess around?
+"Life is a hundred years old, when I was young, there were only seven or eight years, these purest and most beautiful seven or eight years, I had to spend in this ruthless island country, but I am already twenty-one this year.
+"Twenty-one years old of Makiki!
+"Dead twenty-one!
+"I'm really better than the minerals, I probably haven't flowered anymore."
 
-# 23:33 Sun, Oct 23, 2023
+# 23:33 Mon, Oct 23, 2023
 
-## Cost: None In: None
+## Cost: ￥72.54 In: None
+>papers ￥11.00
+@09:56
+>eleme Zhangliang spicy ￥22.54
+@11:59
+>pies for me and Lichongbin ￥8.00
+@17:53
+>duck foods ￥13.00
+@17:56
+>beef soup ￥18.00
+@17:59
 
 ## Schedule 
+Outside eat with Lichongbin
 
 ## Daily
+Do little things of the SPT...
+"Down" -- Yudafu
+That day was about the third or fourth day of the old calendar, and the blue and purple sky like velvet was sprinkled with a day of stars. Half-traced crescent moon, hanging obliquely on the West Heavenly Corner, but it looks like a fairy's Emei, without the appearance of Cuidai. He leaned against the window of the third-class car alone, silently counting the lights of the people outside the window. The train was in the middle of the dark night, one by one, the stars and lights of the metropolis were also hazy little by little, and a thousand sorrows suddenly arose in his chest, and his eyes suddenly felt hot.
+"The wanderers under the cross were probably as tragic as I was when they left the shores of their native land."
+After the train passed Yokohama, his feelings gradually calmed down. After sitting in a daze, he took a postcard, put it on Heine's book of poems, and wrote a poem in pencil to send to his friends in Tokyo:
+Emei moon on the willow at the beginning, and bid farewell to the former residence of Tianya, and the Sibi Banner Pavilion competed for wine,
+The lights of the sixth street are far away with the car, chaotic and young without many tears, the luggage family is poor and only old books,
+The autumn water grows in the night after the reed, and the double fish are foraged by Junnanpu.
+When he walked through the park and onto the path in the middle of the rice fields, he saw that the sun had risen, and the dew drops on the rice were still hanging there like pearls. There was a clump of trees in front of it, and in the shade of the trees, a few rafter farmhouses could be seen. There were two or three chimney tubes, protruding above the farmhouse, faintly floating in the morning air. Wisps of green smoke floated there like incense, and he knew that the farmer had cooked breakfast there.
 
-# 23:33 Sun, Oct 24, 2023
+# 23:33 Tue, Oct 24, 2023
 
-## Cost: None In: None
+## Cost: ￥183.71 In: None
+>eleme Aguiguotie ￥14.50
+@08:50
+>eleme Guming ￥7.60
+@09:42
+>Kaoyan sign up ￥128.00
+@14:54
+>Huawei VIP ￥9.60
+@17:15
+>eleme Yuanqidoufan ￥24.01
+@18:10
 
 ## Schedule 
+Last day of medicine, Kaoyan sign up
 
 ## Daily
+The medicine was over, and there still some lake, and some over...
+"Down" -- Yudafu
+"I don't want knowledge, I don't want reputation, I just need a 'heart' that comforts me and understands me." A white-hot heart! Sympathy born from this heart! Love Qing from sympathy!
+"All I ask for is love!
+"If there is a beauty who can understand my suffering, and she wants me to die, I will do it."
+"If there is a woman, whether beautiful or ugly, who can truly love me, I will die for her."
+"All I ask for is love of the opposite sex!
+"Heaven, heaven, I don't want knowledge, I don't want fame, I don't want useless money, but if you can give me an 'Efu' in the Garden of Eden, so that her body and heart will belong to me, I will be satisfied."
 
-# 23:33 Sun, Oct 25, 2023
+# 23:33 Wed, Oct 25, 2023
 
-## Cost: None In: None
+## Cost: ￥84.60 In: None
+>eleme Mixuebingcheng ￥10.70
+@00:35
+>Aiqiyi sport VIP ￥9.00
+@00:53
+>instant noodles ￥3.00
+@11:46
+>Suancaiyu bao ￥29.00
+@19:05
+>Nanjing Daguanyuan ￥23.00
+@19:44
+>Luckinn coffee ￥9.90
+@19:57
 
 ## Schedule 
+Byren muchen game of the UEFA
 
 ## Daily
-The enemy is in our mind, it's weekness, our desire to trust people, to be loved, 
+The enemy is in our mind, it's weekness, our desire to trust people, to be loved. I watch the "war march from the sea blow"..
+"Down" -- Yudafu 
+When he returned home, he stayed day and night in his little book. The books in the collections of his father and his eldest brother became his mentors and friends. In his diary, he remembered poems day by day. Sometimes he also used gorgeous articles to make novels, in which he regarded himself as an amorous warrior, the two daughters of his neighboring widow, as the Miao descendants of the nobility, and compiled all the customs of his hometown into pastoral scenery; When he was free, he also translated his own novels in purely foreign languages; His fantasies grew bigger and bigger, and it was around this time that the roots of his depression disease were successfully cultivated.
+
+# 23:33 Thu, Oct 26, 2023
+
+## Cost: ￥279.90 In: None
+>eleme VIP coupons ￥6.50
+@12:26
+>eleme Zhangliang spicy ￥17.54
+@12:28
+>DaoxiangmiBanfan ￥31.00
+@19:21
+>Luckinn coffee ￥13.05
+@19:42
+>coockies ￥32.31
+@19:51
+>Huangshan ￥16.00
+@21:20
+>train back Shanghai ￥163.00
+@22:03
+
+## Schedule 
+Little girl birthday
+
+## Daily
+Afternoon, before I went for dinner I got the phone call from MOm, I had the feeling that the baby was coming. Apparently, it is true.
+Then Mom told me that they went hospital at the morning, and Sis still at the baby room, later at about 18:00, there was a girl came into the world.
+She was born at 17:58, and length 49cm. Little girl.
+Mom said that I can came back later more that those days, I begin feeling bad, then she called me said that I may came back tomorrow for tomorrow would Friday, so I bought the ticket , night, I took the shower and then went bed.
+
+# 23:33 Fri, Oct 27, 2023
+
+## Cost: ￥487.08 In: None
+>dumplyings and soup ￥12.00
+@06:32
+>China people's healthy insurence ￥2.00
+@10:32
+>rail way from Hongqiao station to the shanghai the First mother baby hospital ￥5.00
+@11:41
+>baby care service ￥187.50
+@14:29
+>Yuanji yunjiao ￥30.88
+@17:26
+>water bought at Luosen at hospital ￥16.90
+@18:17
+>Hanting for the night ￥175.00
+@20:48
+>taxi from the hospital to the hotel ￥16.30
+@21:06
+>juicy at Quanjia around the hotel ￥8.90
+@21:22
+>duck foods ￥32.60
+@21:26
+
+## Schedule 
+Back to Shanghai
+
+## Daily
+Morning, I got up early at about 6:00am, I was really sleepy, then I went to the Luyuanwai and ate the breakfast, then I went to the station and got Chuzhou station.
+I sleep all the way back Shanghai, then at noon, I got there, I saw the little baby, so cute. 
+Noon when we ate the lunch, Muyunyan yealed at Mom, said that the leftovers shouldn't keep, Mom answered low and low voice, it burned me, there shouldn't have anyone else dare yeal at Mom, except our family, shamed!!!!
+Then I told mom let him f**k off.... or more gentle words means that... snobbish manner!!!!
+Then I ate the dumplings for dinner, and then Muyunyan's sister in law came with little girl...
+Night I went to the hotel, I made conversations with CHN, and we made the decision for next week's visits.
+Today, I spent lots of money...
+
+PS:I pay the nurse fee for the little girl...

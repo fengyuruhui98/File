@@ -82,6 +82,7 @@ Once I filled my hand with mist, Then I open it and lo, the mist was a worm, and
 @21:59
 
 ## Daily
+Tomorrow, Mom they would came, I called mom, they were ready for the trip.
 
 # 23:53 Fri, Jul 7, 2023
 
@@ -126,7 +127,9 @@ I stayed at Dad and Mom's room until 10:00pm. Then we went bed.
 @20:00
 
 ## Daily
-Morning, we met at the canteen of the hotel. Then we ate together.
+Morning, we met at the canteen of the hotel. Then we ate together. After the breakfast, we went ahead the Nanjing, we went to the Zhongshan and parked the car in a corner, then we walked for the mountain, then we climbed the mountain, we walked far and far, then we went to the Zongtongfu by train, Sis and I made an arguement about the destination of the lunch. She was high, on the top, look downn those people, little, controlable people....
+Then we ate the duck blood soup and we went to the Nanjing Zongtongfu, then we broke, I took the train and the bus, back to Chuzhou...
+The cloud was thick, I smoke under the Chahe station, and think a lot...
 
 # 23:53 Sun, Jul 9, 2023
 
@@ -170,6 +173,7 @@ Sis sended me photoes that the airplane was cheap I thought that may be one day,
 @23:11
 
 ## Daily
+Night, we went to the laochu to eat the break dinner for Guoyong and Wangbo, we drunk a lot, I made the sign for the left drink...
 
 # 23:53 Wen, Jul 12, 2023
 
@@ -200,6 +204,7 @@ Sis sended me photoes that the airplane was cheap I thought that may be one day,
 @18:49
 
 ## Daily
+Morning, I decided to went back to Shanghai, and I ate the Cuijiefang for dinner, then I still took the order of the hotel, then I packed the package.
 
 # 23:53 Fri, Jul 14, 2023
 
@@ -216,9 +221,9 @@ Sis sended me photoes that the airplane was cheap I thought that may be one day,
 # 23:53 Sat, Jul 15, 2023
 
 ## Cost: ￥546.00 In: None
->Hangzhou Xingcheng Wuminmen station hotel ￥257.00
+>Hangzhou Xingcheng Wulinmen station hotel ￥257.00
 @10:21
->Hangzhou Xingcheng Wuminmen station hotel ￥179.00
+>Hangzhou Xingcheng Wulinmen station hotel ￥179.00
 @10:25
 >shanghai driver lisence photoes ￥100.00
 @15:45
