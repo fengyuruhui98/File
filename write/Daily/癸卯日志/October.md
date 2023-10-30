@@ -576,7 +576,7 @@ Mom said that I can came back later more that those days, I begin feeling bad, t
 # 23:33 Fri, Oct 27, 2023
 
 ## Cost: ￥487.08 In: None
->dumplyings and soup ￥12.00
+>steam dumplyings and soup ￥12.00
 @06:32
 >China people's healthy insurence ￥2.00
 @10:32
@@ -610,3 +610,70 @@ Night I went to the hotel, I made conversations with CHN, and we made the decisi
 Today, I spent lots of money...
 
 PS:I pay the nurse fee for the little girl...
+
+# 23:33 Sat, Oct 28, 2023
+
+## Cost: ￥216.43 In: None
+>taxi from Hanting hotel to the hospital ￥14.85
+@10:11
+>Luosen juciy ￥8.90
+@11:24
+>train ticket from shanghai back to Chuzhou ￥51.50
+@12:07
+>eleme medicine for little baby ￥28.00
+@14:57
+>eleme Xiaoyang shengjian ￥25.18
+@15:06
+>Migu VIP ￥88.00
+@21:32
+
+## Schedule 
+Aunt came, back home from hospital, FCByren 8:0, kane spot at the middle of the ground
+
+## Daily
+Morning, I ate the breakfast at the hotel after I wake up at about 9:00am, then I ordered the taxi back to hospital.
+They ate the Hefulaomain, and I didn't eat anything until 15:30...
+Sis would back home today, and we took everything we had there, and we backed home.
+Night, Little girl named "Mouxiyin" was told by Sis that means little river and the green glasses, the other name was called "Xiaojainjian", then we waited for Xiaona caming, she said the she was close with Sis, and they had deep connection...
+Then, night, I watched the game...
+
+# 23:33 Sun, Oct 29, 2023
+
+## Cost: ￥59.60 In: None
+>Xuanhemen ￥20.00
+@13:30
+>subway from Sis to Shanghai station ￥7.00
+@13:38
+>juicy ￥8.90
+@13:42
+>taxi from Chuzhoubei station to Linlou village ￥17.70
+@18:47
+>instant noodles ￥6.00
+@18:50
+
+## Schedule 
+Back to Chuzhou
+
+## Daily
+Mornming, we got up early, and we ate together, Xiaona might saw something for that I used the serving chopsticks...
+Then noon I told that the train would left at 14:00pm, then we ate together and then I ahead the station...
+On the way, the sadness came to me again, I let it through my finger and arms, and through my mouse, my nose, then it got the top of my head...
+Night I ate the instant noodles, and watched a lot games.
+
+# 22:58 Mon, Oct 30, 2023
+
+## Cost: ￥77.14 In: None
+>eleme Zhangliang spicy ￥22.54
+@17:28
+>Guming ￥9.60
+@21:59
+>LOL ￥45.00
+@22:26
+
+## Schedule 
+Work day, BS
+
+## Daily
+Morning, I got up late at about 9:30am, then I decided to work all the day, then noon, I played the Wows, afternoon, I played the LOLs, then night, CHN told me that Guowei came to her, she said Guowei "she", but I don't think so...
+Then she said she was busy talking with her friends, and she told me I was her just a friend...
+F**k, I played the game night, and decided not to be interupted any more...

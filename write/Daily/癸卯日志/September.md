@@ -481,3 +481,6 @@ Liuyifan, Self make lunch, Football
 ## Daily
 Morning, I got up at about 7:30am, then we ate the breakfast and then we went to Aunt's. I was told that the foods was ready in the 
 
+
+# MONTH-COUNT
+## Cost: ￥ In: ￥ Sub: ￥
