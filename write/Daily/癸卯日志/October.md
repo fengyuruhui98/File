@@ -268,7 +268,11 @@ We ate and then went back. And played the Odessy on...
 
 # 23:33 Sun, Oct 15, 2023
 
-## Cost: ￥116.19 In: None
+## Cost: ￥3037.05 In: None
+>Huabei ￥2746.29
+@00:52
+>jingdong baitiao ￥174.57
+@00:55
 >eleme Old village chicken ￥30.80
 @11:27
 >eleme glass noodles ￥7.99
@@ -677,3 +681,32 @@ Work day, BS
 Morning, I got up late at about 9:30am, then I decided to work all the day, then noon, I played the Wows, afternoon, I played the LOLs, then night, CHN told me that Guowei came to her, she said Guowei "she", but I don't think so...
 Then she said she was busy talking with her friends, and she told me I was her just a friend...
 F**k, I played the game night, and decided not to be interupted any more...
+
+# 22:58 Tue, Oct 31, 2023
+
+## Cost: ￥571.28 In: None
+>train to Wuhan ￥200.00
+@10:16
+>Mobile fee ￥60.00
+@12:06
+>eleme Yanzijiaomaji ￥34.78
+@12:31
+>eleme Guming ￥8.60
+@21:35
+>eleme Guming for CHN ￥15.90
+@21:52
+>Hanting at Wuhan ￥252.00
+@22:00
+
+## Schedule 
+Talk with CHN all the day
+
+## Daily
+Morning, CHN said that she wouldn't work today, then we made phone calls all the day, we talked about the house she would rent, the negotiations with the house keeper.
+Then we talked about the work, she sends me the video "https://news.hbtv.com.cn/p/2934104.html", such a beauty...
+We talked and then the topic came to the sadness, then we went sleep at about 00:30...
+
+
+
+# MONTH-COUNT
+## Cost: ￥17060.69 In: ￥7535.94 Sub: ￥-9524.75
