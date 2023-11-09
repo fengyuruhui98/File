@@ -30,7 +30,7 @@ reset命令有3种方式：
 - reset --soft  HEAD^：回退到某个版本，只回退了commit的信息，不会恢复到index file一级。如果还要提交，直接commit即可
 - git reset --hard：彻底回退到某个版本，本地的源码也会变为上一个版本的内容
 
- 
+**首先查看历史变更记录：git reflog**
 
 ## 1. 回退所有内容到上一个版本  
 git reset HEAD^  

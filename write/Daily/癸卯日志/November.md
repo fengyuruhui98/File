@@ -111,7 +111,7 @@ Morning, I felt exciting and the coming day would be brillint, then I ordered th
 Then the winter sunshine falled down on the open square, on the cement floor, it recalled me of the old time at the school I felt very sad that I would never came back to those days.
 Then I got Hankou station  
 
-# 22:58 Sat, Nov 04, 2023
+# 22:58 Sun, Nov 5, 2023
 
 ## Cost: ￥77.14 In: None
 >ticket from Chuzhou to Nanjing  28.00
@@ -123,3 +123,41 @@ Huanghelou, met CHN, help CHN move the house.
 ## Daily
 Morning, I wake up at about 8:30am, and then I relex until 9:00am, then I planned to go out, I felt really sad for last night, CHN....
 Then I went ahead Huanghelou, and then I walked to the station, and saw the new building of work place of CHN, then I took the rail way to the Hunaghelou, the rain got much more than it in the morning, Then I finally got there.
+
+# 22:58 Mon, Nov 6, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Plan to back Chuzhou, Shopping, hot pot
+
+## Daily
+
+# 22:58 Tue, Nov 7, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Home made meal
+
+## Daily
+
+
+# 22:58 Wed, Nov 8, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Back to Chuzhou
+
+## Daily
+Morning, we ate the prawn, and the foods left last night, then CHN went to work, I packed my things and then I went outside and then left.
+I got Hankou station at about 12:00am and then took the train, and slept all the way, then I ate the duck glass noodles and then got Chuzhou.
+Son of b/*/*ch Lichongbin said that we ate outside this Friday I'd like to say f/*/*k off, Then I drunk the Jinro and then went bed.
+There I made a decision that no more connection and relationship with CHN.
