@@ -37,6 +37,7 @@ Then afternoon at about 17:00pm, I went bed and slept all the night...
 Work day
 
 ## Daily
+Hungry and the lazy would be my sine 
 
 # 22:58 Fri, Nov 03, 2023
 
@@ -161,3 +162,14 @@ Morning, we ate the prawn, and the foods left last night, then CHN went to work,
 I got Hankou station at about 12:00am and then took the train, and slept all the way, then I ate the duck glass noodles and then got Chuzhou.
 Son of b/*/*ch Lichongbin said that we ate outside this Friday I'd like to say f/*/*k off, Then I drunk the Jinro and then went bed.
 There I made a decision that no more connection and relationship with CHN.
+
+# 22:58 Thu, Nov 9, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Back to Chuzhou
+
+## Daily
