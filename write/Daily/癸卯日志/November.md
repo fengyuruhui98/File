@@ -173,3 +173,70 @@ There I made a decision that no more connection and relationship with CHN.
 Back to Chuzhou
 
 ## Daily
+
+# 22:58 Fri, Nov 10, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Back to Chuzhou
+
+## Daily
+
+# 22:58 Sat, Nov 11, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Back to Chuzhou
+
+## Daily
+
+# 22:58 Sun, Nov 12, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Back to Chuzhou
+
+## Daily
+
+# 22:58 Mon, Nov 13, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Back to Chuzhou
+
+## Daily
+
+# 22:58 Tue, Nov 14, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Back to Chuzhou
+
+## Daily
+
+# 22:58 Wed, Nov 15, 2023
+
+## Cost: ￥77.14 In: None
+>ticket from Chuzhou to Nanjing  28.00
+@08:37
+
+## Schedule 
+Work day, ate at the beef pot
+
+## Daily
+Morning, I wake up at about 9:30am, then I worked the SPT, then at about 10:00am, Liuguangpu and Wangyu and Zhengyuying came and we work together, then they left at about 11:30am, and then we worked and ate lunch, then slept, and then we worked the afternoon, and I done the work, and then 
