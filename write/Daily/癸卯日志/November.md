@@ -37,7 +37,9 @@ Then afternoon at about 17:00pm, I went bed and slept all the night...
 Work day
 
 ## Daily
-Hungry and the lazy would be my sine 
+Hungry and the lazy would be my sine, I got up early at about 7:00am, and then ate the aGuiguotie, then work morning, and I got my hair cut at about 19:30pm, planned for paying a visit to CHN.
+Then night I bought the duck and it tasted saulty... 
+All the lazy and down would paid someday in the latest future.
 
 # 22:58 Fri, Nov 03, 2023
 
@@ -120,7 +122,9 @@ Ahead Wuhan, FCByren VS Dortmentd 4:0
 ## Daily
 Morning, I felt exciting and the coming day would be brillint, then I ordered the lunch first at about 10:30am, and then I went to the station of Chuzhou and took the train to Nanjing and then ahead Wuhan at about 15:40pm. There I saw the Ksitigarbha's temple at Liuan...
 Then the winter sunshine falled down on the open square, on the cement floor, it recalled me of the old time at the school I felt very sad that I would never came back to those days.
-Then I got Hankou station  
+Then I got Hankou station, I called CHN, she left the alchole and the key at the Xiaoguishan station, then I got the destination, I was told that she wouldn't come any more.
+The rain was small, it down the top of the pine tree, made the tree under the cover of little water and fog, on the way back to CHN's house, I was so angry that I badly want to back Chuzhou. But I stayed, I told her I would went to the hotel for the night, she said I should stay, then I stay.
+Many changes had been happen on me over those years, I am more and more become a compromiser, on many things, I am no longer want to made a clear right or wrong, let it go...
 
 # 22:58 Sun, Nov 5, 2023
 
@@ -152,6 +156,10 @@ Huanghelou, met CHN, help CHN move the house.
 ## Daily
 Morning, I wake up at about 8:30am, and then I relex until 9:00am, then I planned to go out, I felt really sad for last night, CHN....
 Then I went ahead Huanghelou, and then I walked to the station, and saw the new building of work place of CHN, then I took the rail way to the Hunaghelou, the rain got much more than it in the morning, Then I finally got there.
+The rain falled heavy and my shoes get all wet, I walked on the tower and saw the cloud come and go. Then I went to the Hubuxiang and ate there.
+I planned to go back to the house and leave tomorrow. Then CHN said that she would move tonight, I stayed at the subway station slept on the bantch for a long time. CHN sended me message that she wanted to move the house..
+Then finally I met her at where she lived, she looks much better that last time I saw her. Then we packed the package and then called for Huolala and then we took the car and finally got there.
+We simplely use clean the house and then went out at night about 23:00pm. Then we went back and sleep.
 
 # 22:58 Mon, Nov 6, 2023
 
@@ -169,6 +177,8 @@ Then I went ahead Huanghelou, and then I walked to the station, and saw the new 
 Plan to back Chuzhou, Shopping, hot pot
 
 ## Daily
+Morning, I got up early and found that CHN didn't get up, then I wait and wait until 12:30am, I felt really bad that she even didn't want to get up early, this girl would never made some thing on time. Then we went to the supermarket and bought lots of things and then we went back and ate at about 14:00pm, and until 16:00pm, then I told CHn that I want to buy some cigerate and then I found a public lavatory and then I went back, night we ate the hot pot still...
+I told her that I would wnent back to Chuzhou and she said that I should stay until Wed until her sister would came...
 
 # 22:58 Tue, Nov 7, 2023
 
@@ -189,7 +199,7 @@ Plan to back Chuzhou, Shopping, hot pot
 Home made meal
 
 ## Daily
-
+Morning, CHN got up at about 8:00am, then I made the rice porridge, then she went to work and I walked her to the front door, she said she would came back until lunch but she said that she would stay there for lunch, I ate the took away foods and went to bought the shrimp and others, then after she got home, I cooked the Guihuatangou, the chicken soup and the Xihongshichaojidan, and the Lajiaochaomeidoujiao, then we ate together, night we went outside, and I told her that I would went back tomorrow...
 
 # 22:58 Wed, Nov 8, 2023
 
@@ -422,5 +432,112 @@ work day
 
 ## Schedule 
 work day
+
+## Daily
+
+# 22:58 Tue, Nov 21, 2023
+
+## Cost: ￥108.32 In: None
+>mobile fee ￥60.00
+@10:27
+>steam lake of oxygen ￥19.72
+@18:00
+>Mixuebingcheng ￥28.60
+@22:45
+
+## Schedule 
+work day, China football lose kreao 3:0
+
+## Daily
+
+# 22:58 Wed, Nov 22, 2023
+
+## Cost: ￥305.07 In: None
+>train ticket from chuzhou back to Shanghai ￥104.50
+@10:30
+>trains from shanghai back to Chuzhou ￥51.50
+@10:31 
+>duck foods ￥20.04
+@12:27
+>duck blood soup ￥21.99
+@17:46
+>Luckincoffee ￥9.90
+@21:41
+>little foods ￥88.14
+@21:49
+>Aiqiyi VIP ￥9.00
+@23:33
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Thu, Nov 23, 2023
+
+## Cost: ￥19.40 In: None
+>steamed bread and others ￥19.40
+@13:01
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Fri, Nov 24, 2023
+
+## Cost: ￥34.20 In: None
+>eleme Ziyanbaiweiji ￥32.60
+@17:36
+>Huawei VIP ￥1.60
+@20:36
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Sat, Nov 25, 2023
+
+## Cost: ￥106.72 In: None
+>Daoxiangmibanfan at Langya jiujiu ￥31.90
+@12:02
+>Electric vehicle from Langyashan station to Langyashan ￥3.00
+@13:01
+>water of NOngfushanquan ￥2.00
+@13:08
+>eleme zhangliang spicy ￥31.02
+@17:56
+>eleme Guming ￥38.80
+@18:44
+
+## Schedule 
+Langyashan with Jinguangyu and Wuxiaodao
+
+## Daily
+
+# 22:58 Sun, Nov 26, 2023
+
+## Cost: ￥41.99 In: None
+>eleme VIP coupons ￥20.00
+@13:10
+>eleme duck blood soup ￥21.99
+@13:10
+
+## Schedule 
+lazy day
+
+## Daily
+
+# 22:58 Mon, Nov 27, 2023
+
+## Cost: ￥41.42 In: None
+>Ganyuan little foods ￥39.42
+@01:50
+>china people's insurence ￥2.00
+@10:32
+
+## Schedule 
+work day, China football lose kreao 3:0
 
 ## Daily
