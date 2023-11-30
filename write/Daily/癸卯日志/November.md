@@ -248,6 +248,8 @@ There I made a decision that no more connection and relationship with CHN.
 Work day
 
 ## Daily
+Morning, there I got up early and I ate the breakfast, then I do the study, and I worked all the day and then nothing more, I went to buy some little foods at night, when we got back home, Lichongbin son of b**ch saw a little cat and I went to bought the huotuichang for the little cat...
+Today, I worked little and lazy and down...
 
 # 22:58 Fri, Nov 10, 2023
 
