@@ -533,13 +533,69 @@ lazy day
 
 # 22:58 Mon, Nov 27, 2023
 
-## Cost: ￥41.42 In: None
+## Cost: ￥85.22 In: None
 >Ganyuan little foods ￥39.42
 @01:50
 >china people's insurence ￥2.00
 @10:32
+>eleme duck foods ￥37.80
+@11:56
+>Mantou ￥6.00
+@17:31
 
 ## Schedule 
-work day, China football lose kreao 3:0
+work day
 
 ## Daily
+
+# 22:58 Tue, Nov 28, 2023
+
+## Cost: ￥193.41 In: None
+>Jingdongbaitiao return ￥179.76
+@09:34
+>Shandian vpn ￥13.65
+@18:57
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Wed, Nov 29, 2023
+
+## Cost: ￥427.90 In: None
+>eleme Ziyanbaiweiji ￥31.60
+@12:25
+>train from Chuzhou back to shanghai ￥170.00
+@16:33
+>train from shanghai back to Chuhzou ￥51.50
+@16:36
+>refund of the last tickets ￥151.00
+@16:34
+>eleme old village chicken ￥23.80
+@18:16
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Thu, Nov 30, 2023
+
+## Cost: ￥120.60 In: None
+>eleme Ziyanbaiweiji ￥31.60
+@12:02
+>taxi from Dawangying to Chuzhou station ￥39.00
+@17:51
+>old village chicken at the Hongqiao station ￥41.00
+@20:16
+rail way from hongqiao back to Sis ￥9.00
+@22:35
+
+## Schedule 
+work day
+
+## Daily
+
+# MONTH-COUNT
+## Cost: ￥9750.75 In: ￥7089.38 Sub: ￥-2661.37
