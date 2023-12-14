@@ -52,6 +52,11 @@ Once I filled my hand with mist, Then I open it and lo, the mist was a worm, and
 @18:16
 
 ## Daily
+Today, still work day, I went to the building, and do the work all day, there left three days before they come, happy, and I bought two Xuanhemen today.
+If you were a teardrop;In my eye.
+For fear of losing you,I would never cry.
+And if the golden sun,Should cease to shine its light.
+Just one smile from you,Would make my whole world bright.
 
 # 23:53 Wen, Jul 5, 2023
 
@@ -70,6 +75,11 @@ Once I filled my hand with mist, Then I open it and lo, the mist was a worm, and
 @21:28
 
 ## Daily
+Morning, still work day, and I found that the salary was about 9K, of course include the out day work for one. Then I bought the Xunlei Vip night, and download lots of movies.
+To see a world in a grain of sand,
+And a heaven in a wild flower,
+Hold infinity in the palm of your hand,
+And eternity in an hour.
 
 # 23:53 Thu, Jul 6, 2023
 
@@ -82,7 +92,20 @@ Once I filled my hand with mist, Then I open it and lo, the mist was a worm, and
 @21:59
 
 ## Daily
-Tomorrow, Mom they would came, I called mom, they were ready for the trip.
+Tomorrow, Mom they would came, I called mom, they were ready for the trip. 
+Night, I bought the the little foods and watched the TVs.
+If I could save time in a bottle,
+the first thing that I'd like to do,
+is to save every day until eternity passes away,
+just to spend them with you,
+If I could save time in a bottle,
+the first thing that I'd like to do,
+is to save every day until eternity passes away,
+just to spend them with you,
+If I could make days last forever,
+if words could make wishes come true,
+I'd save every day like a treasure and then,
+again I would spend them with you
 
 # 23:53 Fri, Jul 7, 2023
 
@@ -141,8 +164,8 @@ The cloud was thick, I smoke under the Chahe station, and think a lot...
 >duck foods ￥54.90
 @16:11
 
-
 ## Daily
+Morning, 
 
 # 23:53 Mon, Jul 10, 2023
 
@@ -249,6 +272,7 @@ Morning, I decided to went back to Shanghai, and I ate the Cuijiefang for dinner
 @20:46
 
 ## Daily
+Morning, we got up early and then went outside for the travel  
 
 # 23:53 Mon, Jul 17, 2023
 

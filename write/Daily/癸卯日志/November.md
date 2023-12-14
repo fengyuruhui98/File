@@ -517,6 +517,7 @@ work day
 Langyashan with Jinguangyu and Wuxiaodao
 
 ## Daily
+Morning, I got up early at about 9:30am, then I waited for them, then they all get up at about 11:30am, then we went outside, we took the rail way 
 
 # 22:58 Sun, Nov 26, 2023
 
