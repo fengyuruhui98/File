@@ -280,6 +280,154 @@ Night Wangruijie refund the money I paid yesterday...
 @00:24
 >fee for refund to the Jingdong Baitiao 
 
+>douzhipin mianjin and suwanzi ￥10.00
+@11:50
+>ganhuodian ￥16
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Sat, Dec 16, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Sun, Dec 17, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Mon, Dec 18, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Tue, Dec 19, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Wed, Dec 20, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Thu, Dec 21, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Fri, Dec 22, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Sat, Dec 23, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Sun, Dec 24, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Mon, Dec 25, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Tue, Dec 26, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Wed, Dec 27, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
 ## Schedule 
 work day
 
