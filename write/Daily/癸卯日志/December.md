@@ -432,3 +432,63 @@ work day
 work day
 
 ## Daily
+
+# 22:58 Thu, Dec 28, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Fri, Dec 29, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>fee for refund to the Jingdong Baitiao 
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Sat, Dec 30, 2023
+
+## Cost: ￥ In: None
+>fee for transfer the money from Alipay to Card ￥2.02
+@00:24
+>Yong'an'xing from the river back to hotel ￥2.00
+@21:41
+>eleme hualaishi ￥26.89
+@22:11
+
+## Schedule 
+work day
+
+## Daily
+
+# 22:58 Sun, Dec 31, 2023
+
+## Cost: ￥ In: None
+>taxi from hotel to Jiaoshan ￥16.00
+@10:13
+>Yong'an'xing bycicle ￥2.00
+@12:56
+>Shouzhuabing at Beigushan ￥10.00
+@13:06
+>sausage ￥6.00
+@13:08 
+>Halou bycicle from Beigushan to Xijindu ￥1.50
+@14:48
+>taxi from Xijindu to Zhenjiangstation ￥8.09
+@16:40
+
+## Schedule 
+travel Jiaoshan beigushan xijindu at Zhenjiang jiangsu provience
+
+## Daily
