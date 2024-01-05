@@ -199,7 +199,7 @@ Morning, I got up at about
 @19:00
 
 ## Schedule 
-work day
+work day, first day for Pingpang.
 
 ## Daily
 Morning, I got up late at about 9:30am, then I went to work, I do the money job, then at afternoon, I played the LOL for the new skin, then we went for the mantou, and then we went back and bought the pingpang, then we went to play the ball for two hours, during those time I went back for dad to do the TV Job, then there was an old man and a young man there, we played together. And then we saw the old IG playing the game. 
@@ -236,7 +236,7 @@ The 1988 made me remind of Qianxiaoman, I wrote something for her to remember me
 @14:47
 >xuanhemen ￥20.00
 @18:57
->meituan fish ￥26:00
+>meituan fish ￥26.00
 @18:56
 >camera Weixin ￥5726.00
 @23:05
@@ -278,11 +278,18 @@ Night Wangruijie refund the money I paid yesterday...
 ## Cost: ￥ In: None
 >fee for transfer the money from Alipay to Card ￥2.02
 @00:24
->fee for refund to the Jingdong Baitiao 
-
+>fee for refund to the Jingdong Baitiao ￥4.31
+@00:25
+>Ximiannai ￥25.90
+@11:19
 >douzhipin mianjin and suwanzi ￥10.00
 @11:50
->ganhuodian ￥16
+>ganhuodian ￥16.00
+@11:55
+>Xuanhemen ￥23.00
+@17:20
+>transfee for the package ￥10.00
+@19:50
 
 ## Schedule 
 work day
@@ -292,9 +299,16 @@ work day
 # 22:58 Sat, Dec 16, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>others ￥34.00
+@11:41
+>luckin coffee ￥9.90
+@12:25
+>tianmao ￥22.87
+@13:23
+>xiangjitiezhi ￥59.00
+@13:46
+>xiangjidai ￥15.94
+@17:39
 
 ## Schedule 
 work day
@@ -304,9 +318,12 @@ work day
 # 22:58 Sun, Dec 17, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>aliyunpan VIP ￥20.00
+@01:45
+>eleme ziyanbaiweiji ￥29.60
+@12:19
+>Naicha ￥5.00
+@20:24
 
 ## Schedule 
 work day
@@ -316,9 +333,18 @@ work day
 # 22:58 Mon, Dec 18, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>eleme Hanshizhaji ￥27.76
+@00:02
+>meituan Malaxiangguo ￥19.88
+@12:16
+>SHaobing ￥4.00
+@17:01
+>cigerate ￥37.00
+@16:39
+>meituan Jinro ￥36.50
+@18:54
+>instant noodles and others ￥16.50
+@19:36
 
 ## Schedule 
 work day
@@ -328,9 +354,12 @@ work day
 # 22:58 Tue, Dec 19, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>Cainiao Xianyu shouxufei ￥7.90
+@16:46
+>Mantou and Mianlajiao ￥18.76
+@18:09
+>eleme Yangguofu ￥32.74
+@18:48
 
 ## Schedule 
 work day
@@ -340,9 +369,16 @@ work day
 # 22:58 Wed, Dec 20, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>Zhifubao huankuan ￥92.21
+@08:08
+>Shunfeng package ￥2.00
+@11:29
+>Shunfeng package ￥15.00
+@11:30
+>eleme yangguofu ￥33.74
+@18:28
+>eleme mixuebingcheng ￥22.40
+@20:15
 
 ## Schedule 
 work day
@@ -352,9 +388,18 @@ work day
 # 22:58 Thu, Dec 21, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>Nikon 12-24 f2.8g ￥3197.12
+@09:47
+>Nikon 24-70 f2.8g ￥2497.30
+@12:01
+>Trans to Dad ￥10000.00
+@12:03
+>eleme shaxianxiaochi ￥16.10
+@13:06
+>meituan Qiudaoyu ￥23.40
+@18:18
+>cigerate and others ￥47.00
+@21:41
 
 ## Schedule 
 work day
@@ -364,9 +409,14 @@ work day
 # 22:58 Fri, Dec 22, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>eleme Luyuanwai ￥19.50
+@12:47
+>eleme yangguofu ￥33.74
+@18:09
+>Aiqiyi sport VIP ￥9.00
+@23:32 
+>Lvchai fee ￥9440.00
+@17:54
 
 ## Schedule 
 work day
@@ -376,9 +426,14 @@ work day
 # 22:58 Sat, Dec 23, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>Nikon 24-70 f2.8 shunfeng fee ￥24.00
+@11:35
+>Leishen VPN ￥88.00
+@17:54
+>eleme yangguofu ￥23.72
+@18:33
+>eleme mixuebingcheng ￥25.70
+@22:35
 
 ## Schedule 
 work day
@@ -388,9 +443,8 @@ work day
 # 22:58 Sun, Dec 24, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>foods and others we bought together ￥42.50
+@17:14
 
 ## Schedule 
 work day
@@ -400,9 +454,14 @@ work day
 # 22:58 Mon, Dec 25, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>Huangshan ￥17.00
+@11:16
+>steam buy Shiyoudaheng ￥34.72
+@14:07
+>refund of steam games ￥34.72
+@15:38
+>Huawei Music Vip ￥9.60
+@21:57
 
 ## Schedule 
 work day
@@ -412,21 +471,29 @@ work day
 # 22:58 Tue, Dec 26, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>Kangyuan ￥44.02
+@11:16
+>hotel book at Zhenjiang ￥129.00
+@15:11
+>hotel book at Jurong ￥137.00
+@15:06
+>train from Chuzhoubei to Zhenjiang ￥19.50
+@14:52
+>train from nanjing to chuzhou ￥24.00
+@14:59
 
 ## Schedule 
-work day
+work day, Mom and Dad got COV-II
 
 ## Daily
 
 # 22:58 Wed, Dec 27, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>China's people's health insurence ￥2.00
+@10:35
+>Nikon 70-200 f2.8g ￥2890.00
+@16:20
 
 ## Schedule 
 work day
@@ -436,9 +503,14 @@ work day
 # 22:58 Thu, Dec 28, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>Jingdong baitiao ￥213.52
+@09:24
+>foods and meats we bought together ￥113.50
+@16:45
+>Movie at Zhongzhou of Haiwang 2 ￥83.00
+@19:36
+>red elevent from Jinguangyu and Wuxiaodao of the movie ￥56.00
+@19:44
 
 ## Schedule 
 work day
@@ -448,9 +520,12 @@ work day
 # 22:58 Fri, Dec 29, 2023
 
 ## Cost: ￥ In: None
->fee for transfer the money from Alipay to Card ￥2.02
-@00:24
->fee for refund to the Jingdong Baitiao 
+>sHANDIAN VPN ￥13.65
+@00:07
+>Nikon 70-200 f2.8g Shunfeng ￥27.00
+@14:17
+>Zhenjiang zhuanzhuan card ￥95.00
+@22:34
 
 ## Schedule 
 work day
@@ -462,6 +537,36 @@ work day
 ## Cost: ￥ In: None
 >fee for transfer the money from Alipay to Card ￥2.02
 @00:24
+>bus to Chuzhou bei station ￥2.00
+@06:48
+>jidanguanbing at Chuzhoubei station ￥6.00
+@07:12
+>hotel book at Zhenjinag ￥280.00
+@09:45
+>hotel refund at zhenjiang ￥137.00
+@09:45
+>hotel book at Jurong ￥241.00
+@09:49
+>hotel refund at Zhenjinag ￥129.00
+@09:49
+>hotel refund at Zhenjiang ￥280.00
+@09:51
+>hotel book at zhenjiang ￥229.00
+@09:52
+>hotel refund at Zhenjiang ￥69.00
+@09:54
+>taxi from hotel to Jinshan temple ￥8.50
+@10:25
+>taxi from Jinshan temple back to hotel ￥8.40
+@12:20
+>Guogaimian and Xiaorou ￥22.00
+@12:20
+>taxi from hotel to Nanshan ￥9.79
+@13:19
+>nanjing ￥22.00
+@16:31
+>Guogaimian and Xiaorou ￥22.00
+@18:03
 >Yong'an'xing from the river back to hotel ￥2.00
 @21:41
 >eleme hualaishi ￥26.89
@@ -483,10 +588,18 @@ work day
 @13:06
 >sausage ￥6.00
 @13:08 
+>Zhenjiangzhuanzhuan card ￥95.00
+@13:19
 >Halou bycicle from Beigushan to Xijindu ￥1.50
 @14:48
 >taxi from Xijindu to Zhenjiangstation ￥8.09
 @16:40
+>bus from Zhenjiang to Jurong ￥5.00
+@16:57
+>foods and alcohole ￥68.00
+@21:45
+>Jinyuan beef hotpot at zhenjiang ￥302.90
+@20:24
 
 ## Schedule 
 travel Jiaoshan beigushan xijindu at Zhenjiang jiangsu provience
