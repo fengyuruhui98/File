@@ -76,4 +76,129 @@ Maoshan, back to Chuzhou
 ## Schedule 
 Maoshan, back to Chuzhou
 
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Sat, Jan 6, 2023
+
+## Cost: ￥ In: None
+>instant noodles and the Nanjing ￥28.50
+@10:35
+
+## Schedule 
+Cycle day
+
+## Daily
+
+# 20:35 Sun, Jan 7, 2023
+
+## Cost: ￥ In: None
+
+## Schedule 
+rest day
+
+## Daily
+
+# 20:35 Mon, Jan 8, 2023
+
+## Cost: ￥ In: None
+>foods for hot pot ￥148.60
+@17:35
+>refund from Jingaungyu and Wuxiaodao ￥100.00
+@17:09
+>china mobile fee ￥50.00
+@20:24
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Tue, Jan 9, 2023
+
+## Cost: ￥ In: None
+>friutes and meats and others ￥71.00
+@19:29
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Wed, Jan 10, 2023
+
+## Cost: ￥ In: None
+
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Thu, Jan 11, 2023
+
+## Cost: ￥ In: None
+>camera repair ￥850.00
+@17:07
+>huangshan and the drinks ￥38.00
+@20:48
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Fri, Jan 12, 2023
+
+## Cost: ￥ In: None
+>china people's insurence fee ￥2.00
+@10:35
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Sat, Jan 13, 2023
+
+## Cost: ￥ In: None
+>cola ￥8.00
+@16:43
+>rice ￥12.00
+@16:44
+
+## Schedule 
+pingpang day
+
+## Daily
+
+# 20:35 Sun, Jan 14, 2023
+
+## Cost: ￥31.61 In: None
+>ticket for the temple ￥30.00
+@12:30
+>foods in the temple ￥60.00
+@12:40
+>refund of Jinguangyu and Wuxiaodao ￥60.00
+@12:43
+>Dacong ￥1.61
+@15:40
+
+## Schedule 
+Langyashan, new cloth
+
+## Daily
+
+# 20:35 Mon, Jan 15, 2023
+
+## Cost: ￥ In: None
+>haungshan for two ￥34.00
+@10:05
+
+## Schedule 
+workday
+>>>>>>> 88b03a2 (zhengdong-20240202)
+
 ## Daily
