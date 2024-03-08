@@ -1,4 +1,4 @@
-# 20:35 Mon, Jan 1, 2023
+# 20:35 Mon, Jan 1, 2024
 
 ## Cost: ￥ In: None
 >red elevent from Wuxaodao and Jinguangyu ￥200.00
@@ -30,7 +30,7 @@ Maoshan, back to Chuzhou
 ## Daily
 Morning, we got up late at about 8:40, then we went to ate the breakfast at the hotel and then we found that we may can't get the bus ahead for Jurong. Then we took the taxi, and there I 
 
-# 20:35 Tue, Jan 2, 2023
+# 20:35 Tue, Jan 2, 2024
 
 ## Cost: ￥ In: None
 >Shunfeng check in ￥50.00
@@ -41,7 +41,7 @@ Maoshan, back to Chuzhou
 
 ## Daily
 
-# 20:35 Wed, Jan 3, 2023
+# 20:35 Wed, Jan 3, 2024
 
 ## Cost: ￥ In: None
 >instant noodles and Huangshan ￥29.00
@@ -54,7 +54,7 @@ Maoshan, back to Chuzhou
 
 ## Daily
 
-# 20:35 Thu, Jan 4, 2023
+# 20:35 Thu, Jan 4, 2024
 
 ## Cost: ￥ In: None
 >Zhenjinagyaorou ￥168.40
@@ -67,7 +67,7 @@ Maoshan, back to Chuzhou
 
 ## Daily
 
-# 20:35 Fri, Jan 5, 2023
+# 20:35 Fri, Jan 5, 2024
 
 ## Cost: ￥ In: None
 >Gongzi ￥6999.94
@@ -81,7 +81,7 @@ work day
 
 ## Daily
 
-# 20:35 Sat, Jan 6, 2023
+# 20:35 Sat, Jan 6, 2024
 
 ## Cost: ￥ In: None
 >instant noodles and the Nanjing ￥28.50
@@ -92,7 +92,7 @@ Cycle day
 
 ## Daily
 
-# 20:35 Sun, Jan 7, 2023
+# 20:35 Sun, Jan 7, 2024
 
 ## Cost: ￥ In: None
 
@@ -101,7 +101,7 @@ rest day
 
 ## Daily
 
-# 20:35 Mon, Jan 8, 2023
+# 20:35 Mon, Jan 8, 2024
 
 ## Cost: ￥ In: None
 >foods for hot pot ￥148.60
@@ -116,7 +116,7 @@ work day
 
 ## Daily
 
-# 20:35 Tue, Jan 9, 2023
+# 20:35 Tue, Jan 9, 2024
 
 ## Cost: ￥ In: None
 >friutes and meats and others ￥71.00
@@ -127,17 +127,18 @@ work day
 
 ## Daily
 
-# 20:35 Wed, Jan 10, 2023
+# 20:35 Wed, Jan 10, 2024
 
 ## Cost: ￥ In: None
-
+>china mobile fee ￥50.00
+@20:24
 
 ## Schedule 
 work day
 
 ## Daily
 
-# 20:35 Thu, Jan 11, 2023
+# 20:35 Thu, Jan 11, 2024
 
 ## Cost: ￥ In: None
 >camera repair ￥850.00
@@ -150,7 +151,7 @@ work day
 
 ## Daily
 
-# 20:35 Fri, Jan 12, 2023
+# 20:35 Fri, Jan 12, 2024
 
 ## Cost: ￥ In: None
 >china people's insurence fee ￥2.00
@@ -161,7 +162,7 @@ work day
 
 ## Daily
 
-# 20:35 Sat, Jan 13, 2023
+# 20:35 Sat, Jan 13, 2024
 
 ## Cost: ￥ In: None
 >cola ￥8.00
@@ -174,7 +175,7 @@ pingpang day
 
 ## Daily
 
-# 20:35 Sun, Jan 14, 2023
+# 20:35 Sun, Jan 14, 2024
 
 ## Cost: ￥31.61 In: None
 >ticket for the temple ￥30.00
@@ -191,7 +192,7 @@ Langyashan, new cloth
 
 ## Daily
 
-# 20:35 Mon, Jan 15, 2023
+# 20:35 Mon, Jan 15, 2024
 
 ## Cost: ￥ In: None
 >haungshan for two ￥34.00
@@ -199,6 +200,190 @@ Langyashan, new cloth
 
 ## Schedule 
 workday
->>>>>>> 88b03a2 (zhengdong-20240202)
+
+## Daily
+
+# 20:35 Tue, Jan 16, 2024
+
+## Cost: ￥ In: None
+>ticket from Nanjing to Zhumadina ￥312.00
+@08:01
+>ticket from Nanjing to Zhumadina ￥368.00
+@08:13
+>ticket from Nanjing to Zhumadina ￥312.00
+@08:17
+>refund of the ticket from Nanjingnan to Zhumadina ￥368.00
+@14:29
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Wed, Jan 17, 2024
+
+## Cost: ￥ In: None
+
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Thu, Jan 18, 2024
+
+## Cost: ￥ In: None
+>aliyun ￥20.00
+@01:45
+>wangyiyun VIP ￥39.00
+@08:57
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Fri, Jan 19, 2024
+
+## Cost: ￥ In: None
+>refund of the ticket from Nanjing to Zhumadian ￥245.00 ￥67.00
+@17:30
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Sat, Jan 20, 2024
+
+## Cost: ￥ In: None
+>others ￥16.00
+@15:38
+>cigeritee ￥22.00
+@15:40
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Sun, Jan 21, 2024
+
+## Cost: ￥ In: None
+>return of the Jiebei ￥1115.83
+@08:36
+>cola at the play ground of pingpang ￥4.00
+@16:40
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Mon, Jan 22, 2024
+
+## Cost: ￥ In: None
+>cigeritee ￥20.00
+@18:11
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Tue, Jan 23, 2024
+
+## Cost: ￥ In: None
+>cigeritee ￥22.00
+@15:46
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Wed, Jan 24, 2024
+
+## Cost: ￥ In: None
+
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Thu, Jan 25, 2024
+
+## Cost: ￥ In: None
+>Luyuanwai ￥7.50
+@08:56
+
+## Schedule 
+went to Xiangguan 
+
+## Daily
+
+# 20:35 Fri, Jan 26, 2024
+
+## Cost: ￥ In: None
+
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Sat, Jan 27, 2024
+
+## Cost: ￥ In: None
+>china people's insurence ￥2.00
+@10:33
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Sun, Jan 28, 2024
+
+## Cost: ￥ In: None
+>cola at the pingpang play ground ￥12.00
+@17:32 
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Mon, Jan 29, 2024
+
+## Cost: ￥ In: None
+
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Tue, Jan 30, 2024
+
+## Cost: ￥ In: None
+>China mobile VIP fee ￥1.99
+@11:22
+>china mobile fee ￥30.00
+@11:21
+
+## Schedule 
+work day
+
+## Daily
+
+# 20:35 Wed, Jan 31, 2024
+
+## Cost: ￥ In: None
+
+
+## Schedule 
+work day
 
 ## Daily
