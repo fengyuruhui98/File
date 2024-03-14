@@ -86,6 +86,12 @@ work day
 ## Cost: ￥ In: None
 >instant noodles and the Nanjing ￥28.50
 @10:35
+>cycle fee ￥8.00
+@15:51
+>cycle fee ￥1.00
+@17:01
+>transfer to Guangyu ￥21.00
+@20:01
 
 ## Schedule 
 Cycle day
@@ -110,6 +116,10 @@ rest day
 @17:09
 >china mobile fee ￥50.00
 @20:24
+>ciger ￥44.00
+@13:06
+>instant noodles and others ￥22.00
+@18:29
 
 ## Schedule 
 work day
@@ -120,6 +130,10 @@ work day
 
 ## Cost: ￥ In: None
 >friutes and meats and others ￥71.00
+@19:29
+>red elevent from Jinguangyu and Wuxiaodao ￥100.00
+@17:09
+>transfer to Wuxiaodao ￥71.00
 @19:29
 
 ## Schedule 
@@ -165,6 +179,8 @@ work day
 # 20:35 Sat, Jan 13, 2024
 
 ## Cost: ￥ In: None
+>Senma Yueongfu ￥213.99
+@13:32
 >cola ￥8.00
 @16:43
 >rice ￥12.00
@@ -214,6 +230,10 @@ workday
 @08:17
 >refund of the ticket from Nanjingnan to Zhumadina ￥368.00
 @14:29
+>transfer to Guangyu ￥66.00
+@18:24
+>transfer to Lichongbin ￥75.00
+@13:54
 
 ## Schedule 
 work day
@@ -223,7 +243,8 @@ work day
 # 20:35 Wed, Jan 17, 2024
 
 ## Cost: ￥ In: None
-
+>aliyun VIP ￥20.00
+@01:45
 
 ## Schedule 
 work day
@@ -248,6 +269,8 @@ work day
 ## Cost: ￥ In: None
 >refund of the ticket from Nanjing to Zhumadian ￥245.00 ￥67.00
 @17:30
+>ciger and others ￥25.00
+@16:38
 
 ## Schedule 
 work day
@@ -257,10 +280,16 @@ work day
 # 20:35 Sat, Jan 20, 2024
 
 ## Cost: ￥ In: None
+>Huabei ￥1525.07
+@08:26
+>others ￥26.74
+@12:02
 >others ￥16.00
 @15:38
 >cigeritee ￥22.00
 @15:40
+>transfer to Lichongbin ￥20.00
+@18:32
 
 ## Schedule 
 work day
@@ -272,8 +301,16 @@ work day
 ## Cost: ￥ In: None
 >return of the Jiebei ￥1115.83
 @08:36
+>jingdongbaitiao ￥540.60
+@09:27
+>transfer to Gunagyu ￥17.00
+@13:39
+>ticket for the ground in Pingpang ￥15.00
+@14:43
 >cola at the play ground of pingpang ￥4.00
 @16:40
+>ciger ￥27.00
+@20:24
 
 ## Schedule 
 work day
@@ -283,8 +320,12 @@ work day
 # 20:35 Mon, Jan 22, 2024
 
 ## Cost: ￥ In: None
+>Tormon 28-300 A06 ￥649.00
+@14:17
 >cigeritee ￥20.00
 @18:11
+>transfer to Lichongbin ￥90.00
+@19:50
 
 ## Schedule 
 work day
@@ -296,6 +337,8 @@ work day
 ## Cost: ￥ In: None
 >cigeritee ￥22.00
 @15:46
+>transfer to Lichongbin ￥86.00
+@17:29 
 
 ## Schedule 
 work day
@@ -305,7 +348,16 @@ work day
 # 20:35 Wed, Jan 24, 2024
 
 ## Cost: ￥ In: None
-
+>cigerate ￥18.00
+@13:31
+>instant noodles ￥17.00
+@18:47
+>transfer to Lichongbin ￥74.00
+@18:50
+>seeds of seamon and others ￥20.00
+@21:52
+>cola ￥7.00
+@21:54
 
 ## Schedule 
 work day
@@ -317,6 +369,18 @@ work day
 ## Cost: ￥ In: None
 >Luyuanwai ￥7.50
 @08:56
+>others ￥11.00
+@12:06
+>Ulanzi sanjiaojia ￥831.42
+@14:22
+>Louxia store ￥48.00
+@17:04
+>red elevent from Wuxiaodao and Lisi and Jinguangyu ￥44.00
+@17:52
+>transfer to Lisi ￥8.00
+@17:52
+>ciger ￥17.00
+@19:37
 
 ## Schedule 
 went to Xiangguan 
@@ -326,7 +390,10 @@ went to Xiangguan
 # 20:35 Fri, Jan 26, 2024
 
 ## Cost: ￥ In: None
-
+>eleme medicine ￥23.90
+@18:40
+>ciger ￥22.00
+@19:34
 
 ## Schedule 
 work day
@@ -347,8 +414,14 @@ work day
 # 20:35 Sun, Jan 28, 2024
 
 ## Cost: ￥ In: None
+>jingdong baitiao ￥1016.76
+@09:26
 >cola at the pingpang play ground ￥12.00
 @17:32 
+>ciger ￥23.00
+@12:43
+>ground fee of the Pingpang ￥15.00
+@20:23
 
 ## Schedule 
 work day
@@ -358,7 +431,8 @@ work day
 # 20:35 Mon, Jan 29, 2024
 
 ## Cost: ￥ In: None
-
+>ciger ￥23.00
+@20:17
 
 ## Schedule 
 work day
@@ -381,7 +455,10 @@ work day
 # 20:35 Wed, Jan 31, 2024
 
 ## Cost: ￥ In: None
-
+>others ￥20.00
+@09:50
+>Xintai store ￥13.90
+@17:10
 
 ## Schedule 
 work day
