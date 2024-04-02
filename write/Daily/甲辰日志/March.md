@@ -222,3 +222,52 @@ work day at Ningbo
 Morning, I got up at about 08:00 and then I went to eat the breakfast and then I waited Wumin under the building and then we went there together, when we waited the taxi, Wumin and I stand under the bus station and then he said the my salary would raise this year...
 Then we woked together all day and ate at the canteen of the building, ninght we went back early, and Wumin said thet I should stay here more.
 Some bad feeling crashed me when Wumin called jinguangyu and said that he would went to Hangzhou and I have to stay here, and without knowing when would be the matter things came to me. Some kind of Sadness, but whatever, think bigger... 
+
+# 23:07 Fri, Mar 15, 2024
+
+## Cost: ￥149.40 In: ￥500.00
+>rail way from Simingzhonglu to Nantanglu ￥3.00
+@09:12
+>taxi from hotel to the company ￥12.40
+@09:28
+>Transfer from Lisi ￥500.00
+@10:19
+>foods ate at the cantoon of the Ningbo metro ￥12.00
+@11:32
+>dinner at the cantoon of the company ￥21.00
+@17:21
+>ciger of Zhongnanhai ￥50.00
+@18:07
+>rail way from the company back to hotel ￥3.00
+@18:09
+>eleme Jueweiyabo ￥48.00
+@18:30
+
+## Schedule 
+work day at Ningbo
+
+## Daily
+Morning, I got up late at about 8:30am, then I went to ate the breakfast and fortunately I didn't met Wumin and then I went to the company, there was cloudy, then we worked all the day, tired, night we went back together, by the bus for the employee. I planned to pay a visit to the Putuo mountain, however without my camera...
+PS: FCByren VS Arsena... 
+
+# 21:47 Sat, Mar 16, 2024
+
+## Cost: ￥79.83 In: None
+>rail way from Simingzhonglu to Nantanglu ￥3.00
+@10:02
+>taxi from hotel to the company ￥13.37
+@10:07
+>foods ate at the cantoon of the Ningbo metro ￥9.00
+@11:45
+>dinner at the cantoon of the company ￥15.50
+@17:25
+>rail way from the company back to hotel ￥3.00
+@18:06
+>eleme xijiezhachuan ￥35.96
+@20:54
+
+## Schedule 
+work day at Ningbo
+
+## Daily
+Morning, I wake up at about 9:00am, then I ate the breakfast and went to the company, mom and sis and dad may went to the Montain, We worked until 17:00pm, then we went back. I delayed my travel and planned to went to Zhoushan the Putuo montain. Hope there would be a good place...
