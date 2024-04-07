@@ -27,7 +27,7 @@ Time plus concentrate Rate
 >O---￥35.60
 
 ## Schedule 
-xiangguan
+work day
 
 ## Daily
 
@@ -73,6 +73,8 @@ xiangguan
 home and mutton
 
 ## Daily
+Morning, we went to Xiangguan, then at afternoon, we went to check the card of the Ranqi, then we drive cross the mutton shop, we went first and they didn't open, and at about 16:00pm, Wuxiaodao went to the shop and bought the mutton..
+Night I waited until 3:00am.
 
 
 # 21:47 Thu, Apr 4, 2024
@@ -93,7 +95,7 @@ home and mutton
 back home
 
 ## Daily
-
+Morning, I got up at about 5:00am, and then we left, I slept on the road, we got home at about 12:30am, I took the 50 1.8d and the 24-70 2.8g, then we ate the soup of the fish...
 
 # 21:47 Fri, Apr 5, 2024
 
@@ -113,6 +115,7 @@ back home
 stay home
 
 ## Daily
+Today, we stayed home, we took photoes at the garden for the Yinghua, then we went to grandpa and took him home, noon, we ate the mutton soup and the night we went bed early.
 
 
 # 21:47 Sat, Apr 6, 2024
@@ -135,5 +138,31 @@ stay home
 back Chuzhou
 
 ## Daily
+Morning, we got up at about 5:40am, and then we left home, we drived all the noon, and got Chuzhou at about 12:30am, Then we went to the Renyitucaiguan, we ate the Guotie, Suancaiyu, Sun with Du, tomato egg soup and YUmibing. Afternoon, I stayed home... They got shanghai at about 23:00.
 
+# 23:16 Sun, Apr 7, 2024
+
+## PE E---￥67.72 In: None Cost: ￥67.72
+>Jizhua and MianLajiao ￥15.92
+@19:21
+>Mixuebingcheng ￥8.00
+@19:21
+>eleme Jinro ￥43.80
+@19:45
+
+## PDCA
+### PEL
+>N---￥210.00
+>E---￥34.28
+>O---￥34.60
+
+## Schedule 
+work day
+
+## Daily
+Morning, I got up and ate the Xiangchang, Lichongbin went to the movie and Wuxiaodao went to Nanjing, Noon, I do the work of the Bom no cash, lunch we ate the tomato with eggs and the gabbage, night we ate the duck and the chicken.
+Today, I felt very upside of the work and the caree and others about how could I made a live, and others, Zhumadian 1314 sended me message that a girl was connected to me and I have to pay to connect with her...
+night I watched the game and played some...
+
+PS: I have to buy the bottle for grandpa, and I put the 70-200 2.8g on the Xianyu...
 
