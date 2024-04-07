@@ -271,3 +271,228 @@ work day at Ningbo
 
 ## Daily
 Morning, I wake up at about 9:00am, then I ate the breakfast and went to the company, mom and sis and dad may went to the Montain, We worked until 17:00pm, then we went back. I delayed my travel and planned to went to Zhoushan the Putuo montain. Hope there would be a good place...
+
+# 21:47 Sun, Mar 17, 2024
+
+## Cost: ￥125.89 In: None
+>eleme Yangguofu ￥30.55
+@18:20
+>Zhongnanhai and the lighter ￥57.00
+@18:23
+>eleme little foods ￥38.34
+@22:31
+
+## Schedule 
+relax day at Ningbo
+
+# 21:47 Mon, Mar 18, 2024
+
+## Cost: ￥54.40 In: None
+>train from hotel to Gaotangqiao ￥3.00
+@09:13
+>taxi from Gaotangqiao to the company ￥12.40
+@09:22
+>lunch at the canteen ￥10.00
+@11:49
+>dinner at the canteen ￥12.00
+@17:21
+>kaohongshu ￥14.00
+@18:10
+>train from Gaotangqiao back hotel ￥3.00
+@18:13
+
+## Schedule 
+work day at Ningbo
+
+# 21:47 Tue, Mar 19, 2024
+
+## Cost: ￥65.10 In: None
+>train from hotel to Gaotangqiao ￥3.00
+@09:09
+>lunch at the canteen ￥12.00
+@11:52
+>dinner at the canteen ￥19.00
+@17:23
+>train from Gaotangqiao back hotel ￥3.00
+@18:13
+>eleme Jueweiyabo ￥28.10
+@19:02
+
+## Schedule 
+work day at Ningbo
+
+# 21:47 Wed, Mar 20, 2024
+
+## Cost: ￥1142.77 In: None
+>train from hotel to Gaotangqiao ￥3.00
+@09:13
+>huabei ￥823.99
+@10:23
+>lunch at the canteen ￥16.50
+@12:05
+>Wanbaolu ￥245.00
+@16:19
+>dinner at the canteen ￥15.00
+@17:35
+>taxi from Gaotangqiao to the company ￥11.88
+@18:04
+>train from Gaotangqiao back hotel ￥3.00
+@18:25
+>eleme Guming ￥24.40
+@20:15
+
+## Schedule 
+work day at Ningbo
+
+# 21:47 Thu, Mar 21, 2024
+
+## Cost: ￥1759.56 In: None
+>Jiebei haunkuan ￥1115.83
+@08:39
+>train from hotel to Gaotangqiao ￥3.00
+@09:20
+>jingdong baitiao ￥540.59
+@09:21
+>taxi from Gaotangqiao to the company ￥11.15
+@09:26
+>China mobile VVip ￥1.99
+@11:06
+>lunch at the canteen ￥12.00
+@11:41
+>dinner at the canteen ￥23.00
+@17:17
+>little foods and drink ￥49.00
+@18:20
+>train from Gaotangqiao back hotel ￥3.00
+@18:18
+
+## Schedule 
+work day at Ningbo
+
+# 21:47 Fri, Mar 22, 2024
+
+## Cost: ￥58.44 In: None
+>train from hotel to Gaotangqiao ￥4.00
+@10:06
+>eleme Zhangliang ￥27.44
+@13:43
+>train form Chuzhou to Nanjing ￥27.00
+@21:58
+
+## Schedule 
+work day at Ningbo
+
+# 21:47 Sat, Mar 23, 2024
+
+## Cost: ￥89.14 In: ￥21.50
+>Luyuanwai ￥7.50
+@08:37
+>eleme Zhangliang ￥27.44
+@14:00
+>eleme Hualaishi ￥32.70
+@20:57
+>refund of the train ￥21.50
+@08:15
+
+## Schedule 
+plan to Nanjing but not left
+
+# 21:47 Sun, Mar 24, 2024
+
+## Cost: ￥353.94 In: ￥217.63
+>eleme Zhangliang ￥27.44
+@11:55
+>foods bought ￥326.50
+@17:36
+>transfer from Wuxiaodao ￥108.83
+@18:46
+>transfer from Lichongbin ￥108.80
+@18:45
+
+## Schedule 
+work day
+
+# 21:47 Mon, Mar 25, 2024
+
+## Cost: ￥9.90 In: None
+>Luckin coffee ￥9.90
+@16:06
+
+## Schedule 
+work day
+
+# 21:47 Tue, Mar 26, 2024
+
+## Cost: ￥42.00 In: None
+>cigeratee and others ￥42.00
+@22:06
+
+## Schedule 
+work day
+
+# 21:47 Wed, Mar 27, 2024
+
+## Cost: ￥6.00 In: None
+>china people's healthy insurence ￥2.00
+@10:32
+>transfer to Wuxiaodao for the little things like sault ￥4.00
+@11:53
+
+## Schedule 
+work day
+
+# 21:47 Thu, Mar 28, 2024
+
+## Cost: ￥678.11 In: None
+>jingdongbaitiao ￥272.73
+@09:22
+>eleme Zhangliang ￥28.44
+@11:50
+>Shaobing ￥3.00
+@16:56
+>melon seeds and others ￥20.00
+@16:58
+
+## Schedule 
+we went to the other side of the moutain besides the Linlouxiaoqu
+
+# 21:47 Fri, Mar 29, 2024
+
+## Cost: ￥92.89 In: ￥25.00
+>Wanbaolu bought by Lichongbin ￥25.00
+@12:14
+>Shunfeng for the camera ￥15.00
+@12:34
+>eleme Zhangliang spicy ￥28.44
+@18:35
+>eleme mixuebingcheng ￥24.45
+@22:13
+
+## Schedule 
+work day
+
+# 21:47 Sat, Mar 30, 2024
+
+## Cost: ￥95.44 In: None
+>Luyuanwai ￥7.50
+@09:59
+>foods and water ￥30.00
+@11:00
+>taxi from Langyashan to rail way station ￥8.94
+@17:41
+>instant noodles and others ￥49.00
+@18:27
+
+## Schedule 
+climb the Langya moutain
+
+# 21:47 Sun, Mar 31, 2024
+
+## Cost: ￥49.00 In: None
+>cigeratee and others ￥40.00
+@14:31
+>aiqiyi sport VIP ￥9.00
+@21:58
+
+## Schedule 
+relax day
