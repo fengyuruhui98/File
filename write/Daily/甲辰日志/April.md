@@ -166,3 +166,25 @@ night I watched the game and played some...
 
 PS: I have to buy the bottle for grandpa, and I put the 70-200 2.8g on the Xianyu...
 
+# 23:22 Mon, Apr 8, 2024
+
+## PE N---105.40 O---￥6.39 In: None Cost: ￥111.79
+>china people's health insurence ￥6.39
+@10:56
+>Foods and vegetables ￥105.40
+@18:46
+
+## PDCA
+### PEL
+>N---￥104.60
+>E---￥34.28
+>O---￥28.21
+
+## Schedule 
+work day
+
+## Daily
+Morning, I got up at about 10:00am, then noon we ate the sausage, the gabbage, and the others.
+Noon, the sky went blue, I called Mom, and Shanghai was rainy, afternoon, I do the study of the King Base, afternoon, we went to buy some foods, Lichongbin son of bitch, only got those ugly foods, awww....
+
+PS: watched Zichuan and no study.
