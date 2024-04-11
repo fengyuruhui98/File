@@ -188,3 +188,48 @@ Morning, I got up at about 10:00am, then noon we ate the sausage, the gabbage, a
 Noon, the sky went blue, I called Mom, and Shanghai was rainy, afternoon, I do the study of the King Base, afternoon, we went to buy some foods, Lichongbin son of bitch, only got those ugly foods, awww....
 
 PS: watched Zichuan and no study.
+
+# 23:41 Tue, Apr 9, 2024
+
+## PE N---20.00 E---￥95.99 O---5.90 In: None Cost: ￥121.89
+>HUangshan cigeratee ￥32.00
+@11:17
+>Mom's mobile fee ￥20.00
+@13:03
+>Hotmax for Lichongbin ￥5.90
+@19:54
+>Luckin coffee at the Zhongzhou ￥9.90
+@20:07
+>Zhutourou ￥29.00
+@20:38
+>Zhongnanhai ￥25.00
+@20:40
+
+## PDCA
+### PEL
+>N---￥84.60
+>E---￥-61.71
+>O---￥22.31
+
+## Schedule 
+work day
+
+## Daily
+Moring, I didn't get up until 10:30am, then I do the work that Wumin told me, night we went to fitness center with Wuxiaodao and Lichongbin, there was some birds and animals. Then we went back, I bought some meats and drinked a lot.
+Then I called CHN, we talked about 37minutes, we talked about the fature, I asked her if We could stay together for life long, she said that would be instant, and the foods I cooked she likes, but she said that she wouldn't be instant, she wouldn't know if she can carry on for such long.... I don't know what to do.... 
+
+# 23:41 Tue, Apr 9, 2024
+
+## PE In: None Cost: None
+
+## PDCA
+### PEL
+>N---￥84.60
+>E---￥-61.71
+>O---￥22.31
+
+## Schedule 
+work day
+
+## Daily
+Night I watched the game between Byren and Arsena, they made 2:2, and Morning, I was waked by the noise, then I slept on the chair with the headphone, noon, we ate the chicken, I took a shower afternoon, and made the decision to went to Xianggaun tomorrow, then I slept early at night. 
