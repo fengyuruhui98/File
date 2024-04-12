@@ -218,7 +218,7 @@ work day
 Moring, I didn't get up until 10:30am, then I do the work that Wumin told me, night we went to fitness center with Wuxiaodao and Lichongbin, there was some birds and animals. Then we went back, I bought some meats and drinked a lot.
 Then I called CHN, we talked about 37minutes, we talked about the fature, I asked her if We could stay together for life long, she said that would be instant, and the foods I cooked she likes, but she said that she wouldn't be instant, she wouldn't know if she can carry on for such long.... I don't know what to do.... 
 
-# 23:41 Tue, Apr 9, 2024
+# 23:41 Wed, Apr 10, 2024
 
 ## PE In: None Cost: None
 
@@ -233,3 +233,50 @@ work day
 
 ## Daily
 Night I watched the game between Byren and Arsena, they made 2:2, and Morning, I was waked by the noise, then I slept on the chair with the headphone, noon, we ate the chicken, I took a shower afternoon, and made the decision to went to Xianggaun tomorrow, then I slept early at night. 
+
+# 23:41 Thu, Apr 11, 2024
+
+## PE N---￥69.00 E---￥52.00 O---￥58.00 In: None Cost: ￥179.00
+>lunch at the canteen ￥19.00
+@11:51
+>China mobile fee ￥50.00
+@12:33
+>Ice creame at Mixuebingcheng ￥2.00
+@16:21
+>Jujube for Sis ￥58.00
+@17:46
+>Zhongnanhai ￥50.00
+@19:24
+
+## PDCA
+### PEL
+>N---￥15.60
+>E---￥-113.71
+>O---￥-35.69
+
+## Schedule 
+work day, Xiangguan
+
+## Daily
+Morning, I wake up early and I drinked the Rice powder, tastes not bad, then Wuxiaodao and I went to xiangguan at about 9:30am, and we got there after the train and about half an hour walk, then we worked all the morning, noon, I ate the chicken leggs and the fish and the others, the afternoon, we went back took the car of BMW X3 by the employee of the conmany, then we went to ate the ice creame and then we went back.
+
+# 23:35 Thu, Apr 12, 2024
+
+## PE E---￥13.00 In: None Cost: ￥13.00
+>Cola and Jizhua ￥13.00
+@17:36
+
+## PDCA
+### PEL
+>N---￥15.60
+>E---￥-126.71
+>O---￥-35.69
+
+## Schedule 
+work day
+
+## Daily
+Morning, I planned to get up early and went to take some photoes but got up at about 10:00am, then we watched the video.
+Noon we ate the Xihulu and the others, night I cooked the chicken and took some photoes, night we planned to went to the Niushoushan tomorrow.
+
+PS:CHN and I talked a little, we talked about her acute appendicitis...
