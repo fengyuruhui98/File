@@ -380,18 +380,20 @@ Night Lichongbin and I went to ate the Zhachuan...
 
 # 23:00 Tue, Apr 16, 2024
 
-## PE N---￥11.00 E---￥5.00 O---￥252.26 In: None Cost: ￥268.26
+## PE N---￥11.00 E---￥35.50 O---￥252.26 In: None Cost: ￥298.76
 >instant noodles and Jizhua ￥11.00
 @12:39
 >Dianchi for D810 ￥252.26
 @18:36
 >Jizhua bought by Wuxiaodao ￥5.00
 @18:47
+>foods bought about the snakes ￥30.50
+@23:52
 
 ## PDCA
 ### PEL
 >N---￥-161.49
->E---￥-223.71
+>E---￥-254.21
 >O---￥-312.45
 
 ## Schedule 
@@ -404,9 +406,148 @@ Night we ate the noodles.
 
 PS:I wouldn't do this any more. Pushing past limit. The pain of self-discipline is as light as a feather, and the pain of regret is heavier than Mount Tai!!!
 
+# 23:00 Wed, Apr 17, 2024
 
+## PE N---￥71.50 E---￥25.00 In: None Cost: ￥96.50
+>Suyan ￥23.00
+@15:29
+>ice creame ￥2.00
+@16:44
+>transfer to Wuxiaodao for the foods ￥71.50
+@18:23
 
+## PDCA
+### PEL
+>N---￥-232.99
+>E---￥-279.21
+>O---￥-312.45
 
+## Schedule 
+work day
+
+## Daily
+Work day, we went to the company afternoon at about 15:30pm, and then we went shopping and we bought the foods. Before we bought the foods Wuxiaodao and I went to the Mixuebingcheng 
+we bought the ice creame, and Lichongbin felt very unhappy...
+
+# 23:00 Thu, Apr 18, 2024
+
+## PE N---￥10.00 E---￥718.00 In: None Cost: ￥728.00
+>Baozi and doujiang ￥10.00
+@06:42
+>check and other for the 70-200 ￥668.00
+@16:25
+>Zhongnanhai ￥50.00
+@22:21
+
+## PDCA
+### PEL
+>N---￥-242.99
+>E---￥-997.21
+>O---￥-312.45
+
+## Schedule 
+work day
+
+## Daily
+Morning, I wake up at about 4:30am, then I watched the play between FC Byren and Arsena, Byren win the game, and Real Mardery win the Manchester City.
+When I went to bed for sleep I saw the sun slowly down on the fog through the trees, then I went to photo and the view was wonderful.
+Afternoon, I PS the picture and post them on the 500px, CHN asked me if I took the photo....
+
+# 23:00 Fri, Apr 19, 2024
+
+## PE E---￥69.64 O---￥21.24 In: None Cost: ￥90.88
+>eleme Hualaishi ￥34.90
+@00:38
+>Jizhua ￥5.00
+@18:14
+>Zhegunagzhao for the 70-200 ￥21.24
+@17:30
+>Meituan chicken ￥29.74
+@22:09
+
+## PDCA
+### PEL
+>N---￥-242.99
+>E---￥-1066.85
+>O---￥-333.69
+
+## Schedule 
+work day
+
+## Daily
+Wake up late, work day, Son of bitch Yinxiaowei and Zhangkaidi called me a lot.... and do the senior cards.
+We plan to Nanjing tomorrow...
+
+# 23:00 Sat, Apr 20, 2024
+
+## PE N---￥41.80 E---￥86.00 O---￥1095.08 In: None Cost: ￥1222.88
+>Wangyiyun VIP ￥39.00 -O
+@05:49 
+>bus from Chahe to Linchang ￥3.00 -N
+@10:36
+>Huabei ￥1056.08 -O
+@10:43
+>rail way from Linchang to Dachangdong ￥4.00 -N
+@11:22
+>rail way back from Dachangdong ￥4.00 -N
+@15:58
+>bus from Linchang back to Chahe ￥3.00 -N
+@16:02
+>Baozi and doujiang ￥9.00 -N
+@09:41
+>water and the chicken legs ￥11.00 -N
+@09:44
+>corn ￥3.80 -N
+@11:27
+>drinks transfer to Wuxiaodao ￥4.00 -E
+@11:30
+>cola and the jizhua ￥18.00 -E
+@17:05
+>Zhutourou and Liangcai ￥43.00 -E
+@17:08
+>Shaobing ￥4.00 -N
+@17:09
+>beer and in stant noodles ￥21.00 -E
+@17:18
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1152.85
+>O---￥-1428.77
+
+## Schedule 
+Mountain day
+
+## Daily
+Morning, we got up at about 9:00am, and then I wash my hair then we went to ate some foods and went ahead Nanjing, we got there, long and long way, we use the hole on the wall 
+then we saw the Damo there. Son of bitches Wuxiaodao leads wrong and wrong way....
+Then at about 15:00, I went back and Wuxiaodao went to Suzhou.
+Night I found that the flower I photoed was passed at the 500px, so exciting!!!
+
+# 22:30 Sun, Apr 21, 2024
+
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+>Jiebei ￥1115.83
+@08:37
+>Nanjing and the paper ￥37.00
+@11:22
+>Zhongnanhai bought by Lichongbin ￥25.00
+@18:29
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Relax day
+
+## Daily
+Morning, I wake up late at about 10:00am, then I rest for the morning, watching the Xiaohongshu all the morning, and then I ate the instant noodles bought last day, and then afternoon, 
+I do the AV job and others. Noon Lichong bin said that we would order for something to eat, so I ate the instant noodles and then he cooked lunch, shit!!!
+Night I clean the desktop and planned to went bed early...
 
 
 
