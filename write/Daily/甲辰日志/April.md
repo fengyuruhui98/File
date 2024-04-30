@@ -549,7 +549,199 @@ Morning, I wake up late at about 10:00am, then I rest for the morning, watching 
 I do the AV job and others. Noon Lichong bin said that we would order for something to eat, so I ate the instant noodles and then he cooked lunch, shit!!!
 Night I clean the desktop and planned to went bed early...
 
+# 22:30 Mon, Apr 22, 2024
 
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+>Baozi ￥10:00
+@09:40
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Relax day
+
+## Daily
+
+# 22:30 Tue, Apr 23, 2024
+
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+>Jinqiao ￥20.00
+@15:09
+>Jinqiao and snack ￥32.00
+@15:11
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Relax day
+
+## Daily
+
+# 22:30 Wed, Apr 24, 2024
+
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+>Luyuanwai ￥11.00
+@09:25
+>lunch at the canteen ￥28.00
+@11:54
+>Mixuebingcheng ￥8.00
+@15:25
+>Xiaolongxia ￥70.00
+@15:36
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Xiangguan
+
+## Daily
+
+# 22:30 Thu, Apr 25, 2024
+
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+>eleme Yangguofu ￥33.04
+@11:55
+>cola ￥8.00
+@12:44
+>Mom's mobile fee ￥20.00
+@13:02
+>Jinqiao ￥20.00
+@21:39
+>Lanzhouniuroumian ￥23.00
+@21:40
+>lighter ￥2.00
+@22:01
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Relax day
+
+## Daily
+
+# 22:30 Fri, Apr 26, 2024
+
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+>eleme Ziyanbaiweiji ￥28.60
+@12:51
+>Zhongnanhai ￥25.00
+@16:15
+>instant noodles and others ￥26.90
+@16:26
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Relax day
+
+## Daily
+
+# 22:30 Sat, Apr 27, 2024
+
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+>china people's insurence ￥6.39
+@10:35
+>Luyuanwai ￥48.00
+@11:27
+>Guoba ￥10.00
+@11:27
+>Mixuebingcheng ￥26.00
+@11:49
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Back home
+
+## Daily
+
+# 22:30 Sun, Apr 28, 2024
+
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+>Hulatang at wangdian ￥13.65
+@06:34
+>Hulatang at wangdian bought for Mom ￥15.70
+@06:47
+>jingdongbaitiao ￥306.19
+@09:23
+>Tudoufen ￥52.00
+@18:27
+>Shaobing ￥2.00
+@18:40
+>Suxiaojiuxinwan bought for dad ￥38.60
+@19:04
+>apple and others bought by Dad ￥18.00
+@19:05
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Relax day
+
+## Daily
+
+# 22:30 Mon, Apr 29, 2024
+
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Relax day
+
+## Daily
+
+# 22:30 Tue, Apr 30, 2024
+
+## PE E---￥62.00 O---￥1115.83 In: None Cost: ￥1177.83
+>hair cut ￥10.00
+@17:09
+>Suyan ￥22.00
+@17:14
+
+## PDCA
+### PEL
+>N---￥-284.79
+>E---￥-1214.85
+>O---￥-2544.60
+
+## Schedule 
+Relax day
+
+## Daily
 
 
 
