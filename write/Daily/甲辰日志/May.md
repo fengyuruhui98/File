@@ -37,7 +37,7 @@ Then I went to pay for a card.
 Night we went to the Huimianwang, the Huimain there was good, only its really slowly...
 Night Dad said that I would went to Zhumadian tomorrow for the bridge...
 
-# 21:59 Wed, May 1, 2024
+# 21:59 Thu, May 2, 2024
 
 ## PE  In: None Cost: None
 
@@ -59,3 +59,63 @@ Then we went back, I didn't know when and where Zdd bought a durian, and when I 
 Deeply, it turned into Guoyongjun's words, you will get nothing from those you wish to get help from. 
 All the pride and prejudice will come to you when your sites is bellow those people. 
 Connected to the example of Gaochanghe who recalled me of my colledge life, I strongly want to do something to change my position....
+
+
+# 21:59 Fri, May 3, 2024
+
+## PE N---￥12.90 In: None Cost: ￥12.90
+>Tudou and others bought at wangdian ￥12.90
+@09:26
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+home day
+
+## Daily
+Morning, we ate the breakfast and then we went to Wangdian bought for the Tudou for the xiaolongxia, dad bought some xiaolongxia at Dabo, then we went back, noon, we washed the Xiaolongxia and Sis cooked it.
+After lunch, we planned to went to the Zhiwuyuan with Liuyifan, however, I slept until 15:30pm, then I stayed home, and Sis went to Liuyifan's with the xiaolongxia.... 
+
+# 21:59 Sat, May 4, 2024
+
+## PE  In: None Cost: None
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+ahead Chuzhou
+
+## Daily
+Morning, we ate the breakfast with the Hulatang and Qiancengbing. Then Mom and Dad and Sis and Little sharp sharp went to the Caiyuan, I stayed home, noon, Liuyifan and aunt and greandpa came, we ate together, then we rest for a little, afternoon at about 16:06, we left home.
+On the road we talked a lot about Gaochanghe, and Zhengpeng called me, he said that there was a girl came from Queshan, was gentle, and he likes her...
+he also talked about Songyu and Guanrongyan, said that Guanrongyan didn't have boy friend... form her brother who played well with him. Now he was at Zhongguorenshou at the Shouhou...
+He also talked about Zhengdaokuo, said that he came home with his girl...
+Then we talked with Xiaonagu all the way, she said that the girl name Wangziyan got to the Yanjiusheng...
+And I got connection with aunt on wechat... she would send me some clothes later.
+
+# 21:59 Sun, May 5, 2024
+
+## PE  In: None Cost: None
+>Dongbei shaokao ￥94.00
+@00:40
+>Wanbaolu ￥25.00
+@00:47
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Gaochanghe's big day
+
+## Daily
