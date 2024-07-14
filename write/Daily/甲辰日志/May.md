@@ -116,6 +116,447 @@ And I got connection with aunt on wechat... she would send me some clothes later
 >O---￥200.00
 
 ## Schedule 
-Gaochanghe's big day
+Study day
 
 ## Daily
+Morning, I got up at about 9:30am, and then I went to ate breakfast and then I went ahead the Library of Chuzhou.
+I studyed there for about 2 hours and then I ordered the foods frm Hualaishi and then I went back to the library and stayed there until 17:30pm, then when I back home, I began to clean the music...
+Lazy day.
+
+# 23:53 Mon, May 6, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+Morning, I got up at about 9:30am, and then I got the call from Wumin, then I worked all the morning and then noon, we ate at home. Afternoon, we worked all the noon, and then we went to buy some foods, and I didn't study all the day, night, I played the game with Wuxiaodao and Xiaolulu...
+
+# 23:53 Tue, May 7, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Wed, May 8, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Thu, May 9, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Fri, May 9, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Sat, May 10, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+Morning, I made a dream, that I stood on a street, then I was going to made a speech after a bro, we three all.
+I made the speech about 
+
+
+# 23:53 Sat, May 11, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Sun, May 12, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Mon, May 13, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Tue, May 14, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Wed, May 15, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Thu, May 16, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Fri, May 17, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+# 23:53 Sat, May 18, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Sun, May 19, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Mon, May 20, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Tue, May 21, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Wed, May 22, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+## Daily
+
+# 23:53 Thu, May 23, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Fri, May 24, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Sat, May 25, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Sun, May 26, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Mon, May 27, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Tue, May 28, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Wed, May 29, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+
+# 23:53 Thu, May 30, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work and lazy day
+
+## Daily
+Morning, I got up late 
+
+# 23:53 Fri, May 31, 2024
+
+## PE  In: None Cost: None
+
+
+## PDCA
+### PEL
+>N---￥447.10
+>E---￥298.20
+>O---￥200.00
+
+## Schedule 
+Work day
+
+## Daily
+Morning, I got up not too 
