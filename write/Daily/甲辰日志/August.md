@@ -547,3 +547,29 @@ Morning, I got up late and couldn't catch the bus, so I went to Shounan by taxi.
 work day 
 
 ## Daily
+
+
+
+# 19:32 Tue, Agu 30, 2024
+
+## PE N---￥ In: None Cost: ￥
+>Huabei ￥876.09
+@13:29
+
+## PA
+>A---
+>B---M,
+>C---Y
+>D---
+>E---Y
+
+## PEL
+>N---￥
+>E---￥
+>O---￥
+
+## Schedule
+work day 
+
+## Daily
+It's a story overwhelmed with regret. I dreamed about WT again, we sited behind the table at a room looks like classroom. I hold her hands, and really happy that I got her back and I hold her hands so tightly that like she would gone.... My face gentlely touched her arms, and when I headed up I could see the face I droped in really nearby.... then The dream went through. Sorrow and regret was all I got.
