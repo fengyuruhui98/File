@@ -47,3 +47,32 @@ Library day
 ## Daily
 Morning, I got up late at about 10:10am, then I cooked two eggs for breakfast and then I releaxed and cooked lunch, I went ahead for the library. For just caught the train, it costed me about half an hour to got the Library, then I study all the afternoon, and then I went back and cooked dinner, night I watched the game between NIP and JDG for LPL, then I studyed the words and the math, then I took a shower and watched the game for Byren Muchan.
 I talked with Wangyanzi, she seemed really disintrested anout me... 
+
+# 20:34 Mon, Sep 2, 2024
+
+## PE E---￥4.00 In: None Cost: ￥4.00
+>Cola ￥4.00
+@18:55
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥449.10
+>E---￥292.00
+>O---￥100.00
+
+## Schedule
+Work day 
+
+## Daily
+Morning, I got up late again for last night I slept too late.
+I felt really unhapy about Wangyanzi, and then I got much better for that motion and happyness I got from back that we should never made ourself feel bad.
+At afternoon, I studyed a little and felt really sleppy and then I slept until 16:30pm. Then Wangyanzi sended me message which made me much happy, then night I studyed the math... Zhangyu is good.
+PS:I made the plan that call CHN tomorrow, gold bless me for having a good love.
