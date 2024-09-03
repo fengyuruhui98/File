@@ -76,3 +76,49 @@ Morning, I got up late again for last night I slept too late.
 I felt really unhapy about Wangyanzi, and then I got much better for that motion and happyness I got from back that we should never made ourself feel bad.
 At afternoon, I studyed a little and felt really sleppy and then I slept until 16:30pm. Then Wangyanzi sended me message which made me much happy, then night I studyed the math... Zhangyu is good.
 PS:I made the plan that call CHN tomorrow, gold bless me for having a good love.
+
+# 22:54 Tue, Sep 3, 2024
+
+## PE N---￥96.32 E---￥8.00 In: None Cost: ￥104.32
+>foods ￥94.32
+- Toothpaste ￥5.50
+- Piaorou Shampoo ￥9.90
+- chicken meat ￥37.74
+- potato ￥2.92
+- Pumpkin ￥3.35
+- chilli ￥5.03
+- coin ￥9.57
+- sweet potato ￥6.19
+- eggs ￥13.82
+- package ￥0.30
+@12:24
+>cola ￥4.00
+@17:38
+>Little friutes ￥2.00
+@17:41
+>water ￥4.00
+@19:08
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥352.78
+>E---￥284.00
+>O---￥100.00
+
+## Schedule
+Work day, weight 82.2kg
+
+## Daily
+Morning, I got up late and got the call from Ningbo 4, and I called Yangjiaming and he told me that he would went to the station and the tools that I used to got the log would be sended to him later.
+When I got up, Wuxiaodao had cooked the breakfast and we ate, then I start to study and I gave my little pad to Wuxiaodao for the study, and sended him some file.
+Afternoon, we went outside and I found that I got only 1kg less than last time a week ago...
+After we ate the dinner, I drive the cycle with Wuxiaodao ahead the Jinpeng99, for exercise. On the road I called CHN while she didn't accept...
+Night I got the message and call her. She seemed like that happy so she became cute, of course she reject my idea that I would pay a visit to her at the Mid-Autumn festival...
