@@ -122,3 +122,33 @@ When I got up, Wuxiaodao had cooked the breakfast and we ate, then I start to st
 Afternoon, we went outside and I found that I got only 1kg less than last time a week ago...
 After we ate the dinner, I drive the cycle with Wuxiaodao ahead the Jinpeng99, for exercise. On the road I called CHN while she didn't accept...
 Night I got the message and call her. She seemed like that happy so she became cute, of course she reject my idea that I would pay a visit to her at the Mid-Autumn festival...
+
+# 22:17 Wed, Sep 4, 2024
+
+## PE E---￥257.00 O---￥30.93 In: None Cost: ￥287.93
+>Pad cover ￥30.93
+@11:21
+>Zhongnanhai ￥255.00
+@11:56
+>cola ￥4.00
+@20:01
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥352.78
+>E---￥27.00
+>O---￥69.07
+
+## Schedule
+study day, ride for about 9.89km
+
+## Daily
+Morning, I wake up late at about 10:00am, then Wuxiaodao had cooked the breakfast, then like yesterday, I studyed some time, Lichongbin bought some green trees. Then we ate the lunch and watched the Direnjie and then we studyed the afternoon, then I received the call from Yangjiaming told me that the work was delayed and then I called Sis and thought if I can invite Zhangzi came to Hanghou but I decided not to do. Night Wuxiaodao and I ride far and after we back we studyed...
