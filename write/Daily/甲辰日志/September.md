@@ -152,3 +152,37 @@ study day, ride for about 9.89km
 
 ## Daily
 Morning, I wake up late at about 10:00am, then Wuxiaodao had cooked the breakfast, then like yesterday, I studyed some time, Lichongbin bought some green trees. Then we ate the lunch and watched the Direnjie and then we studyed the afternoon, then I received the call from Yangjiaming told me that the work was delayed and then I called Sis and thought if I can invite Zhangzi came to Hanghou but I decided not to do. Night Wuxiaodao and I ride far and after we back we studyed...
+
+# 21:36 Thu, Sep 5, 2024
+
+## PE N---44.00 E---￥5.85 In: None Cost: ￥49.85
+>Yuanqisenlin ￥5.85
+@18:02
+>Duck foods ￥44.00
+@19:20
+
+## PA
+>A---N
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥352.78
+>E---￥27.00
+>O---￥69.07
+
+## Schedule
+Ahead Hangzhou, weight 80.60kg
+
+## Daily
+Morning, I got up late at about 10:00am, Mom called me said that she was so painful.
+I was full of unhappy from Mom, when she feel bad, she called me, and I feel bad while she felt better...
+Then we ate the lunch and the Shentandirenjie was really good, and then I ordered the ticket ahead Hangzhou. After I found that the apply was passed, I ordered the ticket transform at Nanjing start from 15:19pm.
+CHN was her wemon's day today, she talked me a lot asked me to help her to do the search for the broadcasting.
+And she said that may be some day not far, she would lend me about 1000....
+When I arrived Hangzhou afternoon, I lost my way while Zhaokang sended me messages...
+Night, after the exercise for about 400Kcal, 5.33kil, 40min, I ordered the duck foods...
