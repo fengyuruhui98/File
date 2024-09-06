@@ -186,3 +186,43 @@ CHN was her wemon's day today, she talked me a lot asked me to help her to do th
 And she said that may be some day not far, she would lend me about 1000....
 When I arrived Hangzhou afternoon, I lost my way while Zhaokang sended me messages...
 Night, after the exercise for about 400Kcal, 5.33kil, 40min, I ordered the duck foods...
+
+# 22:42 Fri, Sep 6, 2024
+
+## PE N---103.98 E---￥6.00 In: None Cost: ￥109.98
+>rail way from Hotel to Qibao ￥2.00
+@10:16
+>Eleme Xianxianghoufu ￥56.78
+@10:16
+>Yuanjiyunjiao at Qibao ￥19.00
+@11:51
+>railway from Qibao back to hotel ￥2.00
+@13:15
+>Yuanqisenlin ￥6.00
+@13:25
+>Eleme Qingshi ￥24.20
+@19:14
+
+## PA
+>A---N
+>B---Y
+>C---Y
+>D---N
+>E---N
+>F---Y
+>G---N
+
+## PEL
+>N---￥248.80
+>E---￥21.00
+>O---￥69.07
+
+## Schedule
+Work at Hangzhou, weight 80.55kg
+
+## Daily
+Morning, I got up late at about 9:37am, all I got in my head was Wangchuran in "Liuzhouji" named Liumiantang, last night, I watched the 17-40 series....
+Then I went to work and ate Yuanjiyunjiao at Qibao, then I went back and slept all the afternon. And Zhaokang called me.
+On my way back to hotel, I met a girl looks like WangChuran a lot, she reminds me of Yuanxiaoqing, sadness came so soon...
+Night Wuxiaodao came at about 22:00pm, then I studyed little and we planned to outside exercise tomorrow...
+
