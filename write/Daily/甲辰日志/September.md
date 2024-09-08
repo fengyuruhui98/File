@@ -226,3 +226,83 @@ Then I went to work and ate Yuanjiyunjiao at Qibao, then I went back and slept a
 On my way back to hotel, I met a girl looks like WangChuran a lot, she reminds me of Yuanxiaoqing, sadness came so soon...
 Night Wuxiaodao came at about 22:00pm, then I studyed little and we planned to outside exercise tomorrow...
 
+# 22:30 Sat, Sep 7, 2024
+
+## PE N---37.40 E---￥93.00 In: None Cost: ￥130.40
+>Sandwitch at Rosen ￥20.40
+@11:34
+>Bus from Hangzhou to Haining￥3.00
+@12:53
+>water bought at Haining ￥10.00
+@16:07
+>Bycycle at Haining ￥1.00
+@16:11
+>Bus from Haining back to Hangzhou ￥3.00
+@16:13 
+>AiNiuguo selfhelp hotpot ￥93.00
+@20:53
+
+## PA
+>A---N
+>B---Y
+>C---Y
+>D---N
+>E---N
+>F---Y
+>G---N
+
+## PEL
+>N---￥211.40
+>E---￥-72.00
+>O---￥69.07
+
+## Schedule
+Haining to watch the wave of Qiantangjiang, weight 81.65kg
+
+## Daily
+Morning, We got up at about 9:00am and then we ate breakfast at the canteen at Quanji, and then we stayed home and studyed until 11:00, then we went to the RawSon and bought the sandwitches and milk, then we went ahead the Haining, we got the bus station at about 11:00am, then we wait the bus of Jiudao-Changan Zhuanxian for about an hour...
+When we passed the China Jiliang university, there was crown of cars, then we saw that the new students came for the new term, and we saw them reminded me my first year in university... There was so many students.
+When we got the bus station, we came down before the Laoyancang station, then we walked a lot and got the Huitouchao and the river, then we rearlized that there was on building. Then we road to another place, when I got there while Wuxiaodao went to tolite, the old man at stop ground told me that it's over...
+Then we went back costed about one and half an hour.
+Night after we went back to the hotel, we decided to ate the self help beef hotpot, then I ate so much and drinked so much.
+Then we went back, took the shower and washed the clothes and then Lichongbin called me for the time of Chuzhou line.
+Then we went bad, Night at about 1:53, Lichongbin called me for that he was drunk...
+
+PS:CHN exam today, Huangjianzhang was at Haiyan.
+
+# 22:36 Sun, Sep 8, 2024
+
+## PE N---70.80 E---￥27.00 In: None Cost: ￥97.80
+>Zhongnanhai ￥27.00
+@11:14
+>lunch at Rawson ￥40.80
+@14:06
+>water of Molilongjing ￥6.00
+@17:39
+>Chashugu paigu soup ￥18.00
+@18:31
+>Maiding at Shaxianxiaochi ￥6.00
+@18:47
+
+## PA
+>A---N
+>B---Y
+>C---Y
+>D---N
+>E---N
+>F---N
+>G---N
+
+## PEL
+>N---￥140.60
+>E---￥-99.00
+>O---￥69.07
+
+## Schedule
+Walking at Xihu for a cycle. 34000steps
+
+## Daily
+Morning, we got up at about 9:00am, then we went to ate breakfast and then we went ahead the west lake.
+We got Wuzhong square first and then we went from Liulangwenying to Liulangwenying.
+We walked and walked, ate at rawson, I plan to buy some little package for Zhangzi but found that the package was so little, and then we walked the circle.
+We met a lot beautiful girls and photoed for two, one of then came from Zhengzhou. Then we went back and ate at Shaxianxiaochi at HangzhouDong.
