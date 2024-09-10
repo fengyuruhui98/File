@@ -306,3 +306,90 @@ Morning, we got up at about 9:00am, then we went to ate breakfast and then we we
 We got Wuzhong square first and then we went from Liulangwenying to Liulangwenying.
 We walked and walked, ate at rawson, I plan to buy some little package for Zhangzi but found that the package was so little, and then we walked the circle.
 We met a lot beautiful girls and photoed for two, one of then came from Zhengzhou. Then we went back and ate at Shaxianxiaochi at HangzhouDong.
+
+# 22:36 Mon, Sep 9, 2024
+
+## PE N---90.00 In: None Cost: ￥90.00
+>foods for live ￥65.00
+@17:16
+>hair cut ￥25.00
+@19:53
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥50.60
+>E---￥-99.00
+>O---￥69.07
+
+## Schedule
+Study day, brillint dream, talked with Zhangzi
+
+## Daily
+Last night, I dreamed of Loutianyu, with the transform from her to Harry Kane, there was some small bugs, one of them left some clue lead me and Loutianyu came to a darkness plain, then only things I could see was the stars and the lights from fire, so little one. Then there was big cat suddently came out and shoot the bug to death, and the bug trying to express something to me, I cried to Loutianyu "come on, come on Kane!", then she turned into Kane. Then I woke up from the dream.
+Afternoon, I went to get my hair cut, and I was hesitated if I should perm my hair. Then the night came, I started my chat with Zhangzi, we talked so much and so long that when she ended the chat, I realized that it's tomorrow. Then Wuxiaodao and I talked all the clothes I may use this sunday when I would met her. So happy and perturb.
+
+Last night, I dreamed of Loutianyu, with the *transformation* from her to Harry Kane. There *were* some small bugs, one of them *which left a clue that led me and Loutianyu to a dark plain.*  *The* only things I could see *were* the stars and the lights from *a* fire, so little one. Then there was *a* big cat *suddenly* came out and *shot* the bug to death, while the bug was trying to express something to me. I cried to Loutianyu, "Come on, come on Kane!" and then she turned into Kane. Then I woke up from the dream.
+
+Afternoon, I went to get my hair cut, and I hesitated if I should perm my hair. Then the night came, I started chatting with Zhangzi. We talked so much and for so long that when she ended the chat, I realized that it's already tomorrow. Then Wuxiaodao and I talked about all the clothes I may use this Sunday when I would meet her. I'm so happy and perturbed.
+
+# 23:30 Tue, Sep 10, 2024
+
+## PE N---5.00 E---￥29.00 O---￥262.74 In: None Cost: ￥296.74
+>Shirt inside ￥37.89
+@00:01
+>T-shirt ￥79.00
+@00:05
+>leather boots ￥78.59
+@00:16
+>MiGu VIP ￥25.00
+@00:20
+>Vegetable at the door ￥5.00
+@17:41
+>Cola ￥4.00
+@17:45
+>Hair band for Zz ￥67.26
+@20:08
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥135.60
+>E---￥-128.00
+>O---￥-193.67
+
+## Schedule
+Study day, weight 80.20kg
+
+## Daily
+Morning, I got up late at about 9:30am, then I started the study day. For lunch and dinner, we ate healthy. Afternoon, we went to buy some vegetables, after that, and after dinner, we watched the game between CHN and Saudi Arabia. CHN lose the game...
+Night, I studyed a lot, and bought the hair band for Zhangzi, the only problem was that I'm not sure when the package would arrive.
+I made some plans and rehearsals also, about the topics I would talk with Zhangzi. The plans and the rehearsals are as fellow:
+1.Topic about travel.
+2.Topic about lonlyness when lived alone st Shanghai. And tell her that I will be there any time.
+3.Open eyes, be slow down, choose the afternoon, with coffee and dinner and walk her home.
+4.Some day, may be next week, when I will be at Hangzhou, send her a really mail.
+5.Make a plan tomorrow, and send to her.  
+
+Morning, I got up late at about 9:30 am, then I started the study day. For lunch and dinner, we ate healthy. In the afternoon, we went to buy some vegetables. After that, and after dinner, we watched the game between CHN and Saudi Arabia. CHN lost the game...
+At night, I studied a lot and bought a hair band for Zhangzi. The only problem was that I'm not sure when the package would arrive.
+I made some plans and rehearsals as well, about the topics I would talk about with Zhangzi. The plans and rehearsals are as follows:
+1. Topic about travel.
+2. Topic about loneliness when living alone in Shanghai. And tell her that I will be there anytime.
+3. Open eyes, slow down, choose the afternoon, have coffee and dinner, and walk her home.
+4. Some day, maybe next week, when I will be in Hangzhou, send her a real mail.
+5. Make a plan for Sunday and send it to her.
