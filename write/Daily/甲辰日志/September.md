@@ -393,3 +393,412 @@ I made some plans and rehearsals as well, about the topics I would talk about wi
 3. Open eyes, slow down, choose the afternoon, have coffee and dinner, and walk her home.
 4. Some day, maybe next week, when I will be in Hangzhou, send her a real mail.
 5. Make a plan for Sunday and send it to her.
+
+# 20:29 Wed, Sep 11, 2024
+
+## PE N---71.50 In: None Cost: ￥71.50
+>Mom's mobile fee ￥20.00
+@13:02
+>Train from chuzhou to shanghai ￥51.50
+@21:15
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥64.10
+>E---￥-128.00
+>O---￥-193.67
+
+## Schedule
+Work day, study day, make plan
+
+## Daily
+Morning, I got up late at about 9:30am, then I studied all the day. When the peace was broken, it was after the dinner, I started to looking for the resturants for Sunday. Then I chated with Zhangzi a lot, I sended her the photoes when I was in the glee club. She said I should recall the picture... I was so pleased as to lose my sense of measure.
+Then there was a crash from the center of Chuzhou. We went to deal with it, until tomorrow morning. I just slept for one or two hours...
+
+# 20:30 Thu, Sep 12, 2024
+
+## PE N---6.39 O---￥1000.00 In: None Cost: ￥1006.39
+>Borrowed to CHN ￥1000.00
+@08:37
+>China people's healthy insurence ￥6.39
+@10:31
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥57.71
+>E---￥-128.00
+>O---￥-1193.67
+
+## Schedule
+sleep day, back tomorrow
+
+## Daily
+Morning at about 8:30am, we went back from the Center. Then I went to sleep. When I got up, it's about 15:30pm, then Wuxiaodao got up, he said that the clothes has been delivered. I went to get it.
+Then I tried the clothes, not like what I thought it would be.
+Then night was just night. I readed the poem "Marion Bud Elegy"
+
+When man had ceased to utter his lament,
+A god then let me tell my tale of sorrow.
+
+
+WHAT hope of once more meeting is there now
+In the still-closed blossoms of this day?
+Both heaven and hell thrown open seest thou;
+What wav'ring thoughts within the bosom play
+No longer doubt! Descending from the sky,
+She lifts thee in her arms to realms on high.
+
+And thus thou into Paradise wert brought,
+As worthy of a pure and endless life;
+Nothing was left, no wish, no hope, no thought,
+Here was the boundary of thine inmost strife:
+And seeing one so fair, so glorified,
+The fount of yearning tears was straightway dried
+
+No motion stirr'd the day's revolving wheel,
+In their own front the minutes seem'd to go;
+The evening kiss, a true and binding seal,
+Ne'er changing till the morrow's sunlight glow.
+The hours resembled sisters as they went.
+Yet each one from another different.
+
+The last hour's kiss, so sadly sweet, effac'd
+A beauteous network of entwining love.
+Now on the threshold pause the feet, now haste.
+As though a flaming cherub bade them move;
+The unwilling eye the dark road wanders o'er,
+Backward it looks, but closed it sees the door
+
+And now within itself is closed this breast,
+As though it ne'er were open, and as though,
+Vying with ev'ry star, no moments blest
+Had, in its presence, felt a kindling glow;
+Sadness, reproach, repentance, weight of care,
+Hang heavy on it in the sultry air.
+
+Is not the world still left? The rocky steeps,
+Are they with holy shades no longer crown'd?
+Grows not the harvest ripe? No longer creeps
+The espalier by the stream,--the copse around?
+Doth not the wondrous arch of heaven still rise,
+Now rich in shape, now shapeless to the eyes?
+
+As, seraph-like, from out the dark clouds' chorus,
+With softness woven, graceful, light, and fair,
+Resembling Her, in the blue aether o'er us,
+A slender figure hovers in the air,--
+Thus didst thou see her joyously advance,
+The fairest of the fairest in the dance.
+
+Yet but a moment dost thou boldly dare
+To clasp an airy form instead of hers;
+Back to thine heart! thou'lt find it better there,
+For there in changeful guise her image stirs
+What erst was one, to many turneth fast,
+In thousand forms, each dearer than the last.
+
+As at the door, on meeting lingerd she,
+And step by step my faithful ardour bless'd,
+For the last kiss herself entreated me,
+And on my lips the last last kiss impress'd,--
+Thus clearly traced, the lov'd one's form we view,
+With flames engraven on a heart so true,--
+
+A heart that, firm as some embattled tower,
+Itself for her, her in itself reveres,
+For her rejoices in its lasting power,
+Conscious alone, when she herself appears;
+Feels itself freer in so sweet a thrall,
+And only beats to give her thanks in all.
+
+The power of loving, and all yearning sighs
+For love responsive were effaced and drown'd;
+While longing hope for joyous enterprise
+Was form'd, and rapid action straightway found;
+If love can e'er a loving one inspire,
+Most lovingly it gave me now its fire;
+
+The power of loving, and all yearning sighs
+For love responsive were effaced and drown'd;
+While longing hope for joyous enterprise
+Was form'd, and rapid action straightway found;
+If love can e'er a loving one inspire,
+Most lovingly it gave me now its fire;
+
+And 'twas through her!--an inward sorrow lay
+On soul and body, heavily oppress'd;
+To mournful phantoms was my sight a prey,
+In the drear void of a sad tortured breast;
+Now on the well-known threshold Hope hath smil'd,
+Herself appeareth in the sunlight mild.
+
+Unto the peace of God, which, as we read,
+Blesseth us more than reason e'er hath done,
+Love's happy peace would I compare indeed,
+When in the presence of the dearest one.
+There rests the heart, and there that sweetest thought,
+The thought of being hers, is check'd by nought.
+
+In the pure bosom doth a yearning float,
+Unto a holier, purer, unknown Being
+Its grateful aspiration to devote,
+The Ever-Nameless then unriddled seeing;
+We call it: piety!--such blest delight
+I feel a share in, when before her sight.
+
+Before her sight, as 'neath the sun's hot ray,
+Before her breath, as 'neath the spring's soft wind,
+In its deep wintry cavern melts away
+Self-love, so long in icy chains confin'd;
+No selfishness and no self-will are nigh,
+For at her advent they were forced to fly.
+
+It seems as though she said: "As hours pass by
+They spread before us life with kindly plan;
+Small knowledge did the yesterday supply,
+To know the morrow is conceal'd from man;
+And if the thought of evening made me start,
+The sun at setting gladden'd straight my heart.
+
+"Act, then, as I, and look, with joyous mind,
+The moment in the face; nor linger thou!
+Meet it with speed, so fraught with life, so kind
+In action, and in love so radiant now;
+Let all things be where thou art, childlike ever,
+Thus thoult be all, thus, thou'lt be vanquish'd never."
+
+Thou speakest well, methought, for as thy guide
+The moment's favour did a god assign,
+And each one feels himself when by thy side,
+Fate's fav'rite in a moment so divine;
+I tremble at thy look that bids me go,
+Why should I care such wisdom vast to know?
+
+Now am I far! And what would best befit
+The present minute? I could scarcely tell;
+Full many a rich possession offers it,
+These but offend, and I would fain repel.
+Yearnings unquenchable still drive me on,
+All counsel, save unbounded tears, is gone
+
+Flow on, flow on in never-ceasing course,
+Yet may ye never quench my inward fire!
+Within my bosom heaves a mighty force,
+Where death and life contend in combat dire.
+Medicines may serve the body's pangs to still;
+Nought but the spirit fails in strength of will,--
+
+Fails in conception; wherefore fails it so?
+A thousand times her image it portrays;
+Enchanting now, and now compell'd to go,
+Now indistinct, now clothed in purest rays!
+How could the smallest comfort here be flowing?
+The ebb and flood, the coming and the going!
+
+Leave me here now, my life's companions true!
+Leave me alone on rock, in moor and heath;
+But courage! open lies the world to you,
+The glorious heavens above, the earth beneath;
+Observe, investigate, with searching eyes,
+And nature will disclose her mysteries.
+
+To me is all, I to myself am lost,
+Who the immortals' fav'rite erst was thought;
+They, tempting, sent Pandoras to my cost,
+So rich in wealth, with danger far more fraught;
+They urged me to those lips, with rapture crown'd,
+Deserted me, and hurl'd me to the ground. 
+
+# 20:30 Fri, Sep 13, 2024
+
+## PE N---6.39 O---￥1000.00 In: None Cost: ￥1006.39
+>Borrowed to CHN ￥1000.00
+@08:37
+>China people's healthy insurence ￥6.39
+@10:31
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥57.71
+>E---￥-128.00
+>O---￥-1193.67
+
+## Schedule
+back shanghai
+
+## Daily
+Morning, I got up at about 4:30am, then Lichongbin sended me to the Chuzhou north station, and then, I readed the "Red stars shining in China", then I got the company, I went to Rawson first and then I got into the company, the Gucci was strong... I should get EDT, than EDP, then I worked and talked with them in company, I then went back and talked with Gao zong on the way.
+Night I slept at Sis. CHN called me, I didn't answer.
+
+# 20:51 Sat, Sep 14, 2024
+
+## PE N---6.39 O---￥1000.00 In: None Cost: ￥1006.39
+>Borrowed to CHN ￥1000.00
+@08:37
+>China people's healthy insurence ￥6.39
+@10:31
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥57.71
+>E---￥-128.00
+>O---￥-1193.67
+
+## Schedule
+Suzhou Changshu Yushan Eggle line. 34268 steps.
+
+## Daily
+Morning, we got up late at about 6:00am, then we went ahead, and we got the Changshu about two hours later. Then it was a hard trip.
+Night I sended Zhangzi message and we made the time and place of the date.
+CHN called me again, and I didn't got again. I decided to make a clean line with her, and I found myself fall in love with Zhangzi more and more, her smile and others, maybe it was about the outlook, maybe more... hope a wonderful day tomorrow...
+
+# 20:51 Sun, Sep 15, 2024
+
+## PE N---6.39 O---￥1000.00 In: None Cost: ￥1006.39
+>Borrowed to CHN ￥1000.00
+@08:37
+>China people's healthy insurence ￥6.39
+@10:31
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥57.71
+>E---￥-128.00
+>O---￥-1193.67
+
+## Schedule
+Date day with ZZ, big day
+
+## Daily
+Morning, we got up late and then we ate the lunch, then I went out at about 12:30am, then I got the Yinxiangtiandi, and I walked role and role, and then 
+
+# 20:51 Mon, Sep 16, 2024
+
+## PE N---6.39 O---￥1000.00 In: None Cost: ￥1006.39
+>Borrowed to CHN ￥1000.00
+@08:37
+>China people's healthy insurence ￥6.39
+@10:31
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥57.71
+>E---￥-128.00
+>O---￥-1193.67
+
+## Schedule
+Home day and Typhoon day
+
+## Daily
+Morning, we got up late and I cooked fish for lunch and the tomato beef for the dinner, we didn't go outside all day.
+I kept talking with ZZ on the wechat, I asked her for lunch and breakfast and dinner for many times, and she told me that she was angry and I press my apology and that I should change, cause I never met a girl like her, I found myself droped in and deeply down the upside...
+
+# 20:51 Tue, Sep 17, 2024
+
+## PE N---6.39 O---￥1000.00 In: None Cost: ￥1006.39
+>Borrowed to CHN ￥1000.00
+@08:37
+>China people's healthy insurence ￥6.39
+@10:31
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥57.71
+>E---￥-128.00
+>O---￥-1193.67
+
+## Schedule
+Home day and walk with ZZ at Xian
+
+## Daily
+Morning, we got up late at about 9:00am, and then for lunch, I cooked the tofo and the vegetables. Then at afternoon, while I started the soup Sis and Yange went to city walk. I went out two times for the foods and the drinks. Then I received the message that ZZ asked me to go outside for a walk, then I told Sis, and then I went outside, we met at the station, and I waited ZZ at 12 line, then we started the walk, I took some photoes and by the night, the light was so week that I didn't get much good photoes, and then we walked and talked a lot. Then we walked to the Yunzhongyu, on the road we talked, she said that the Yunzhongyu was familler to her that her ex took her there opten, with their friends. She said that the things is still there and the person had gone, she don't know if there would be the same man there with her years later.
+Then when we waited for the seat, she found that there was cave in my pockate, and I was crashed... I told her that I don't smoke, and then we ate the fish, she told me the soup from ex....
+Then we went back and I sended her back on 12 line, I went back also, and when I got Sis's, it was 12:00, and I do the photo job late at about 1:00pm.
+
+# 23:29 Wed, Sep 18, 2024
+
+## PE N---6.39 O---￥1000.00 In: None Cost: ￥1006.39
+>Borrowed to CHN ￥1000.00
+@08:37
+>China people's healthy insurence ￥6.39
+@10:31
+
+## PA
+>A---Y
+>B---Y
+>C---Y
+>D---N
+>E---Y
+>F---Y
+>G---N
+
+## PEL
+>N---￥57.71
+>E---￥-128.00
+>O---￥-1193.67
+
+## Schedule
+Back to Chuzhou, 77.5kg, first day do exercise with power
+
+## Daily
+Morning, I got up early at about 6:00am, then I went ahead the Shanghai station, and then I got there at about 8:20am, and I went to buy the foods and the drinks and then I left Shanghai.
+I sended the photoes took last night and she made no common... Then I got Chuzhou and decided that I would no more smoke any more, like I told ZZ I don't smoke.
+Then I ate the lunch Wuxiaodao cooked. Night, ZZ asked me for the photoes, and she didn't work over until then, I sended her the yourget...
+Huangjianzhang and I made the meeting this week.
+Tomorrow I would go to Ningbo...
