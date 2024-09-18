@@ -1,0 +1,2 @@
+1.Besides the Long river, and in front of the mountain, I would sing a song and told her that I want her to be my girl friend, and the river and the mountain would see and forever.
+2.Everyday, got her breakfast and knocked her for the lunch and dinner. 
